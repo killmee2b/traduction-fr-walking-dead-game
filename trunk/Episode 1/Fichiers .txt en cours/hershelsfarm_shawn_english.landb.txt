@@ -1,0 +1,114 @@
+hershelsfarm_shawn_english.landb
+------------------------------
+DUCK>{happyB} Cool! Je vais conduire le tracteur!
+DUCK>{happyC} Je suis le contremaître! [to shawn]Fait l'ascenseur avec ton dos, Shawn!
+LEE>{happyA} Comment tu fais, Duck ?
+>Regarder 
+DUCK>Ne les laissez pas me prendre!
+DUCK>Ils vont me manger!
+DUCK>LEE, AIDE MOI!
+DUCK>NON, S'IL VOUS PLAÎT NON!
+DUCK>AHH!
+DUCK>PAPA! A L'AIDE!
+SHAWN>[working, manual labor] Hey, Lee.
+Besoin d'un coup de main?
+>Hey.
+>Quitter
+LEE>{thinkingA} Je vais aller euhh ... parler aux autres.
+SHAWN>{HappyA} Comme tu veux, mec.
+LEE>Hey.
+SHAWN>{HappyB} Ça serait génial. {SadA} Si vous pouviez couper ces deux planches en deux, Ca irait plus vite.
+LEE>{happyA} Besoin d'un coup de main ?
+LEE>{happyA} Encore besoin d'un coup de main ?
+SHAWN>Ça serait génial.
+SHAWN>{HappyA} C'est bon. Peut-être que tu aller voir mon père dans la grange ?
+SHAWN>{SadA} Mon père ne sait pas à quel point la situation est dangereuse.
+LEE>{sadA} Non, il ne sait pas.
+SHAWN>{FearA} J'ai vu un mec à Atlanta tué un enfant. Un garçon. il lui a juste tiré dessus en plein visage.
+>Silence
+>Parfois, il s'agit de tuer ou être tué.
+LEE>{fearA} Fait chier.
+LEE>{thinkingA} Tu dois faire ce que tu peux pour survivre.
+LEE>{disgustA} Le garçon était un rodeur ?
+>Fait chier.
+>Tu dois faire ce que tu dois faire.
+>Le garçon était un rodeur ?
+SHAWN>{SadA} Non merde, fait chier.
+SHAWN>{fearA} Comme mettre un pistolet sur la tête de ce gamin et appuyer sur la gâchette ? {disgustA} Mec.
+SHAWN>{thinkingA} Je ne sais même pas. Soit il a attaqué le gars ou soit il a demandé de l'aide.
+SHAWN>{angryA} Tu ne vois pas les choses comme ça. {normalB} Ce n'est pas comme dans les films.
+SHAWN>{FearA} Il n'a pas hésité. Il a juste, a mis le canon de l'arme entre les yeux de ce gosse {sadB}et appuyé sur la gâchette.
+LEE>{normalD} Oh, euh...
+SHAWN>{sadA} As-tu eu à le faire ?
+LEE>{thinkingA} Faire quoi ?
+SHAWN>{thinkingB} Ouais. Ce n'est pas comme une poupée de chiffon ou une marionnette sans cordes. C'est lourd.
+LEE>{normalC} Ils ne tombent pas comme vous le pensez.
+SHAWN>{thinkingA} Tuer. Tu as eu à en tuer un ?
+LEE>{thinkingA} J'ai du en tué un.
+LEE>{disgustB} J'ai tromatisé une petite fille en faisant ça.
+LEE>Tu dois faire ce que tu dois faire.
+LEE>{normalD} Parfois, c'est tuer {angryA}ou être tué.
+>J'ai eu a à en tuer un.
+>J'ai tromatisé une petite fille en faisant ça.
+>
+SHAWN>{thinkingA} C'est cool, ne t'inquiète pas à ce sujet.
+SHAWN>{thinkingA} Je pouvais en tuer un, peut-être. {sadA} Il était loin.
+SHAWN>{fearB} Whoa, Je n'ai pas pu le faire.
+SHAWN>{sadA} Je suppose. {thinkingA} Je ne pense pas que j'aurais bien dormit après ça.
+SHAWN>{normalC} Et à propos de toi ? Comment vas ta famille ?
+SHAWN>{happyA} J'ai juste hâte à quand cette clôture sera terminé. {sadA} Papa veut juste garder la famille en toute sécurité et pense inviter des gens si la menace devient trop grande {thinkingA}Si il peux
+LEE>{normalC} Mon frère et mes parents sont à Macon, {sadA}J'épsère.
+LEE>{thinkingA} Je ne suis pas tout à fait sûr de l'endroit ou mon ex-femme est.
+LEE>{normalD} Je ne suis pas très proche de ma famille.
+>Mon frère et mes parents sont à Macon.
+>Je ne sait pas ou mon ex-femme est.
+>Je ne sait pas ou mon ex-femme est.
+>Je ne suis pas très proche de ma famille.
+SHAWN>{thinkingA} Oh mec, Je l'espère aussi. {fearA} Peut-être que ce n'est pas trop mauvais là-bas.
+SHAWN>[awkard ex-wife talk] {happyB} Ah. {thinkingB} Oh. {sadA} Ouais. Pour sûr.
+SHAWN>{thinkingA} Oh. Bien, ils n'étaient pas à Atlanta, hein ? {sadB} Donc, c'est une bonne chose.
+SHAWN>[filling awkward silence] {thinkingB} Bien, qui qu'ils soient, où qu'ils se trouvent, {happyB} J'éspère qu'ils vont bien.
+LEE>{normalD} Merci.
+SHAWN>{normalB} C'est probablement tout ce qu'il faut couper pour l'instant. Merci.
+SHAWN>{sadA} Peut-être que tu peux aider mon père dans la grange ?
+LEE>{happyA} J'aime travailler.
+LEE>{normalB} Je vais aller voir.
+LEE>Merde! Ils l'ont eu.
+LEE>Il est coincé sous le tracteur !
+LEE>Je doit enlever ce truc de lui!
+LEE>Ils arrivent sous la barrière!!!
+LEE>Shawn travaille toujours sur cette barrière.
+SHAWN>Ma jambe est coincée!
+SHAWN>Fait chier, c'est écrasé! Déplace ce truc !
+SHAWN>KENNY ! MERDE ! AIDE MOI !
+SHAWN>LEE, Aide moi s'il te plait!
+SHAWN>AIDEZ MOI! FUCK! AIDEZ MOI!
+SHAWN>ENLEVER LE DE MOI!
+LEE>Ont vas enlever ce truc de toi !
+SHAWN>Merde, Ils arrivent mec, ils arrivent!
+DUCK>[a bunch of panicked/trapped/I don't want to die sounds1]
+DUCK>[a bunch of panicked/trapped/I don't want to die sounds1]
+DUCK>[scream1]
+DUCK>[scream2]
+SHAWN>{normalC} Et à propos de toi ? Comment vas ta famille ?
+SHAWN>{happyA} J'ai juste hâte à quand cette clôture sera terminé. {sadA} Papa veut juste garder la famille en toute sécurité et pense inviter des gens si la menace devient trop grande {thinkingA}Si il peux
+>Parler à
+>Regarder
+>Parler à
+>Regarder
+>
+>
+>
+SHAWN>[pickup1] {sadA} Merci, J'apprécie.
+SHAWN>[pickup1] Quoi qu'il en soit, si vous voyez mon père, il pourrait vouloir un peu d'aide dans la grange.
+LEE>[pickup3] {sadA} Je suis désolé pour ton ami.
+LEE>[pickup3] {normalD} Et Shawn, merci encore pour le trajet.
+SHAWN>[pickup1] {happyA} Pas de problème, Lee. Ont allaient pas vous laissez derrière nous.
+SHAWN>[pickup1] Quoi qu'il en soit, si vous voyez mon père, il pourrait vouloir un peu d'aide dans la grange.
+SHAWN>{thinkingA} C'est cool, ne t'inquiète pas à ce sujet.
+SHAWN>[filling awkward silence] {thinkingB} Bien, qui qu'ils soient, où qu'ils se trouvent, {happyB} J'éspère qu'ils vont bien.
+LEE>{normalD} Merci.
+SHAWN>{HappyB} Ça serait génial. {SadA} Si vous pouviez couper ces deux planches en deux, Ca irait plus vite.
+LEE>{happyA} Besoin d'un coup de main?
+LEE>{happyA} Besoin d'un coup de main?
+LEE>{happyA} Encore besoin d'un coup de main?
