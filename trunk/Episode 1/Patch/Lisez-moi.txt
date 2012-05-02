@@ -1,0 +1,10 @@
+Copier les 3 fichiers dans le répertoire du jeu.
+
+Par défaut :
+C:\Program Files\The Walking Dead\Pack\default
+
+Attention, par mesure de sécurité, faites une sauvegarde de vos fichiers originaux.
+
+Pensez aussi à activer les sous-titres dans le jeu ;-)
+
+Traduction FR réalisée par Tikuf, KamiYoru, Natla

@@ -1,0 +1,562 @@
+1)  
+Nouvelle partie
+2)  
+Partie 1
+3)  
+Partie 2
+4)  
+Partie 3
+5)  
+SELECT
+6)  
+RETOUR
+7)  
+AUDIO
+8)  
+GRAPHISMES
+9)  
+JOUABILITE
+10)  
+PARAMETRES
+33)  
+PARAMETRES
+11)  
+PARAMETRES AUDIO
+12)  
+VOIX
+13)  
+MUSIQUE
+14)  
+SON
+15)  
+PARAMETRES GRAPHISMES
+16)  
+OK
+17)  
+AFTEREFFECTS
+18)  
+ON
+19)  
+OFF
+20)  
+FAIBLE
+21)  
+MOYEN
+22)  
+HAUT
+23)  
+QUALITE GRAPHISME
+24)  
+TRES HAUT
+25)  
+ANTI-ALIASING
+26)  
+PLEIN ECRAN
+27)  
+QUALITE OMBRES
+28)  
+QUALITE TEXTURES
+29)  
+RESOLUTION
+30)  
+GAMMA
+31)  
+JOUER
+52)  
+JOUER
+32)  
+DEMO
+34)  
+QUITTER
+35)  
+CONTINUER
+36)  
+REJOUER EPISODE
+37)  
+EPISODE 1: A NEW DAY
+38)  
+EPISODE 2: STARVED FOR HELP
+39)  
+EPISODE 3: LONG ROAD AHEAD
+40)  
+EPISODE 4: AROUND EVERY CORNER
+41)  
+EPISODE 5: NO TIME LEFT
+42)  
+SUCCES
+237)  
+SUCCES
+43)  
+AIDE & OPTIONS
+44)  
+DEBLOQUER EPISODE 1
+246)  
+DEBLOQUER EPISODE 1
+45)  
+TELECHARGER CONTENU
+46)  
+REPRENDRE JEU
+47)  
+SAUVER
+48)  
+MENU PRINCIPAL
+49)  
+CONTROLES
+50)  
+COMMENT JOUER
+51)  
+CREDITS
+53)  
+ACTION
+54)  
+PAUSE
+55)  
+ACTIONS
+56)  
+BOUGER
+RETICULE
+57)  
+BOUGER
+PERSONNAGE
+58)  
+EPISODE 1
+59)  
+Partie 1
+60)  
+Episode 1
+61)  
+Partie 2
+62)  
+Episode 2
+63)  
+Episode 3
+64)  
+Episode 4
+65)  
+Episode 5
+66)  
+COPIER
+219)  
+COPIER
+67)  
+SUPPRIMER
+68)  
+A NEW DAY
+69)  
+STARVED FOR HELP
+70)  
+OH GOD, MY FACE
+71)  
+PAWS HOGG MEOWS AGAIN
+72)  
+THE BANANG CONTINGENCY
+73)  
+Disponible!
+74)  
+Installé
+75)  
+Acheté
+76)  
+ACHETER
+77)  
+OBTENIR
+105)  
+OBTENIR
+78)  
+SUPPRIMER
+79)  
+Bientôt disponible
+80)  
+SERIES OVERVIEW
+81)  
+Je ne peux pas faire ça, Jim.
+82)  
+Ok
+83)  
+Ne fais pas ça Jim
+84)  
+EDITER EPISODES
+85)  
+Vous devez débloquer la version intégrale de The Walking Dead en achetant le premier épisode avant de pouvoir acheter le contenu additionnel.
+86)  
+Oui
+87)  
+Non
+88)  
+Attention : cette action est irréversible ! Etes-vous sûr de vouloir supprimer cette sauvegarde ?
+89)  
+Attention : faire la copie va écraser la sauvegarde existante. Etes-vous sûr de vouloir continuer ?
+90)  
+LONG ROAD AHEAD
+91)  
+AROUND EVERY CORNER
+92)  
+NO TIME LEFT
+93)  
+La progression est sauvegardée à chaque fois que cet indicateur est affiché. Ne pas se déconnecter ou éteindre votre console tant que l'icone est affichée à l'écran.
+94)  
+REWIND
+95)  
+Checkpoint A
+96)  
+Checkpoint B
+97)  
+Checkpoint C
+98)  
+En chargeant ce checkpoint, vous allez supprimer toute la progression existante future à ce checkpoint. Etes-vous sûr de continuer ?
+99)  
+STATS
+100)  
+How to play text.
+101)  
+Paramètres Jouabilité
+102)  
+PARAMETRES JOUABILITE
+103)  
+SOUS-TITRES
+104)  
+POINTS
+106)  
+Téléchargement
+107)  
+Connexion au Xbox Live
+108)  
+Connexion ...
+109)  
+Vous avez déjà acheté cet épisode. Pour télécharger, aller sur votre accueil Xbox, dans vos paramètres et enfin dans votre historique de téléchargement.
+110)  
+MONTRER SELECTIONS
+111)  
+QUITTER LE JEU
+112)  
+Erreur lors de l'achat. Vérifiez votre connexion réseau et réessayez.
+113)  
+Impossible de se connecter au serveur.
+114)  
+Erreur lors du téléchargement. Vérifiez votre connexion réseau et réessayez.
+115)  
+101 DECISION 1 TITLE
+116)  
+102 DECISION 1 TITLE
+117)  
+103 DECISION 1 TITLE
+118)  
+104 DECISION 1 TITLE
+119)  
+105 DECISION 1 TITLE
+120)  
+101 DECISION 2 TITLE
+121)  
+102 DECISION 2 TITLE
+122)  
+103 DECISION 2 TITLE
+123)  
+104 DECISION 2 TITLE
+124)  
+105 DECISION 2 TITLE
+125)  
+101 DECISION 3 TITLE
+126)  
+102 DECISION 3 TITLE
+127)  
+103 DECISION 3 TITLE
+128)  
+104 DECISION 3 TITLE
+129)  
+105 DECISION 3 TITLE
+130)  
+101 DECISION 4 TITLE
+131)  
+102 DECISION 4 TITLE
+132)  
+103 DECISION 4 TITLE
+133)  
+104 DECISION 4 TITLE
+134)  
+105 DECISION 4 TITLE
+135)  
+101 DECISION 5 TITLE
+136)  
+102 DECISION 5 TITLE
+137)  
+103 DECISION 5 TITLE
+138)  
+104 DECISION 5 TITLE
+139)  
+105 DECISION 5 TITLE
+140)  
+101 DECISION 1 DESC
+141)  
+102 DECISION 1 DESC
+142)  
+103 DECISION 1 DESC
+143)  
+104 DECISION 1 DESC
+144)  
+105 DECISION 1 DESC
+145)  
+101 DECISION 2 DESC
+146)  
+102 DECISION 2 DESC
+147)  
+103 DECISION 2 DESC
+148)  
+104 DECISION 2 DESC
+149)  
+105 DECISION 2 DESC
+150)  
+101 DECISION 3 DESC
+151)  
+102 DECISION 3 DESC
+152)  
+103 DECISION 3 DESC
+153)  
+104 DECISION 3 DESC
+154)  
+105 DECISION 3 DESC
+155)  
+101 DECISION 4 DESC
+156)  
+102 DECISION 4 DESC
+157)  
+103 DECISION 4 DESC
+158)  
+104 DECISION 4 DESC
+159)  
+105 DECISION 4 DESC
+160)  
+101 DECISION 5 DESC
+161)  
+102 DECISION 5 DESC
+162)  
+103 DECISION 5 DESC
+163)  
+104 DECISION 5 DESC
+164)  
+105 DECISION 5 DESC
+165)  
+101 DECISION 1 RESULT 1
+166)  
+102 DECISION 1 RESULT 1
+167)  
+103 DECISION 1 RESULT 1
+168)  
+104 DECISION 1 RESULT 1
+169)  
+105 DECISION 1 RESULT 1
+170)  
+101 DECISION 1 RESULT 2
+171)  
+102 DECISION 1 RESULT 2
+172)  
+103 DECISION 1 RESULT 2
+173)  
+104 DECISION 1 RESULT 2
+174)  
+105 DECISION 1 RESULT 2
+175)  
+101 DECISION 2 RESULT 1
+176)  
+102 DECISION 2 RESULT 1
+177)  
+103 DECISION 2 RESULT 1
+178)  
+104 DECISION 2 RESULT 1
+179)  
+105 DECISION 2 RESULT 1
+180)  
+101 DECISION 2 RESULT 2
+181)  
+102 DECISION 2 RESULT 2
+182)  
+103 DECISION 2 RESULT 2
+183)  
+104 DECISION 2 RESULT 2
+184)  
+105 DECISION 2 RESULT 2
+185)  
+101 DECISION 3 RESULT 1
+186)  
+102 DECISION 3 RESULT 1
+187)  
+103 DECISION 3 RESULT 1
+188)  
+104 DECISION 3 RESULT 1
+189)  
+105 DECISION 3 RESULT 1
+190)  
+101 DECISION 3 RESULT 2
+191)  
+102 DECISION 3 RESULT 2
+192)  
+103 DECISION 3 RESULT 2
+193)  
+104 DECISION 3 RESULT 2
+194)  
+105 DECISION 3 RESULT 2
+195)  
+101 DECISION 4 RESULT 1
+196)  
+102 DECISION 4 RESULT 1
+197)  
+103 DECISION 4 RESULT 1
+198)  
+104 DECISION 4 RESULT 1
+199)  
+105 DECISION 4 RESULT 1
+200)  
+101 DECISION 4 RESULT 2
+201)  
+102 DECISION 4 RESULT 2
+202)  
+103 DECISION 4 RESULT 2
+203)  
+104 DECISION 4 RESULT 2
+204)  
+105 DECISION 4 RESULT 2
+205)  
+101 DECISION 5 RESULT 1
+206)  
+102 DECISION 5 RESULT 1
+207)  
+103 DECISION 5 RESULT 1
+208)  
+104 DECISION 5 RESULT 1
+209)  
+105 DECISION 5 RESULT 1
+210)  
+101 DECISION 5 RESULT 2
+211)  
+102 DECISION 5 RESULT 2
+212)  
+103 DECISION 5 RESULT 2
+213)  
+104 DECISION 5 RESULT 2
+214)  
+105 DECISION 5 RESULT 2
+215)  
+Vous et
+216)  
+de joueurs
+217)  
+Attention : Toute progression depuis votre dernier checkpoint va être perdue. Etes-vous sûr de vouloir continuer ?
+218)  
+ANNULER
+220)  
+BIENTOT DISPONIBLE
+221)  
+Toute progression depuis la dernière sauvegarde automatique sera perdue. Etes-vous sûr de vouloir quitter le jeu ?
+241)  
+Toute progression depuis la dernière sauvegarde automatique sera perdue. Etes-vous sûr de vouloir quitter le jeu ?
+222)  
+STANDARD:
+223)  
+MINIMAL:
+224)  
+Plus d'aide d'allusions et de retour d'information
+quand vous faites des choix importants.
+225)  
+Allusions et aide minimales.
+226)  
+CHOISIR UN STYLE D'AFFICHAGE
+227)  
+Utilisez          Pour bouger Lee et explorer le monde.
+
+          bougera le réticule et vous permettra d'intéragir avec les choses que vous voyez.
+
+Appuyer        ,        ,        , et        pour choisir les actions et réponses et occasionnellement décapiter un zombie.
+228)  
+NOTIFICATIONS HISTOIRE
+229)  
+RETICULE FACEBUTTONS
+230)  
+Vous devez être connecté à un profil pour accèder à cette fonctionnalité.
+256)  
+Vous devez être connecté à un profil pour accèder à cette fonctionnalité.
+231)  
+Vous devez avoir une connexion internet pour accèder à cette fonctionnalité.
+232)  
+ACHETER UN PASS SAISON
+233)  
+SAISON ACHETEE
+234)  
+MONTRER BOUTONS MANETTE
+235)  
+TROPHEES
+236)  
+Rafraichissement du statut de l'épisode.
+238)  
+Les paramètres peuvent ensuite être modifiés depuis le menu Aide & Options.
+239)  
+Votre console ne peut se connecter au Xbox LIVE. Connectez-vous au Xbox LIVE pour accèder à cette fonctionnalité.
+240)  
+Vous devez être connecté sur le Playstation  Network pour accès à cette fonctionnalité.
+255)  
+Vous devez être connecté sur le Playstation  Network pour accès à cette fonctionnalité.
+242)  
+DETECTER SELECTIONS
+243)  
+Ce jeu s'adapte à vos choix, rembobiner supprimera toute progression au delà de ce checkpoint, mais conservera toutes les décisions faites avant ce checkpoint.
+
+Voulez-vous rembobiner jusqu'à ce checkpoint ?
+244)  
+Ce jeu s'adapte à vos choix.
+
+Rembobiner supprimera toute progression au delà de ce checkpoint, mais conservera toutes les décisions faites avant ce checkpoint.
+
+Voulez-vous rembobiner jusqu'à ce checkpoint ?
+245)  
+Rembobiner supprimera toute progression au delà de ce checkpoint, mais conservera toutes les décisions faites avant ce checkpoint.
+
+Voulez-vous rembobiner jusqu'à ce checkpoint ?
+247)  
+LUMINOSITE
+248)  
+AUDIOVISUEL
+249)  
+PARAMETRES AUDIOVISUELS
+250)  
+(Comprends un thème premium exclusif)
+251)  
+Enlève les allusions, l'aide 
+et les notifications de choix.
+252)  
+APPUYER SUR START
+253)  
+CLIQUER POUR CONTINUER
+254)  
+Online service is disabled on your PlayStation   Network account due to parental control restrictions.
+257)  
+Voulez-vous conserver cette résolution ? Les anciens paramètres vont être rétablis dans 10 secondes.
+258)  
+Les paramètres peuvent ensuite être modifiés depuis la catégorie Jouabilité.
+259)  
+APPUYER POUR COMMENCER
+260)  
+SENSIBILITE SOURIS
+261)  
+ACHETER JEU
+262)  
+Your Telltale account does not currently have a license for this game. Would you like to go to the Telltale Games website to purchase the game now?
+263)  
+The Telltale account you entered is not authorized to run this game. You may attempt to re-enter the login information for an account that owns the game, or visit the Telltale website to authorize this account by purchasing a copy.
+264)  
+Unable to establish a connection to the Telltale servers to verify the ownership status of this account. Please ensure that you have an active internet connection.
+265)  
+Re-enter Info
+266)  
+Visiter le site Web
+267)  
+Réessayer
+268)  
+Quitter vers l'écran de démarrage
+269)  
+Annuler
+270)  
+Erreur inconnue ! Redémarrez l'application et réessayez.
+271)  
+The content was downloaded, but an error occurred while trying to install it. Please restart the application and try again.
+272)  
+Connection lost while downloading data. Please ensure you have a working internet connection and re-attempt the download.
+273)  
+STATUT EPISODES

@@ -1,0 +1,601 @@
+1)  LEE
+{happyA}	C'est la cane de mon père. Il faisait des rondes avec de temps en temps.
+2)  CLEMENTINE
+{sadA}	Il était malade ?
+3)  CLEMENTINE
+{thinkingA}C'est quoi ?
+4)  CLEMENTINE
+{happyB}	Mon père me l'avait donné.
+5)  LEE
+{happyC}Tu vois, Mon père était malin comme ça.
+6)  LEE
+{happyC}En plus, il lui a donné de l'apparence. Comme toi, avec ton chapeau.
+7)  LEE
+{happyB}Nan, il n'était pas malade. Il a empêché un vol à l'étalage avec. Cette cane protégeait mieux cette endroit que tout chien de garde.
+8)  LEE
+[to himself] {sadA}Je ne peux pas... {thinkingA}Je ne peux pas penser à eux ici.
+9)  LEE
+[to himself]{thinkingA} Mes parents sont venus ici en pensant survivre...{fearA} Mais l'un d'eux a l'air d'avoir été blessé. Je me demande si c'était mon père. En essayant d'être le héros, peut être. {sadA}Ou pour la protéger, du moins.
+10)  LEE
+{normalB}	Heureusement, il n'y a rien dont j'ai besoin ici.
+11)  LEE
+{happyC}Il y a un pansement là-dedans, je parie.
+12)  CLEMENTINE
+{happyB}	Oh, bien.
+13)  LEE
+{normalB}Un kit de premiers soins.
+14)  LEE
+{happyB}Voulez vous retourner à la pharmacie avec moi ?
+15)  CLEMENTINE
+{happyB}	Ok.
+16)  CLEMENTINE
+{fearA}	Lee ?
+17)  CLEMENTINE
+{fearB}Tu n'es pas méchant, hein ?
+18)  LEE
+[like, 'yeah, what is it?'] Ouais ?
+19)  CLEMENTINE
+{fearB}	Cette femme à dit que tu avais tué quelqu'un.{sadA} Est-ce parce c'était une de ces choses qui essayent de nous manger ?
+20)  LEE
+{surpriseA}Je... {normalD}pourquoi me demande tu ça ?
+21)  
+Non. ça ne l'était pas.
+22)  
+C'est compliqué.
+23)  
+Ouais, c'était une de ces choses.
+24)  LEE
+{normalD}	Non. ça ne l'était pas. [Le mec que vous avez tué n'était pas un zombie]
+25)  LEE
+{normalC}	C'est compliqué. Des fois, des choses se passent où ... {normalD}vous faites des choses et vous ne pouvez pas les expliquer.
+26)  LEE
+{normalD}Ouais, c'était une de ces choses.
+27)  LEE
+[was he a bad guy?] {angryB}Oui ça l'était.
+28)  CLEMENTINE
+[distrusting] {fearB}Etait-il méchant ?
+29)  CLEMENTINE
+[small, timid]{sadA} Oh.
+30)  LEE
+{happyA}  Allons euh... retournons avec les autres.
+36)  LEE
+{happyA}  Allons euh... retournons avec les autres.
+303)  LEE
+{happyA}  Allons euh... retournons avec les autres.
+31)  LEE
+{happyA}C'est ça.
+32)  CLEMENTINE
+{fearB}	Et tu as eu à te protéger ?
+33)  CLEMENTINE
+Oh, ok.
+35)  CLEMENTINE
+[doesn't get an answer - distrusting] {sadA}Bien{thinkingA}... ne t'en fait pas. C'est rien.
+302)  CLEMENTINE
+[doesn't get an answer - distrusting] {sadA}Bien{thinkingA}... ne t'en fait pas. C'est rien.
+37)  CLEMENTINE
+{thinkingA}Lee ?
+38)  LEE
+{normalB}	Ouais ?
+39)  CLEMENTINE
+{fearA}Et si mes parents viennent chez moi et que je n'y suis pas ?
+40)  LEE
+{surpriseA}Ils euh... nous chercherons. {thinkingA}Ne t'en fait pas.
+41)  LEE
+{thinkingA}Je ne pense pas qu'ils y retournerons.
+42)  
+Il nous trouverons.
+43)  
+Je ne pense pas qu'ils y retournerons.
+44)  CLEMENTINE
+{sadA}Ouais. Ok. {thinkingA}Nous devons rester sur nos gardes.
+45)  LEE
+{happyA}Ils veulent que tu sois en sécurité. {happyB}Nous les trouverons si nous le pouvons.
+46)  CLEMENTINE
+J'ai mon talkie-walkie au cas où ils essayent.
+47)  CLEMENTINE
+[waiting for an answer]{ normalB}Lee ?
+48)  CLEMENTINE
+[waiting for an answer] {angryA}Je t'ai posé une question ...
+49)  LEE
+{thinkingA}	Je devrais parvenir à frayer un chemin pour ouvrir cette porte.
+50)  LEE
+{normalC}	Nous ferions mieux de rester là.
+51)  LEE
+[referring to his dad] {thinkingA}Je me demande combien de nuits il a passé à ce bureau. {sadA}Des milliers.
+52)  CLEMENTINE
+[a little grunt, pushing a heavy thing]{fearA}Pouah !
+53)  LEE
+{happyA}	C'est parti !{normalB}  Fait attention à tes doigts.
+54)  LEE
+{happyA}Bien sûr.
+55)  CLEMENTINE
+{happyB}	Je peux aider ?
+56)  LEE
+[to Clementine]{happyA} Ce serait mieux de désencombrer la porte, hein ?
+57)  
+Comment faites-vous ?
+58)  LEE
+Comment faites-vous ?
+59)  
+Comment faites-vous ?
+60)  
+Les choses sont effrayantes, hein ?
+61)  LEE
+{normalD}Les choses sont effrayante, hein ?
+62)  
+Tu n'as pas besoin de rien, c'est ça ?
+63)  LEE
+{thinkingA}Tu n'as pas besoin de rien, c'est ça ?
+64)  CLEMENTINE
+{sadA}Ce n'est pas bon.
+65)  LEE
+{thinkingA}	Non, ça ne l'est pas.
+66)  CLEMENTINE
+Mais je pense que ce sera bon.
+67)  CLEMENTINE
+{happyB}Ouais, ce n'est pas si lourd.
+68)  LEE
+Que penses-tu de tout ce qui ce passe dehors.
+69)  LEE
+{sadA}	Moi non plus, Clementine. {thinkingA}Personne ne l'a fait, je ne pense pas.
+70)  CLEMENTINE
+Ouais ...
+71)  CLEMENTINE
+{thinkingA}Je parie que mon père l'a fait.
+72)  CLEMENTINE
+{sadA}C'est pas bon. {fearA}Je ne sais pas pourquoi tout le monde est devenu fou.
+73)  LEE
+{thinkingB}Mais tu es cool?{happyA}
+74)  LEE
+{happyA}	Ok, c'est bon à savoir. Et tu n'as pas d'allergie ou autre chose que je devrais savoir, non ?{thinkingA} Les enfants n'ont pas d'allergie ou de l'asthme ou juste une maladie ?
+75)  CLEMENTINE
+Je pense.
+76)  CLEMENTINE
+{thinkingA}Mon ami Alfred est allergique aux cacahuètes.
+77)  CLEMENTINE
+{thinkingA}	Non. {sadA}J'ai très faim.
+78)  CLEMENTINE
+[pushing a heavy thing] Pouah !
+79)  CLEMENTINE
+[out of breath for]
+80)  LEE
+{happyA}	D'accord, un peu plus loin.
+81)  
+Parce qu'il sont morts.
+82)  
+J'espère que non. C'est juste compliqué.
+83)  CLEMENTINE
+[out of breath for a second]{thinkingA} Tu as des enfants ?
+84)  CLEMENTINE
+[pushing a heavy thing] {angryB}Ugh... grrr... ugh.
+85)  LEE
+{thinkingA}Ok, c'est parti.
+86)  CLEMENTINE
+{thinkingA}Tu n'as pas de famille ?
+87)  LEE
+{normalB}	Non.
+88)  
+Bougeons juste ce truc.
+89)  
+... Qu'est ce que tes parents faisaient ?
+90)  
+Ne parlons pas de ça. Tu fais du sport ?
+300)  LEE
+Ne parlons pas de ça. Tu fais du sport ?
+91)  CLEMENTINE
+{normalA}Comme euh... sciences humaines ?
+92)  LEE
+{happyA}	Ce sont de bons emplois.
+93)  LEE
+{happyA}Ouais, comme ça.
+94)  CLEMENTINE
+{normalD}	Ma mère est docteur et mon père un ingénieur.
+95)  CLEMENTINE
+{normalB}Quel est ton métier ?
+96)  CLEMENTINE
+{thinkingA}	Tu n'as pas répondu à ma question ...
+97)  LEE
+[changing the subject] {happyB}Qu'est ce que tes parents faisaient ?
+98)  LEE
+{thinkingA}	Je ... euh ... j'enseignais l'histoire {happyA}et j'écrivais et des trucs du genre.
+99)  CLEMENTINE
+{normalA}	Tu aimes le sport ?
+100)  CLEMENTINE
+{normalD}	Pourquoi ne veux tu pas parler de ta famille ?
+101)  CLEMENTINE
+Qu'est-ce ?
+102)  CLEMENTINE
+[digesting] Oh. {happyB} Chic !
+103)  LEE
+{happyB}	J'aime le football américain et je joue au squash avec un copain à moi.
+104)  CLEMENTINE
+{thinkingA}Je joue au foot, mais je n'aime pas vraiment ça.
+105)  LEE
+C'est comme le tennis à l'intérieur, sans filet.
+106)  LEE
+{happyA}	Je ne suis pas dingue de ça non plus.
+107)  CLEMENTINE
+[Short]{normalA}Oh. Ok. Je suis désolé.
+108)  LEE
+{normalD}	Bougeons juste ce truc.
+109)  LEE
+{happyA}	C'est bon.
+110)  CLEMENTINE
+{thinkingA}Pourquoi ne veux tu pas parler de ta famille ? {sadA}Est ce qu'ils ... te détestent ?
+111)  
+Je ne pourrais pas leur en vouloir.
+112)  CLEMENTINE
+Je suis désolé de t'y avoir fait penser.
+113)  LEE
+{sadB}	Parce qu'il sont morts.
+114)  LEE
+{happyA}	Tu ne savais pas.
+115)  CLEMENTINE
+[gasp]{fearA} Oh. Je suis désolé.
+116)  CLEMENTINE
+Pourquoi ?
+117)  CLEMENTINE
+{fearB}Mais tu les aimes, hein ?
+118)  LEE
+{thinkingA}	J'espere que non. C'est compliqué, c'est tout.
+119)  LEE
+{angryB}	C'est juste ça.
+120)  LEE
+{happyA}	Ouais, bien sûr.
+121)  LEE
+{normalD}}On ne s'est pas disputé. {sadB}Nous n'avions tout simplement pas parlé pendant un certain temps.
+122)  LEE
+{thinkingA}	Je ne pourrais pas leur en vouloir.
+123)  CLEMENTINE
+{fearB}	Pourquoi ? Tu tes disputé ?{sadB} Je me dispute avec ma mère des fois.
+124)  LEE
+{thinkingA}J'ai eu des problèmes et je ne leur ai pas parlé pendant un peu de temps.{sadA} Ceci était leur magasin.{happyA}  Mais ça reste entre toi et moi, ok ?
+125)  CLEMENTINE
+{sadA}	Ouais.
+126)  LEE
+C'est compris. [a beat] Maintenant bougeons ce truc.
+127)  LEE
+{angryA}Regarde,{sadA} ma famille est parti et {angryB}Je souhaitais juste que les choses soit différentes.
+128)  CLEMENTINE
+{thinkingA}Ok. A cause de tes ennuis ?
+129)  CLEMENTINE
+[getting your finger pinched ina  drawer, alt] {cryingB}AIE !
+130)  CLEMENTINE
+[getting your finger pinched in a drawer]{cryingB} OUCH !
+131)  CLEMENTINE
+[pushing a heavy thing] Ugh... grrr... ugh.
+132)  LEE
+[urgent, but not life threatening] {fearA}Tu vas bien ?
+133)  LEE
+Ca saigne ?
+134)  CLEMENTINE
+{fearB}	Un peu.
+135)  CLEMENTINE
+{fearA}Je me suis fait mal au doigt.
+136)  LEE
+{normalD}Je vais te trouver un bandage.
+137)  LEE
+{normalD}Il y a une photo ici.
+138)  CARLEY
+{thinkingA}	Tu as trouvé quelque chose ?
+212)  CARLEY
+{thinkingA}	Tu as trouvé quelque chose ?
+139)  LEE
+{thinkingA}C'est une photo de la famille qui était ici. {happyA}Ca peut nous aider à trouver les clés du bureau.
+216)  LEE
+{thinkingA}C'est une photo de la famille qui était ici. {happyA}Ca peut nous aider à trouver les clés du bureau.
+140)  LEE
+{angryA}Juste une photo de ceux qui étaient là.
+218)  LEE
+{angryA}Juste une photo de ceux qui étaient là.
+141)  LEE
+{normalC}	Non, rien.
+220)  LEE
+{normalC}	Non, rien.
+142)  
+...
+166)  
+...
+221)  
+...
+143)  
+Non, rien.
+219)  
+Non, rien.
+144)  
+Juste une photo.
+217)  
+Juste une photo.
+145)  
+C'est une photo de la famille qui était ici.
+215)  
+C'est une photo de la famille qui était ici.
+146)  CARLEY
+Laisse moi regarder.
+213)  CARLEY
+Laisse moi regarder.
+290)  CARLEY
+Laisse moi regarder.
+291)  CARLEY
+Laisse moi regarder.
+147)  LEE
+{thinkingA}	Je ne sais rien à ce sujet.
+214)  LEE
+{thinkingA}	Je ne sais rien à ce sujet.
+289)  LEE
+{thinkingA}	Je ne sais rien à ce sujet.
+292)  LEE
+{thinkingA}	Je ne sais rien à ce sujet.
+148)  CARLEY
+{thinkingA}	Je sais qui vous êtes.
+149)  CARLEY
+{angryA}Vous êtes Lee Everett. Vous êtes un professeur a Athens qui a tué le sénateur de l'État, qui dormait avec votre femme. [a beat, explaining how she knows this] C'est le magasin de vos parents; les gens des alentours connaissaient le fils du propriétaire condamné à perpétuité, mais je suis journaliste pour WABE à Atlanta.
+150)  CARLEY
+J'ai prêté attention à ce procès. Vous êtes peut être un meurtrier. Mais je m'en fiche un peu. Franchement, c'est une compétence qui pourrait être utile.
+151)  LEE
+{thinkingA}	Hmmph. [disregarding]
+226)  LEE
+{thinkingA}	Hmmph. [disregarding]
+152)  CARLEY
+Avez-vous dit à quelqu'un en dehors d'ici qui vous êtes, ou que vous avez été lié à cet endroit ?
+153)  LEE
+{thinkingA}Non. {normalC}J'ai changé mon nom pour une raison.
+228)  LEE
+{thinkingA}Non. {normalC}J'ai changé mon nom pour une raison.
+154)  CARLEY
+Bien.
+225)  CARLEY
+Bien.
+305)  CARLEY
+Bien.
+155)  CARLEY
+Vous semblez être un bon gars, et la dernière chose dont nous avons besoin, c'est un drame. Vous avez cette petite fille dont vous devez prendre soin, et... [her eyes drift to Clementine, she's thinking about what would happen if Lee was in fact a bad guy] regarde, ne me faites pas avoir tort sur ce point.
+156)  LEE
+{angryA}Je n'en ai pas l'intention.
+229)  LEE
+{angryA}Je n'en ai pas l'intention.
+157)  CARLEY
+Bien. Parce que si cela dure plus longtemps que quelques jours et que vous portez préjudice pour le groupe, alors nous aurons un problème.
+227)  CARLEY
+Bien. Parce que si cela dure plus longtemps que quelques jours et que vous portez préjudice pour le groupe, alors nous aurons un problème.
+158)  LEE
+{angryB}	Je vous ai entendu.
+232)  LEE
+{angryB}	Je vous ai entendu.
+159)  CARLEY
+Je vais juste le garder pour moi.
+230)  CARLEY
+Je vais juste le garder pour moi.
+160)  LEE
+{happyA}	Merci.
+235)  LEE
+{happyA}	Merci.
+161)  LEE
+{thinkingB}Comment puis-je vous faire confiance ?
+239)  LEE
+{thinkingB}Comment puis-je vous faire confiance ?
+162)  LEE
+{angryA}	Je ne vous fais pas confiance.
+242)  LEE
+{angryA}	Je ne vous fais pas confiance.
+163)  
+Merci.
+234)  
+Merci.
+164)  
+Comment puis-je vous faire confiance ?
+237)  
+Comment puis-je vous faire confiance ?
+165)  
+Je ne vous fais pas confiance.
+240)  
+Je ne vous fais pas confiance.
+167)  CARLEY
+{happyC}	Ne vous en faite pas pour ça.
+236)  CARLEY
+{happyC}	Ne vous en faite pas pour ça.
+168)  CARLEY
+{normalB}Vous ne pouvez pas, {thinkingB}je suppose. {happyC}Mais vous n'avez pas beaucoup d'autres options.
+238)  CARLEY
+{normalB}Vous ne pouvez pas, {thinkingB}je suppose. {happyC}Mais vous n'avez pas beaucoup d'autres options.
+169)  CARLEY
+{thinkingA}Bien, vous devriez essayer.
+170)  LEE
+{normalB}	Cette porte mène à la ruelle à l'arrière.
+171)  LEE
+{thinkingA}	Je ferais mieux de ne pas y aller.
+172)  
+Verrouillé et barricadé
+173)  
+Barricadé, ne veux pas dire que c'est verrouillé
+174)  LEE
+{thinkingA}C'est la porte de la pharmacie, nous devrions être en mesure de trouver des pilules pour Larry là-dedans.
+176)  LEE
+{thinkingA}Nous devrions dégager cette porte pour quand nous trouverons les clés.
+178)  LEE
+{thinkingA}	C'est verrouillé, nous avons besoin de retrouver les clés si nous voulons aider Larry
+179)  LEE
+{thinkingA}	Les clés sont sur ce zombie dans la rue.
+181)  LILLY
+[pickup1]On doit faire vite!
+182)  LEE
+J'ai les clés
+183)  LEE
+{angryC}Ah, merde.
+184)  LILLY
+Oh non.
+185)  LEE
+{happyA} Ah, d'accord.
+186)  LEE
+[to himself]{happyC} Il y a un kit de premiers soins ici.
+187)  CLEMENTINE
+{fearA} Lee, mon doigt me fait toujours mal.
+188)  LEE
+{thinkingA}	Je ferais mieux d'aller là-bas.
+190)  
+Photo
+191)  
+Lit
+192)  
+Bureau
+193)  
+Sortie
+198)  
+Sortie
+194)  
+Pharmacie
+195)  
+Fenêtre
+196)  
+abc
+197)  
+abc
+199)  
+Allée
+200)  LEE
+{happyB}	Comment faites-vous ?
+201)  LEE
+{fearA}Ca saigne ?
+202)  CLEMENTINE
+[pickup1]J'ai mon talkie-walkie au cas où ils essaient cette voie.
+203)  CLEMENTINE
+{sadB}Je suis désolé de t'y avoir fait penser.
+204)  CLEMENTINE
+{thinkingA}
+	Pourquoi ?
+205)  
+Pallette
+206)  CLEMENTINE
+{normalA}	Qu'est ce que c'est ?
+207)  LEE
+[pickup1] Ca a valu un coup de feu. Les clés y sont, je suppose.
+208)  LEE
+[pickup1] [to clementine] Reste près de moi, ok ?
+209)  
+Placard
+210)  
+Kit de premiers soins
+211)  
+Porte de la pharmacie
+222)  CARLEY
+Avez-vous dit à quelqu'un en dehors d'ici qui vous êtes, ou que vous avez été lié à cet endroit ?
+223)  CARLEY
+Vous semblez être un bon gars, et la dernière chose dont nous avons besoin, c'est un drame. Vous avez cette petite fille dont vous devez prendre soin, et... [her eyes drift to Clementine, she's thinking about what would happen if Lee was in fact a bad guy] regarde, ne me faites pas avoir tort sur ce point.
+224)  CARLEY
+J'ai prêté attention à ce procès. Vous êtes peut être un meurtrier. Mais je m'en fiche un peu. Franchement, c'est une compétence qui pourrait être utile.
+231)  CARLEY
+{angryA}Vous êtes Lee Everett. Vous êtes un professeur a Athens qui a tué le sénateur de l'État, qui dormait avec votre femme. [a beat, explaining how she knows this] C'est le magasin de vos parents; les gens des alentours connaissaient le fils du propriétaire condamné à perpétuité, mais je suis journaliste pour WABE à Atlanta.
+233)  CARLEY
+{thinkingA}	Je sais qui vous êtes.
+241)  CARLEY
+{thinkingA}Bien, devriez essayer alors.
+243)  
+Regarder
+244)  
+Regarder
+246)  
+Regarder
+284)  
+Regarder
+287)  
+Regarder
+245)  
+Prendre
+247)  
+Chercher
+299)  
+Chercher
+248)  
+Ouvrir
+298)  
+Ouvrir
+249)  
+Utilisez hâche
+250)  
+Examiner
+251)  
+Examiner
+252)  
+Bouger
+253)  LEE
+[pickup3] C'est la télécommande de mon père.
+254)  LEE
+[pickup3] Papa m'a dit qu'il avait acheté la télévision pour regarder le baseball ici, mais je l'ai surpris en regardant "ses histoires" plus que d'une fois.
+255)  LEE
+[pickup3] C'est ce que je pensais.
+256)  LEE
+[pickup3] C'est la télévision de papa.
+257)  LEE
+[pickup3] Papa gardait cette télécommande pour cette chose présente ici quelque part.
+258)  
+[Remain Silent]
+274)  
+[Remain Silent]
+259)  
+Non.
+260)  
+Qu'est-ce que ça peut vous faire ?
+261)  
+C'est l'apocalypse. Qui s'en soucie ?
+262)  CARLEY
+[pickup1] A MOI? Je ne suis pas celle qui a un dossier judiciaire.
+263)  LEE
+[pickup3] Qu'est-ce que ça peut vous faire?
+264)  CARLEY
+[pickup1] Si vous pensez que les gens ne trouverons aucune raison de se retourner contre vous, surtout quand ça va dégénérer, vous êtes fou.
+265)  LEE
+[pickup3] C'est la fin du monde. Qui se soucie de qui je suis ?
+266)  LEE
+[pickup3] Quelle que soit la raison.
+267)  CARLEY
+[pickup1] Pour votre bien, j'espère que la réponse est non.
+293)  CARLEY
+[pickup1] Pour votre bien, j'espère que la réponse est non.
+268)  
+J'ai eu des problèmes, mais gardons ça pour nous.
+269)  
+Je ne suis pas mauvais.
+270)  
+J'ai ... tué quelqu'un.
+271)  LEE
+[pickup3] Je peux relier.
+272)  LEE
+[pickup3] Je ne suis pas mauvais, ok? Des choses se sont produites et nous n'en n'avons pas parlé après.
+273)  CLEMENTINE
+[pickup1] Mes parents ne m'ont pas parlé quand j'avais des problèmes.
+275)  CLEMENTINE
+[pickup1] Et que s'est-il passé ?
+276)  LEE
+[pickup3] Je... J'ai... tu....  Je me suis battu une fois.
+277)  LEE
+[pickup3] Et ça s'est mal terminé. Après ça, je n'étais pas autorisé à parler à ma famille.
+278)  CLEMENTINE
+[pickup1] C'est si triste ...
+279)  LEE
+[pickup3] Bougeons ce truc.
+280)  LEE
+[pickup3] Ouais, faisons le.
+295)  LEE
+[pickup3] Ouais, faisons le.
+296)  LEE
+[pickup3] Ouais, faisons le.
+281)  CLEMENTINE
+[pickup1][confused at lee's silence] Je crois que nous avons fini de déplacer le bureau, hein ?
+294)  CLEMENTINE
+[pickup1][confused at lee's silence] Je crois que nous avons fini de déplacer le bureau, hein ?
+297)  CLEMENTINE
+[pickup1][confused at lee's silence] Je crois que nous avons fini de déplacer le bureau, hein ?
+282)  
+Télécommande
+283)  
+TV
+285)  
+Ramasser
+286)  
+Allumer
+288)  
+Tiroir
+301)  
+Doigt
+304)  GLENN
+Hey, j'ai juste bougé tous ces trucs hors de du chemin.  Allons là-bas!

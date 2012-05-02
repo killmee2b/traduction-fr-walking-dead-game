@@ -1,0 +1,105 @@
+1)  LEE
+{NormalA}{body-A}{DisgustA}{body-F}Salut.
+2)  CLEMENTINE
+{NormalA}[shy] Coucou.
+4)  LEE
+{NormalD}{body-F}Des nouvelles de Glenn ?
+5)  CLEMENTINE
+{sadA}Rien. {FearA}Il va bien ?
+6)  LEE
+{normalD}Ouais, je pense. {thinkingB}Tu fais du bon boulot.
+7)  
+Topic in sequence
+28)  
+Topic in sequence
+8)  
+Je peux faire quelque chose ?
+9)  
+Nous devrions apprendre à nous connaître un peu plus.
+10)  LEE
+{ThinkingB}{body-F}Je peux faire quelque chose?
+11)  CLEMENTINE
+{NormalC}Je vais bien.
+12)  CLEMENTINE
+{thinkingA}Je commence peut-être à avoir un peu faim.
+13)  LEE
+{ThinkingA}Encore, euh?
+14)  CLEMENTINE
+[embarassed] {sadC}Ouais, ce n'était pas beaucoup.
+15)  LEE
+{thinkingA} Je sais Clem. {thinkingB}Je vais voir si je trouve quelque chose d'autre pour toi.
+16)  LEE
+{thinkingA}Je vais voir ça.
+17)  LEE
+{ThinkingB}{Body-f}Bon... euh...
+18)  CLEMENTINE
+{thinkingA}Tu vas bien ?
+19)  LEE
+{SurpriseA}Quoi ?? {HappyB}Euh, ouais, ouais, je, je vais bien. J'ai juste... euh,{thinkingA}[has no idea how to make conversation with a little girl] je vais bien.
+20)  CLEMENTINE
+{NormalD}Tant mieux.
+21)  LEE
+{sadA}Ouais, je crois. [awkward, again, no idea how to make convo with little girl] {thinkingA}Aller bien c'est... euh, bien. {NormalD}En dépit des circonstances.
+22)  CLEMENTINE
+{thinkingA}{normalD}Ouais.
+23)  
+Sortie
+24)  LEE
+{SadA}{Body-F}Bon, ne bouge pas.
+25)  CLEMENTINE
+{NormalC}OK.
+26)  LEE
+{SadA}{Body-F}Dis-moi si tu veux quelque chose.
+27)  CLEMENTINE
+{NormalB}OK.
+29)  Comment va ton doigt ?
+30)  
+Je sais que je ne suis pas ton père.
+31)  LEE
+{SadA}{Body-F}Comment va ton doigt , Clem?
+32)  CLEMENTINE
+{normalB}Bien. {HappyA}Ca me fait déjà moins mal.
+33)  LEE
+{HappyA}Bien.
+34)  LEE
+{SadC}{Body-F}Je sais que je ne suis pas ton père... mais {SadB}si tu as besoin de quelque chose. Je suis ton homme, OK ?
+35)  CLEMENTINE
+{sadB}OK. Pareil.
+36)  LEE
+{happyA}Tu es mon homme ?
+37)  CLEMENTINE
+[embarrassed] {thinkingA}Oh... non. {HappyA}Tu sais...
+38)  LEE
+{happyA}On va essayer de prendre soin l'un de l'autre.
+39)  CLEMENTINE
+[agreeing] {HappyB}Oui. Ca marche.
+40)  LEE
+Pas de nouvelles de Glenn ?
+41)  CLEMENTINE
+Nan.
+42)  LEE
+{SadA}{body-F}Tout va bien?
+43)  CLEMENTINE
+Mmhmm.
+44)  LEE
+{SadA}{Body-F}C'est pas grand chose, {HappyA}mais voilà, Clem.
+45)  CLEMENTINE
+{NormalC}Merci.
+46)  LEE
+{HappyA}C'est normal.
+47)  
+An
+48)  Des nouvelles de Glenn ?
+49)  Désolé pour ta radio.
+50)  LEE
+{NormalC}Peut-être qu'on en trouvera une autre {ThinkingA}Ou quelque chose ...
+51)  LEE
+{SadB}{body-F}Je suis désolé pour ta radio.
+52)  CLEMENTINE
+[upset/angry but saying she's not] {angryB}C'est rien.
+53)  CLEMENTINE
+[upset/angry]{angryB} Ouais. Peut-être.
+54)  
+Parler à
+55)  
+Donner nourriture à

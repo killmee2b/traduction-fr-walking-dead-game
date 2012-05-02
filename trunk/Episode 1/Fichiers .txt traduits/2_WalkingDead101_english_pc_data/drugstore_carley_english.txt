@@ -1,0 +1,262 @@
+1)  LEE
+{NormalB}{body-A}Hey Carley.
+2)  LEE
+{NormalB}{body-A}Hey là.
+3)  CARLEY
+{ThinkingA}{body-StandA}Faut pas faire chier une journaliste {HappyA}tout spécialement une qui est à trois jours de sa dernière tasse de café.
+4)  LEE
+{HappyA}{body-E}Tu es une sacrée bonne tireuse.
+6)  CARLEY
+{NormalB}{Body-StandA}C'est ça. {ThinkingA}Toi ?
+7)  LEE
+{SadA}{body-C}Tu es prête a partir ?
+8)  LEE
+{ThinkingA}{body-B}Ouais. [let's go]
+9)  LEE
+{ThinkingB}{body-A}Dans une minute.
+10)  CARLEY
+{NormalC}Allons-y.
+11)  CARLEY
+{HappyA}OK, tiens moi au courant.
+12)  
+Sortie
+14)  
+Sujet en ordre
+15)  LEE
+{HappyA}{body-E}Tu sembles savoir bien te débrouiller.
+16)  LEE
+{ThinkingA}{body-A}Comment as-tu atterri ici ?
+17)  CARLEY
+{SadA}C'était une conne, mais, {SadB}bon voilà.
+18)  LEE
+{HappyB}{body-E}Je ne peux pas te dire.
+19)  CARLEY
+{HappyA}{Body-StandA}Ah, vraiment ? Je suis un véritable désastre.
+20)  LEE
+{SadA}{body-C}Ouais.
+21)  LEE
+{SadB}{body-C}Je suis désolé.
+22)  CARLEY
+{SadA}Ma rédactrice s'est faite bouffée à 3 métres de moi, et {FearA}j'aurais pu l'aider s'il n'y avait pas{SadA} autant de ces saloperies.
+23)  
+Tu te débrouilles bien.
+24)  
+Ce gars t'a sauvée ?
+25)  LEE
+{DisgustB}{body-C}Ce gars t'a sauvée ?
+26)  LEE
+{HappyA}{body-C}On ne peut jamais savoir qui fera preuve d'héroïsme, je suppose.
+27)  LEE
+{SurpriseA}{body-B}Hein ?
+28)  CARLEY
+{HappyA}Il est plutôt mignon, {ThinkingA} même s'il vit dans la sorte de cave de ses parents.
+29)  CARLEY
+{HappyB}{body-B}Ouais, est-ce que tu peux croire ça ? {FearA}Ces rôdeurs, ou-ou goules ou {AngryB}peu importe ce qu'ils sont, ils nous ont tiré hors de notre van et ce gars là {FearA}Doug, {HappyA}est venu à notre secours.
+30)  CARLEY
+{FearA}Hein ? {HappyA}Oh... rien.
+31)  CARLEY
+{ThinkingB}Bien.
+32)  CARLEY
+{HappyA}Tu es d'ici ?
+33)  CARLEY
+{NormalC}{Body-StandB}Nous sommes venus pour couvrir le festival Cherry Blossom. {ThinkingA}Un sujet passionnant ...
+34)  LEE
+{FearA}{body-C}Non, pas vraiment.
+35)  CARLEY
+{ThinkingA}Hmm, c'est vrai.
+36)  LEE
+{HappyA}{body-A}Ca a l'air de valoir le coup.
+37)  LEE
+{NormalA}{body-E}Athens.
+38)  LEE
+{ThinkingB}{body-B}Je ferais mieux d'y retourner.
+39)  CARLEY
+{NormalB}Ouais.
+40)  CARLEY
+{HappyB}C'est vrai. {ThinkingB}Bah, jusqu'à ce que quelques merdes politiciennes réduisent notre financement, {ThinkingA}parce que j'ai tapé dans la blogosphère.
+41)  3L. LEE
+Merci.
+42)  CARLEY
+{SadA}{Body-StandA}Ouais, j'ai du matériel d'enregistrement merdique et {HappyA} vu d'ici, il ne va pas y avoir de pénurie de témoignages de première main.
+43)  LEE
+{ThinkingA}{body-E}Tu fais de la radio ?
+44)  CARLEY
+Fais pas attention. Rappelle-toi juste ce que j'ai dit.
+45)  LEE
+Ouais, je le ferais.
+46)  LEE
+{NormalD}{body-E}L'article du siècle, hein ?
+48)  
+L'article du siècle, hein ?
+66)  
+L'article du siècle, hein ?
+68)  
+L'article du siècle, hein ?
+49)  LEE
+{NormalD}{body-A}Merci.
+50)  CARLEY
+{NormalA}{body-StandA}appele-toi {AngryA} Rappelle-toi juste ce que j'ai dit.
+51)  LEE
+{HappyA}{body-E}Ouais, je le ferais.
+52)  CARLEY
+{ThinkingA}Tu es sûr que la petite n'en a pas besoin ?
+128)  CARLEY
+{ThinkingA}Tu es sûr que la petite n'en a pas besoin ?
+53)  LEE
+{HappyA}{body-A}De rien.
+131)  LEE
+{HappyA}{body-A}De rien.
+54)  CARLEY
+{ThinkingB}{Body-StandA}Oh, euh, merci.
+130)  CARLEY
+{ThinkingB}{Body-StandA}Oh, euh, merci.
+55)  LEE
+{NormalB}{body-A}Tiens, J'ai trouvé quelques trucs à manger.
+129)  LEE
+{NormalB}{body-A}Tiens, J'ai trouvé quelques trucs à manger.
+56)  LEE
+{NormalD}{body-B}Merci.
+132)  LEE
+{NormalD}{body-B}Merci.
+57)  LEE
+{NormalD}{body-A}Elle va bien.{SadA} J'ai essayé de la garder nourrie et hydratée.
+133)  LEE
+{NormalD}{body-A}Elle va bien.{SadA} J'ai essayé de la garder nourrie et hydratée.
+58)  CARLEY
+{HappyB}{Body-StandA}Tu es un bon protecteur.
+134)  CARLEY
+{HappyB}{Body-StandA}Tu es un bon protecteur.
+59)  CARLEY
+{HappyA}{Body-StandB}Ouais, donnes-lui. {ThinkingA}Je peux m'occuper de moi-même.
+135)  CARLEY
+{HappyA}{Body-StandB}Ouais, donnes-lui. {ThinkingA}Je peux m'occuper de moi-même.
+60)  LEE
+{HappyA}{body-B}OK.
+136)  LEE
+{HappyA}{body-B}OK.
+61)  LEE
+{NormalA}{body-A}Oh, euh, {ThinkingB}ouais, je suppose qu'elle peut.
+137)  LEE
+{NormalA}{body-A}Oh, euh, {ThinkingB}ouais, je suppose qu'elle peut.
+62)  LEE
+[pickup1] Je peux faire quelque chose pour toi, Carley?
+63)  CARLEY
+[pickup1] [DIstrusting] Ca va, merci.
+64)  
+Ouais.
+65)  
+Dans une minute.
+67)  
+Tu es prête à partir ?
+69)  
+Parler à
+70)  
+Donner nourriture à
+71)  
+Comment as-tu atteri ici ?
+72)  
+Tu travailles sur quoi ?
+74)  
+Tu vas bien ?
+75)  LEE
+[pickup3] Nan. [couldn't figure it out]
+76)  CARLEY
+[pickup1] Je ne comprends pas pourquoi, euh?
+77)  LEE
+[pickup3] Ouais, essaye.
+78)  CARLEY
+[pickup1] He, je continuerais d'essayer.
+79)  LEE
+[pickup3] Avec quoi tu t'amuses ?
+80)  CARLEY
+[pickup1] Une radio, mais je n'arrive pas à la faire fonctionner.
+81)  LEE
+[pickup3] Fais-moi voir.
+82)  LEE
+[pickup3] Je peux essayer d'en trouver. Il en faut deux.
+83)  CARLEY
+[pickup1] Ah ouais, enfin je veux dire, ouais. [a beat] Non.
+84)  LEE
+[pickup3] Tu sais qu'il n'y a pas de piles dans ce machin.
+85)  CARLEY
+[pickup1] Merci, je n'aurai même pas su ce qu'il falait chercher.
+86)  
+Je cherche des piles pour ta radio.
+87)  LEE
+[pickup3] Je cherche toujours des piles pour ce truc.
+88)  CARLEY
+[pickup1] Merci, j'apprécie.
+89)  LEE
+[pickup3] Laisse-moi regarder ce machin.
+119)  LEE
+[pickup3] Laisse-moi regarder ce machin.
+90)  LEE
+[pickup3] Ouais, ce ne sont pas les bonnes.
+91)  CARLEY
+[pickup1] Il en faut des plus grandes.
+92)  LEE
+[pickup3] J'ai trouvé cette télécommande dans le bureau, je suis presque sûr que les piles iront pour ta radio.
+93)  CARLEY
+[pickup1] Aller.
+120)  CARLEY
+[pickup1] Aller.
+94)  LEE
+[pickup3]
+95)  CARLEY
+[pickup1] [stern]Je vais bien.
+96)  LEE
+[pickup3] L'arrêt de l'émision n'indique rien de bon. Ca va ?
+97)  
+[Remain Silent]
+98)  
+Tu n'as pas besoin d'être ...
+99)  
+Vraiment ? Tout le monde est mort!
+100)  
+Bien.
+101)  LEE
+[pickup3] Tu n'as pas besoin d'être... c'est traumatisant.
+102)  CARLEY
+[pickup1] Je suis sûre que certaines personnes ont réussi à s'en sortir. Peut-être qu'elles ont été secourues. Ou peut-être pas ...
+103)  LEE
+[pickup3] Tu vas vraiment "bien" ? Tout tes collègues sont probablement morts.
+104)  CARLEY
+[pickup1] Tu crois que je ne le sais pas ?!? Bien sûr que je ne vais pas bien ! Bon sang, Lee. Laisse-moi seule.
+105)  LEE
+[pickup3] Très bien. On a pas besoin d'en parler.
+106)  CARLEY
+[pickup1] Merci. Il n'y a rien que je puisse faire maintenant de toute façon.
+107)  CARLEY
+[pickup1] [follow up, emotional] ... Ca va ... [sigh] Je vais bien.
+108)  CARLEY
+[pickup1] Qu'est-ce que tu veux ? Je t'ai dit de me laisser seule.
+110)  CARLEY
+[pickup1] Super, merci.
+111)  LEE
+[pickup3] Ces piles devraient aller dans ta radio.
+112)  LEE
+[pickup3] Je vais en chercher une autre.
+113)  CARLEY
+[pickup1] Ca devrait marcher maintenant.
+114)  LEE
+[pickup3] Et en voilà une autre.
+115)  
+Ca ne marche toujours pas ?
+116)  
+Montre-moi ça.
+117)  CARLEY
+[pickup1][frustrated] Non, je ne comprends pas.
+118)  LEE
+[pickup3] Ca ne marche toujours pas ?
+121)  
+Montrer la télécommande à
+122)  
+Donner les piles à
+124)  
+J'ai trouvé une pile.
+126)  
+J'ai trouvé une pile.
+125)  
+Voici une autre pile.
+127)  
+Voici une autre pile.
