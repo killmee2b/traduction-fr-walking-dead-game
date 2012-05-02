@@ -1,0 +1,426 @@
+1)  GLENN
+{NormalB}Je vais tenter ma chance.
+2)  GLENN
+Ouais... J'ai des amis là-bas, et{ThinkingA} je ne peux pas rester ici en sachant qu'ils pourraient être pris au piège dans cette ville.
+3)  GLENN
+{NormalB}Je pense que je dois y aller
+4)  LEE
+{NormalC} Salut Glenn
+5)  LEE
+{ThinkingA} On dirait que personne ne sait ce qui se passe. {NormalC} Quand nous sommes partis il y a quelques jours ça aurait pu avoir une autre issue.
+6)  RADIO
+[over radio] ...annah catastrophe de niveau neuf, Atlanta a été abaissée temporairement à huit avec des attaques et des émeutes signalées dans toutes les enceintes. Les citoyens sont invités à rester dans leurs maisons ou à se déplacer vers les villes de Charlotte, Atlanta ou Orlando. Si les citoyens choisissent de rester dans leurs maisons, ils sont invités à se rapprocher de leurs radios et attendre d'autres instructions. Se déplacer vers les villes de Charlotte, Atlanta ou Orlando peut devenir nécessaire afin d'assurer la sécurité de tous les citoyens ...
+7)  LEE
+{SurpriseA}A Atlanta ?
+8)  RADIO
+[over radio] Avec d'innombrables situations d'urgences graves dans tout le comté, les villes de la Géorgie et leur niveau actuel de la catastrophe sont les suivants : Atlanta, stade neuf de catastrophe, Augusta, niveau huit de désastre, Columbus, zone d'infection de niveau six, Savannah niveau neuf de catastrophe, Athens, désastre de niveau huit, Sandy Springs épidémie de niveau sept, Macon, catastrophe de niveau neuf, Roswell, catastrophe de niveau neuf, Albany, catastrophe de niveau neuf encore une fois, Savannah est maitenant avec une catastrophe de niveau neuf ...
+9)  LEE
+{HappyA}Nous allons essayer.
+10)  GLENN
+{NormalB}Les gars, faites gaffe.
+11)  GLENN
+{ThinkingA}Parfois, ce n'est pas toujours  {FearA}sécurisé ici.  {NormalC}Quoi qu'il en soit, euh, à plus ...
+12)  GLENN
+{NormalA}Ouais, je sais que tu le sera. Mais des fois...{NormalC} tu sais...
+13)  LEE
+{DisgustA}Quoi ?
+14)  
+Je pense que ce n'est pas le bon choix.
+15)  GLENN
+{NormalC}Peut-être. Mais je préfère faire le mauvais choix et le savoir, que de faire{ThinkingA} le bon et ne pas le savoir.
+16)  LEE
+{ThinkingA} Je pense que ce tu ne fais pas le bon choix
+17)  LEE
+{NormalC}Je respecte ça.
+21)  LEE
+{NormalC}Je respecte ça
+18)  
+Tu dois faire ce que tu dois faire.
+19)  GLENN
+{FearA} Et je vais faire ça.
+20)  LEE
+{NormalD}Tu dois faire ce que tu dois faire.
+22)  
+Trouve tes potes
+23)  LEE
+{ThinkingA}Espérons.
+24)  LEE
+{HappyA}Trouve tes potes et reste en vie.
+25)  GLENN
+{HappyA}Merci Lee, ça compte beaucoup pour moi. {SadA}Je ne veux pas vous abandonner tous, mais {NormalC}ça me semble être bon, et je suis sûr que les choses seront revenues à la normale ici en un rien de temps.
+26)  LARRY
+{NormalC}Lee, viens ici une seconde.
+204)  LARRY
+{NormalC}Lee, viens ici une seconde.
+27)  LEE
+{AngryA} Que veux tu ?
+28)  LARRY
+{DisgustA} Tu aimes ma fille ?
+29)  LARRY
+{AngryC}Je me fiche de ce que tu peux dire {DisgustA} à propos de ce qui t'es arrivé. {AngryC} Mais si quelque chose arrive à ma fille ou à cette petite fille, tu le paieras{DisgustA} ... he, fait gaffe à toi.
+30)  LARRY
+{DisgustA}Je sais qui tu es.
+31)  
+Ouais, elle est géniale.
+32)  LARRY
+{DisgustA}Ou, euh, {AngryA}tout le monde saura, que Lee Everett {AngryB}est un tueur. {AngryA} Et que c'était avant que tu ait à le faire pour rester en vie
+50)  LARRY
+{DisgustA}Ou, euh, {AngryA}tout le monde saura, que Lee Everett {AngryB}est un tueur. {AngryA} Et que c'était avant que tu ait à le faire pour rester en vie
+33)  LEE
+{SurpriseA}Ouais, elle est géniale.
+34)  LARRY
+{AngryA}Donc reste {AngryC}loin d'elle.
+35)  LEE
+{DisgustA}Ou quoi ?
+36)  
+Son père a essayé de me tuer, alors ...
+37)  LARRY
+{AngryA}Eh bien il a fait ça car il savait que Lee Everett était un {AngryB}meurtrier; {AngryA}voilà ce que vous risquez si vous vous approchez d'elle.
+38)  LEE
+{AngryC}Son père a essayé de me tuer, {DisgustA}alors ... 
+39)  LARRY
+{DisgustA} Tu m'a bien entendu ?
+40)  
+Elle va bien.
+41)  LEE
+{ThinkingA}Elle va bien.
+42)  LARRY
+[angry] {AngryC}Bien, hein. {AngryB}Eh bien je t'emmerde, Lee Everett.
+43)  LARRY
+{HappyB}C'est vrai. {AngryA}Je sais qui tu es et{AngryB} je sais que tu es un tueur. Et tu vas t'éloigner de ma fille{AngryC}... franchis la ligne ET {DisgustA}tout le monde saura.
+44)  
+Pas vraiment.
+45)  LARRY
+{HappyA}Bien. {AngryB}Reste loin d'elle; ou {AngryA}tout le monde ici saura que {DisgustA}Lee Everett est un tueur. {AngryB}Et je ne parle pas de ces choses.
+46)  LEE
+{NormalB}Pas vraiment.
+47)  LARRY
+{HappyA}Donc encore, je n'attendrais pas {DisgustA}d'un meurtrier qu'il écoute ce que quelqu'un doit dire.
+48)  LARRY
+{DisgustA}Tu m'entends ?
+49)  LARRY
+{AngryB}Je t'ai posé une question, mon gars.
+51)  LARRY
+Eh bien la réponse a intérêt à être "non".
+52)  LILLY
+{body-HoldWrist}{HappyC} {body-B}Mon père serait mort si vous n'aviez pas été là.
+53)  LILLY
+{NormalC} Tu ne peux pas être comme ça. Tu es seulement un homme.
+54)  LEE
+{ThinkingB} {body-C2}Je ne sais pas...
+55)  LILLY
+{HappyC} Nous sommes chanceux de t'avoir.
+56)  KENNY
+{body-A}{HappyB}J'espère que c'est le son de nous en train de gagner contre cette chose.
+57)  LILLY
+{HappyA} Moi aussi.
+58)  KENNY
+{ThinkingA} Cette auberge est dur à défendre. {body-HandsHips}Nous bloquerons les entrées avec des voitures et nous garderons quelqu'un pour surveiller. Nous pourrons survivre, {HappyA}nous resterons ici, jusqu'à ce que les militaires viennent nous chercher.
+59)  LILLY
+{body-HandOnHip}{HappyB} En fait, je suis d'accord avec ce plan.
+60)  LEE
+{HappyA}Moi aussi.
+61)  KENNY
+{HappyB} Nous avons des lits, de l'eau, et le plus important {body-B}{HappyA}nous avons de la lumière.  {ThinkingA} Il y a des endroits bien pires pour appeler à la maison.
+62)  LILLY
+{HappyA}Ouais, t'as raison. {body-A}{HappyC}Vous savez les gars, je pense que ça va bien se passer.
+63)  LEE
+{ThinkingB} {body-C2}Cette journaliste est morte à cause de moi.
+64)  LEE
+{ThinkingB} {body-C2}Ce mec, Doug, est mort à cause de moi.
+66)  LILLY
+{body-HoldWrist}{HappyA}Hey, Lee; tu as une seconde ?
+67)  LILLY
+{body-HoldWrist}{HappyA}Hey, Lee; tu as une seconde ?
+68)  LEE
+Ce pourrait être une bonne idée d'aller voir Doug.
+69)  LEE
+{NormalD}Comment ça va, Doug ?
+70)  LEE
+{SurpriseA}Doug ?
+71)  DOUG
+{SadA}{body-B}On ne pouvait pas la sauver, hein ?
+72)  LEE
+{NormalC} Je ne pense pas, c'est arrivé si vite.
+73)  DOUG
+{NormalC}Je... je sais c'est stupide, nous nous sommes juste rencontré... {ThinkingA}c'est débile, mais euh... je veux dire, c'est ... c'est...{NormalA} probablement juste ce coté survivant, {SadB}mais, je l'aimais beaucoup.
+74)  DOUG
+{NormalA}Quoi qu'il en soit, je préfère être seul, je pense.
+75)  LEE
+Je comprends
+76)  DOUG
+{FearA} Attends, {NormalC}Lee ?
+77)  LEE
+Qu'est ce qu'il y a, mec ?
+78)  DOUG
+Comment as-tu fait pour choisir ? {SadA}Je veux dire, nous avions tout les deux besoin d'aide... tu m'a choisie.
+79)  DOUG
+{SadB}J'ai souhaité que tu la sauve.
+80)  
+Je ne l'ai pas fait.
+117)  
+Je ne l'ai pas fait.
+81)  LEE
+{NormalC}Je ne l'ai pas fait.
+82)  DOUG
+{SadA}Oh.
+83)  LEE
+{NormalB}Parfois, nous n'avons pas à faire des choix. {NormalC}Nous faisons juste ce que nous faisons.
+120)  LEE
+{NormalB}Parfois, nous n'avons pas à faire des choix. {NormalC}Nous faisons juste ce que nous faisons.
+84)  
+C'est comme si tu avais besoin d'aide.
+85)  LEE
+{NormalB}J'ai cru que tu avais besoin d'aide.
+86)  DOUG
+{NormalC}Oh, Je suppose que c'est logique.
+87)  LEE
+Mais ce n'était pas un choix, comme ça. {ThinkingA}c'était... {NormalC} juste quelque chose que j'ai fait. {NormalB} Je ne sais pas pourquoi.
+124)  LEE
+Mais ce n'était pas un choix, comme ça. {ThinkingA}c'était... {NormalC} juste quelque chose que j'ai fait. {NormalB} Je ne sais pas pourquoi.
+88)  
+J'allais vous aider tout les deux.
+125)  
+J'allais vous aider tout les deux.
+89)  LEE
+{NormalD}J'allais vous aider tout les deux..
+90)  DOUG
+{NormalB}C'est logique, je suppose. {NormalC} Mais tu m'a aidée en premier.
+91)  LEE
+{NormalC}Ouais, je l'ai fait.
+128)  LEE
+{NormalC}Ouais, je l'ai fait.
+92)  DOUG
+{SadA}Je suppose que ça n'a pas d'importance.
+212)  DOUG
+{SadA}Je suppose que ça n'a pas d'importance.
+93)  
+Elle vous aimait beaucoup.
+94)  LEE
+{HappyA}Elle vous aimait beaucoup.
+95)  DOUG
+{HappyA}Merci, Lee.
+96)  
+Je suis désolé.
+97)  LEE
+{NormalD}Je suis désolé, Doug.
+98)  DOUG
+{SadA}C'est bon. {NormalC}Merci quand même.
+99)  
+Ca va aller.
+100)  LEE
+{NormalC}Ca va aller.
+137)  LEE
+{NormalC}Ca va aller.
+101)  DOUG
+[doesn't believe him] {NormalA}Ouais, {SadA}Je sais.
+102)  DOUG
+{SadA}Désolé, c'est stupide.
+210)  DOUG
+{SadA}Désolé, c'est stupide.
+103)  LEE
+Ce pourrait être une bonne idée d'aller voir Carley.
+104)  LEE
+{NormalD}Comment ça va, Carley ?
+105)  CARLEY
+{NormalA} Je vais bien. {SadA}Tu sais, compte tenu.
+106)  LEE
+{NormalC} Je l'ai fait, oui. [I'm ok, you know, considering...]
+107)  CARLEY
+Je ne peux m'arrêter de penser à Doug. {ThinkingA}On ne pouvait pas le sauver, hein ?
+108)  LEE
+{ThinkingA}Je ne pense pas. C'est arrivé si vite.
+109)  CARLEY
+{FearA} Je sais que c'est stupide... nous nous sommes juste rencontré... {ThinkingB}et il était tellement... c'est juste que... {DisgustA} je pense que je l'aimais.
+110)  CARLEY
+{ThinkingB}Quoi qu'il en soit, je préfère être seul, je crois.
+111)  LEE
+{NormalC} Je comprends.
+112)  CARLEY
+{FearA}Attends, Lee ?
+113)  LEE
+{ThinkingA}Qu'est ce qu'il y a ?
+114)  CARLEY
+{ThinkingA}Comment as-tu choisi ? Nous avions tout les deux besoin d'aide... {DisgustA}tu m'a choisie.
+115)  CARLEY
+J'espérais que nous aurions pu nous en tirer tout les deux, tu sais ?
+116)  LEE
+[heavy]{SadA} Moi aussi, Carley.
+118)  LEE
+{NormalC} Je n'ai pas pu.
+119)  CARLEY
+{ThinkingB}Ah. [asked a question, got a benign answer]
+121)  
+J'ai pensé que tu avais besoin d'aide en première.
+122)  LEE
+{NormalB}J'ai pensé que tu avais besoin d'aide en première.
+123)  CARLEY
+{NormalC} Ah, c'est logique.
+126)  LEE
+{NormalD} J'allais vous aider tous les deux.
+127)  CARLEY
+{ThinkingA} Mais tu m'a aidée en premier.
+129)  CARLEY
+{ThinkingA} Je suppose que ça n'a pas d'importance.
+211)  CARLEY
+{ThinkingA} Je suppose que cela n'a pas d'importance.
+130)  
+Je suis sûr qu'il t'aimait beaucoup.
+131)  LEE
+[lighthearted] {HappyA}Je suis sûr qu'il t'aimait beaucoup.
+132)  CARLEY
+[trying to make light of a tragic situation] {HappyC}Ha, n'y pensons plus
+133)  
+Je suis désolé, Carley.
+134)  LEE
+{SadA}Je suis désolé, Carley.
+135)  CARLEY
+{SadA}C'est bon. {HappyA}Merci mais...  {ThinkingA}il y a eu beaucoup de décès ces derniers jours.
+136)
+Ca va aller.
+138)  CARLEY
+{NormalB}Ouais. {ThinkingA}Définitivement.
+139)  LEE
+{body-A}{NormalA}Hey Ken.
+140)  KENNY
+{body-B}{FearA}Fermez là-bas.
+141)  LEE
+{body-C}Merci de m'avoir sauvé.
+142)  KENNY
+{NormalC} Pas de problème.
+143)  KENNY
+{body-HandsHips} {HappyA}Nous avons à prendre soin les uns les autres. [remembering that he let Hershel's son die]
+144)  LEE
+{HappyA}Ouais, nous le faisons.
+145)  KENNY
+{NormalB}{body-B}Tu as dis que tu voulais des enfants, une fois.
+146)  LEE
+{HappyA}{body-A}Oui, en effet.
+147)  KENNY
+Bien, {body-B}elle n'est pas ta  {NormalC}fille, donc tu ne peux pas la traiter comme ça.
+148)  LEE
+{NormalD}{body-C2}Ouais, je sais.
+149)  KENNY
+Mais tu {NormalB}peux prendre soin d'elle. {body-A}Mince, {HappyB}peut-être mieux que certains pères.
+150)  LEE
+{body-B} {HappyB}Merci, Kenny.
+151)  KENNY
+{HappyA}Je surveilles tes arrières, mon pote.
+152)  KENNY
+{NormalB}{body-B}Plus tôt, je t'ai demandé ce que tu ferais si les parents de Clémentine ne se présentaient pas.
+153)  LEE
+{NormalB}Oui, c'est vrai.
+154)  KENNY
+{SadA}{body-A}Tu crois que ça va arriver ?
+155)  LEE
+{ThinkingB}{body-C} Que ces parents se montrent ? {SadA}{body-C2}Non, je ne crois pas.
+156)  KENNY
+{NormalC}Eh bien, je veux que tu sâches que la réponse est en toi{body-HandsHips}. Je {ThinkingA}pense que tu peux t'occuper de cette petite fille.
+157)  LEE
+{body-C}{HappyA}Merci Kenny.
+158)  KENNY
+{HappyB}De rien.
+159)  KENNY
+{body-HandsHips}{ThinkingA}Je pense que tu sais ce que tu fais.
+160)  LEE
+{body-A}{HappyB}Merde mec, {body-B}{ThinkingA}il serait l'un d'eux ?
+161)  KENNY
+{NormalC}Avec Clementine, je veux dire. {NormalB} {body-A}Plus tôt, tu as dis que tu étais désemparé. Je veux juste que tu sâche que je {ThinkingA}te vois, et je vois le genre de gars qui {HappyA}comprend les choses. {HappyB}{body-B}Cette fille ira très bien.
+162)  LEE
+{HappyA}Merci, Kenny.
+169)  LEE
+{HappyA}Merci, Kenny.
+163)  KENNY
+Tu as pigé.
+170)  KENNY
+Tu as pigé.
+164)  KENNY
+{NormalC}{body-A}Hey, à propos de Clementine.
+165)  LEE
+{NormalC}{body-B}Ouais ?
+166)  KENNY
+{NormalB}J'ai dit plus tôt, il y a des trucs là-bas qui peuvent poser des problèmes à {ThinkingA}une petite fille aussi mignonne.
+167)  LEE
+Tu l'as fait
+168)  KENNY
+{NormalC} Eh bien, je continue de penser que c'est vrai. Mais après {ThinkingA}ce que j'ai vu, je pense à deux choses : {HappyA}prendre soin d'elle ou la laisser prendre soin d'elle, {HappyB} {body-B}vous deux irez très bien ensemble.
+171)  GLENN
+[pickup1] Et Lee, tu sais si cela ne s'améliore pas, les gens vont abandonner - comme la fille de tout à l'heure.
+172)  GLENN
+[pickup1] Est-ce que tu vas les laisser faire ? Tu as dit à Carley de lui donner le pistolet.
+173)  GLENN
+[pickup1] Peut-être tu as eu raison. Je ne sais pas comment gérer quelque chose comme ça.
+174)  GLENN
+[pickup1]Quoi qu'il en soit, a plus. [final goodbye]
+175)  
+Regarder
+177)  
+Regarder
+176)  
+Regarder
+178)  
+Regarder
+179)  DUCK
+[pickup1] Et puis cette fois-ci, Derek et le super dinosaure sont pris en embuscade par SQUIDIOUS ! Mais Derek a un méga laser waterproof !!
+180)  DUCK
+[pickup1] C'était vraiment génial! SD avait un jetpack sous-marin qui le fit aller très vite sous l'eau, il était tellement cool !
+181)  DUCK
+[pickup1] Oh mec, t'aurais du voir ça. Le DOOMetron avait un mini gun sur son épaule, ça faisait "pan pan pan" et je pensais que le super dinosaure était MORT, mais tu sais quoi ? Il ne l'était pas.
+182)  LEE
+[pickup3] {NormalB}J'étais là
+183)  CLEMENTINE
+[pickup2] Je suis tombé... et{SadB} mon talkie-walkie est cassé. {ThinkingA} Glenn avait l'autre.
+184)  LEE
+[pickup3]{NormalD}Je suis désolé, il n'y a ... euh, pas beaucoup d'enfants ici.
+185)  CLEMENTINE
+[pickup2] {ThinkingA} Non, ce n'est pas ça. C'est... {SadA}j'ai encore été attrapée.
+186)  LEE
+[pickup3] {NormalC}{Body-F}Hey Duck, tu peux la laisser un peu se reposer ?
+187)  DUCK
+[pickup1] {SadA}Ok, désolé.
+188)  DUCK
+[pickup1] {HappyC}Oh! ET ENSUITE ?
+189)  
+[Garder le silence]
+190)  
+Ahh, je suis désolé.
+191)  
+C'est juste un talkie-walkie ...
+192)  
+Donc ? Il ne peut pas nous aider.
+193)  LEE
+[pickup3] {NormalD}Ahh, je suis désolé.
+194)  CLEMENTINE
+[pickup2] {NormalA}Merci. Je sais que j'ai besoin d'être {SadB}courageuse, je suis juste triste.
+195)  CLEMENTINE
+[pickup2] {AngryA}Ce n'était pas seulement un talkie-walkie.
+196)  LEE
+[pickup3] C'est juste un talkie-walkie, il ne nous aurait pas beaucoup servi.
+197)  CLEMENTINE
+[pickup2] {FearB}Mais...[verge of tears] je sais,{ThinkingA} c'est juste que, {CryingA}j'en ai besoin.
+198)  LEE
+[pickup3] {HappyB}Donc ? {ThinkingA}Il ne peut pas vraiment nous aider.
+199)  CLEMENTINE
+[pickup2] {SadC} Tu dois penser que je suis débile
+213)  CLEMENTINE
+[pickup2] {SadC} Tu dois penser que je suis débile
+200)  LEE
+[pickup3] {NormalD}Peut être qu'on peut en trouver un autre.
+201)  CLEMENTINE
+[pickup2] {SadB}Je vais juste garder celui-là je pense.
+202)  LEE
+[pickup3] [ugh] {AngryA}Laisse le moi,{NormalB} je vais le réparer
+203)  CLEMENTINE
+[pickup2] {SadB}Je sais que cela n'a pas de sens... {CryingA}mais c'est la seule façon que j'avais pour parler à papa et maman... {CryingB}et maintenant ils sont partis. Il est parti.
+205)  KATJAA
+[pickup1] Tu as vérifié la boîte à gants ? Je jurerais l'avoir vu il y a peu de temps. Tu ne fais jamais attention à où tu mets les choses.
+206)  KATJAA
+[pickup1] Ken, regarde là. Tout ce que nous avons serait perdu si je te les laissais plus de 5 minutes.
+207)  KATJAA
+[pickup1] Je ne sais pas combien c'est dûr de garder une trace des objets; c'est pas comme si nous avions beaucoup de choses pour commencer.
+208)  KATJAA
+[pickup1]  Je me souviens quand je les ai emballé, j'ai dit, "Oh ces choses vont être importantes et Kenny va les perdre, donc je vais les mettre à droite dans cette poche" ... puis il a fallu que tu les touches et les déplaces.
+209)  DUCK
+[pickup1] Oh mec, Clementine ! Un autre truc ... !
+214)  DUCK
+Oh mec, Clementine !
