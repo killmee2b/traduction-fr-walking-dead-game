@@ -1,0 +1,238 @@
+1)  LEE
+{SadA}Ouais.
+2)  LEE
+{sadA}C'est Lee.
+3)  LILLY
+[pickup1]{normalC}Lilly. {thinkingA}Mon père, Larry.
+4)  LILLY
+{angryA} Je ne crois pas connaître ton nom.
+5)  LEE
+{normalD}{body-f}Comment va-t-il ?
+6)  LEE
+{normalC}{body-f}Hé.
+7)  LEE
+{sadA}{body-F}Comment va-t-il ?
+8)  LILLY
+{HappyC}Allons là-dedans.
+105)  LILLY
+{HappyC}Allons là-dedans.
+9)  LILLY
+{HappyD}Génial ! Bon sang, t'es incroyable.
+106)  LILLY
+{HappyD}Génial ! Bon sang, t'es incroyable.
+10)  LEE
+{HappyC}J'ai les clés.
+104)  LEE
+{HappyC}J'ai les clés.
+12)  LEE
+{SadB}Ouais, c'est pas vraiment une option pour le moment.
+13)  LEE
+{sadA}Qu'est-ce qui ne va pas avec lui ?
+14)  LILLY
+{sadA}J'essaye juste de le garder au calme.
+15)  LILLY
+{sadA}Il a un problème cardiaque. Il prend des comprimés de nitroglycérine assez régulièrement. {fearA}Il a déjà eu plusieurs attaques nécéssitant d'aller à l'hôpital.
+16)  
+Qu'est-ce qui va pas avec lui?
+17)  LARRY
+[having bad chest pains, this is an aside] {AngryC}Ah, va te faire foutre.
+18)  LILLY
+{SadB}Ouais... c'est pas ce qu'il voulait dire.
+19)  LEE
+{ThinkingB}C'est juste que...
+20)  LILLY
+{ThinkingA}Ouais ?
+72)  LEE
+{ThinkingA}Ouais ?
+21)  LEE
+{AngryA}Il a un tempérament.
+22)  
+Il a un tempérament.
+23)  LILLY
+{AngryC}C'est son caractère. {AngryB}Et pas moyen de le faire changer d'avis.
+24)  LILLY
+{NormalB}Lui et moi sommes une famille.
+25)  LEE
+[Whisper, intimate convo distance]{ThinkingA}On a des enfants ici, {SadA}des familles.
+26)  LEE
+{SadB}Je dis juste que certaines personnes ne peuvent pas gérer un tempérament comme ça. {AngryA}Putain, mais quelle merde.
+27)  
+On a des enfants ici. Des familles.
+28)  LILLY
+{NormalC}Il est... il a juste {SadA}ses problèmes.
+29)  LEE
+{NormalA}N'y pense plus, {HappyA}Je suis sûr que c'est un type bien.
+30)  
+N'y pense plus, je suis sûr que c'est un type bien.
+32)  
+Tu es d'ici ?
+33)  LEE
+{NormalC}Ouais, je sais ça. {HappyA}Pilote ?
+34)  LEE
+{thinkingB}Je travaille à l'UGA.
+35)  LILLY
+{HappyA}Nan, juste des trucs adminitratifs. {AngryA}Je traite avec une bande d'abrutis et des bureaucrates toute la journée. {HappyA}Parfois un avion, si j'ai de la chance.
+36)  LEE
+{ThinkingA}Tu es d'ici ?
+37)  LILLY
+{HappyA}Et toi ?
+38)  LILLY
+{ThinkingA}Je travaille à Warner Robbins. {NormalA}La base aérienne.
+39)  
+Il y avait quelqu'un ici quand vous êtes entrés ?
+40)  LILLY
+{SadA}Non, cet endroit était déjà abandonné. {DisgustA}Nous avons sorti plusieurs corps du bureau.
+41)  LILLY
+{ThinkingB}Ca va ?
+42)  LILLY
+{SadB}Je suis désolé. Nous avons trouvé un couple de personnes agées dans le bureau... {FearA}Papa les a mis dehors au cas où {SadA}ils ne seraient pas vraiment mort.
+43)  LEE
+[stressed] {SadC}Ouais, je vais bien.
+44)  LEE
+{SadA}Ouais, les propriétaires. Ils étaient... {FearA}{SadB}Nous étions proches.
+45)  LEE
+{FearA}Il y avait quelqu'un quand vous êtes entrés ?{FearB}
+46)  LILLY
+{ThinkingA}Tu connaissais quelqu'un ici ?
+47)  LILLY
+{ThinkingB}Où est sa mère ?
+48)  LEE
+{NormalA}A Savannah, {ThinkingA}je crois.
+49)  LILLY
+{NormalB}Oh, {THinkingB}vous n'êtes pas ensemble ?
+50)  LEE
+[pickup1][pauses important ]{NormalD}Oh, non, {ThinkingA}je suis pas son père. {SadA}Je l'ai trouvée dans une maison en quittant Atlanta. Elle a survécue{SadB} toute seule.
+51)  LEE
+[pickup1] [quiet, intimate convo distance][pauses important] {FearA}J'ai entendu un message du répondeur, ils étaient à Savannah. {SadA}Elle était seule à la maison avec la baby-sitter. {SadC}C'était pas génial.
+52)  LEE
+[quiet, intimate convo distance] {SadC}Je crois que les parents de la petite sont morts.
+53)  LILLY
+[intimate convo] {sadA}Bien, {HappyA}elle a de la chance de t'avoir.
+54)  LILLY
+[intimate convo] {SadB}Oh.
+55)  
+Quand crois-tu que les militaires vont prendre en main la situation ?
+56)  LILLY
+{SadB}Bon sang, je ne sais pas. {NormalC}Je n'étais pas au travail quand papa et moi sommes venus chercher de l'aide ici. {ThinkingB}Il y a plusieurs jours que je n'ai plus vu de jets. {FearA}Et rien n'a changé.
+57)  LEE
+{THinkingB}Quand les militaires vont-ils s'occuper de ce merdier ?
+58)  LEE
+{FearA}Donc, tu dis que les militaires essayent ou {FearB}ont déjà essayé ?
+59)  LILLY
+{SadB}Malheureusement, {SadA}ouais.
+60)  LEE
+{normalD}Qu'est-ce que tu penses de tout ça ?
+61)  LILLY
+{SadB}Bah, j'étais ennervée que Glenn vous ouvre la porte mais {SadA}je suis contente que vous soyez arrivés jusqu'ici. {HappyA}Tu es un homme courageux qui sait garder la tête froide.
+62)  LILLY
+[pickup1]{FearA}Qu'y-a-t-il à penser ? Les morts se lèvent, marchent, {AngryA}bouffent les gens qui deviennent des leurs ... et encore et encore. Oh mon dieu.
+63)  LEE
+{ThinkingB}Nous avons besoin de rester ensemble pour s'en sortir.
+64)  
+Qu'est-ce que tu penses de tout ça?
+65)  
+Sortie
+66)  LILLY
+{SadA}Je vais retourner auprès de lui.
+67)  LEE
+{SadA}D'accord.
+68)  LILLY
+[pickup1]{ThinkingA}C'était une situation totalement folle. {DisgustA}Avec cette chose sortant de la salle de bain, j'ai vu des tueurs entraînés faire pareil.
+69)  LILLY
+{normalC}Tu n'est plus seule. {happyA}Tout ira bien si nous restons ensemble.
+70)  LILLY
+{NormalC}Oh, Lee ?
+71)  LEE
+{SadB}Euh, ouais.
+73)  LEE
+{ThinkingA}J'y travaille.
+74)  LEE
+{NormalB}C'est assez juste.
+75)  LILLY
+{FearA}Hé, je devrais vraiment lui donner autant d'attention que je peux.
+76)  LILLY
+{ThinkingA}Essaye de trouver ces clés, Lee. {SadB}Ca pourrait s'aggraver rapidement.
+77)  LEE
+{HappyA}C'est pas beaucoup mais, tiens.
+78)  LILLY
+{ThinkingA}Tu es sûr ?
+79)  LEE
+{HappyA}Ouais. T'es en état de stress.
+80)  LILLY
+{ThinkingA}Merci. C'est, euh... {happyA}vraiment gentil.
+81)  LEE
+{HappyA}De rien.
+82)  LEE
+[pickup1] Eh, la fille a encore été attrapée.
+83)  LILLY
+[pickup1] La façon de s'occuper de choses, c'est de les attirer avec cette radio.
+84)  LILLY
+[pickup1] Tu ne peux pas tout faire.
+92)  LILLY
+[pickup1] Tu ne peux pas tout faire.
+97)  LILLY
+[pickup1] Tu ne peux pas tout faire.
+85)  LEE
+[pickup1] Il semble que non.
+91)  LEE
+[pickup1] Il semble que non.
+96)  LEE
+[pickup1] Il semble que non.
+86)  LILLY
+[pickup1] Mais l'arrêt de ce conflit était sacrément impressionnant. Je n'aurais pas pu le faire.
+87)  LEE
+[pickup1] Tu as raison. Et Clementine était encore retenue par cette chose dans la salle de bain.
+88)  LILLY
+[pickup1] On doit juste être plus vigilant -- pour ne pas que cette radio nous tue tous.
+89)  LILLY
+[pickup1] Je sais que mon père n'était pas comme ça avant.
+90)  LEE
+[pickup1] [cutting her off] Hé, peu importe, oublie ça.
+93)  LILLY
+[pickup1] Cette lutte avec mon père et ton mec, c'était un putain de spectacle.
+94)  LILLY
+[pickup1] Mais tu as assuré que ces gars ne fasse pas quelque chose de stupide avec cette radio.
+95)  LEE
+[pickup1] Ouais, j'ai surveillé ça.
+98)  LEE
+[pickup1] Ouais, mais tu devrais faire attention à la fille.
+99)  LEE
+[pickup1] Qu'est ce qui te fais dire ça?
+100)  LILLY
+[pickup1] Cet endroit est devenu un cauchemard. Et la petite fille était en danger.
+101)  LILLY
+[pickup1] [a little sarcastic] Tu n'aimes pas beaucoup te remuner, hein?
+102)  LILLY
+[pickup1] On dirait pas.
+103)  LEE
+[pickup1] Tu ne peux pas tout contrôler, même si tu essayes.
+107)  LEE
+En outre, BALLES.
+108)  LILLY
+[pickup1] {angrya}{body-A}Je fais ce que j'aurais dû faire plus tôt.
+112)  LILLY
+[pickup1] {angrya}{body-A}Je fais ce que j'aurais dû faire plus tôt.
+109)  LEE
+[pickup1] {thinkingB}{body-B}C'était le cas de tout le monde.
+113)  LEE
+[pickup1] {thinkingB}{body-B}C'était le cas de tout le monde.
+110)  LILLY
+[pickup1] {thinkingA}Tu n'as pas besoin de me prendre pour {angryB}une conne devant ces gens.
+111)  LILLY
+[pickup1] {angryC}J'ai pas besoin de cette merde, OK ? C'est {sadA}assez dur de garder des gens en vie{angryB} sans que quelqu'un ne vienne t'emmerder.
+114)  LILLY
+[pickup1] {sadB}Maintenant, son coeur s'embale à nouveau, et {fearA}je ne peux rien faire.
+115)  LILLY
+[pickup1] {angryB}{body-a}Et cette violence avant; avec mon père -- ça n'a pas aidé.
+116)  LILLY
+[pickup1] {sadB}[quiet] Oui... je crois.
+117)  LILLY
+[pickup1] {fearA}{body-a}Et...[quiet] tu devrais {sadA}savoir que j'étais pas d'accord avec lui.
+118)  LEE
+[pickup1] {disgustA}Tu n'as pas dit quoi que ce soit. Et Duck pourrait avoir été mordu.
+119)  
+Parler à
+120)  
+Donner nouriture à
+121)  LILLY
+[pickup1][pissed] Je vais retourner auprès de lui.
