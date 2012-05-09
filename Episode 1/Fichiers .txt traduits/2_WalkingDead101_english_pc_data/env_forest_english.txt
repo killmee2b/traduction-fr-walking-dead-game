@@ -1,257 +1,257 @@
-1) LEE
+1)  LEE
 [whinces, leg broken, shuffling his body along the backseat of a car]
-2) LEE
+2)  LEE
 [lee limps along, taking tender steps on a broken leg]
-3) LEE
+3)  LEE
 [lee slips and falls, landing on his side, pain shooting through his leg]
-4) LEE
+4)  LEE
 [lee is limping his way up a hill bein chased by zombies, pained hurried and panicked breathing]
-5) LEE
+5)  LEE
 [lee is hurriedly limping away from zombies and slips and falls]Ahh!
-6) LEE
+6)  LEE
 [lee is hurriedly limping away from zombies and slips and falls]Ugh!
-7) LEE
+7)  LEE
 [lee is hurriedly limping away from zombies and slips and falls]Merde!
-8) LEE
+8)  LEE
 [lee is hurriedly limping away from zombies and slips and falls]
-9) LEE
+9)  LEE
 Hey! Hey officier! Vous allez bien?! Je suis toujours menotté là!
-10) LEE
+10)  LEE
 OFFICIER! [to himself] Ca s'annonce mal. Il n'a pas été éjecté de la voiture...
-11) LEE
+11)  LEE
 Il ne bouge pas.
-12) LEE
+12)  LEE
 Officier?
-13) LEE
+13)  LEE
 Mon dieu...
-14) LEE
+14)  LEE
 Putain, ma jambe.
-15) LEE
+15)  LEE
 [Moving your busted leg] Ahh!
-16) LEE
+16)  LEE
 [Waking up after a car wreck] Ugh...[breathing deeply] Oww... merde.
-17) LEE
+17)  LEE
 [Woozy, waking up after being knocked out] J'ai soif...
-18) LEE
+18)  LEE
 [First zombie you've ever seen approaching you] Qu'est-ce que...?!
-19) LEE
+19)  LEE
 [First zombie you've ever seen approaching you] Putain, qu'est-ce que vous avez?!?
-20) LEE
+20)  LEE
 [First zombie you've ever seen approaching you] Qu'est-ce qui se passe?! Qu'est-ce qui se PASSE??!
-21) LEE
+21)  LEE
 {FearB}Vous êtes mort...? {angryC}HEY! VOUS ETES MORT? [inspecting the first zombie ever]
-22) LEE
+22)  LEE
 {fearB}Sa peau est toute pourrie... et {SadC}ça sent la merde. Qu'est- {fearB}ce que c'est bordel?
-23) LEE
+23)  LEE
 Il doit avoir les clés des menottes sur lui.
-24) LEE
+24)  LEE
 J'ai besoin de ces clés.
-25) LEE
+25)  LEE
 Je vais en avoir besoin.
-26) LEE
+26)  LEE
 Officier! J'ai besoin de ces clés.
-27) LEE
+27)  LEE
 Bien, les clés des menottes sont là. Super.
-28) LEE
+28)  LEE
 Officier... nous avons eu un accident.
-29) ZOMBIE
+29)  ZOMBIE
 Guhhh...
-30) LEE
+30)  LEE
 Je vais chercher de l'aide, juste --
-31) LEE
+31)  LEE
 [The first time a zombie ever lunges at you] Putain de merde!
-32) LEE
+32)  LEE
 [Landing on your rear] Uhh!
-33) LEE
+33)  LEE
 [Zombie crawling towards you and you crawl away] Ahh!
-34) LEE
+34)  LEE
 {fearC}Restez loin de moi!
-35) LEE
+35)  LEE
 {fearB}Qu'est-ce que vous êtes bordel?
-36) LEE
+36)  LEE
 {fearB}Arrêtez! {angryB} Reculez!
-37) LEE
+37)  LEE
 Ugh!
-77) LEE
+77)  LEE
 Ugh!
-79) LEE
+79)  LEE
 Ugh!
-38) LEE
+38)  LEE
 [Exerting himself, kicking out a window] Ugh!
-69) LEE
+69)  LEE
 [Exerting himself, kicking out a window] Ugh!
-70) LEE
+70)  LEE
 [Exerting himself, kicking out a window] Ugh!
-71) LEE
+71)  LEE
 [Exerting himself, kicking out a window] Ugh!
-39) LEE
+39)  LEE
 [Slipping, falling a few feet onto the ground] Ahh!
-40) LEE
+40)  LEE
 [Exerting himself, trying to climb out of a car window] Ugh!
-41) LEE
+41)  LEE
 [Landing on the ground on a broken leg] Uhh--AHHHH!!!
-42) LEE
+42)  LEE
 [examining a shotgun] Il est vide....
-43) LEE
+43)  LEE
 Il sera plus facile à transporter sans ces menottes.
-44) LEE
+44)  LEE
 {normalD}Le fusil de l'officier est là-bas.
-45) LEE
+45)  LEE
 {sadA}Pourquoi aurait-il eu {angryA}besoin de ça?
-46) LEE
+46)  LEE
 Ne m'obligez pas à faire ça...
-47) LEE
+47)  LEE
 [Phew, breathing heavily] ... mec.
-48) LEE
+48)  LEE
 [Phew, breathing heavily]
-49) LEE
+49)  LEE
 Non non... Foutez le camp...
-50) LEE
+50)  LEE
 [Cries out in pain, bitten by a zombie] AHHHHHHH!
-51) LEE
+51)  LEE
 MERDE!
-52) LEE
+52)  LEE
 Oh mon dieu...
-53) LEE
+53)  LEE
 A L'AIDE! Allez chercher quelqu'un! Il - Il y a eu une fusillade!
-54) LEE
+54)  LEE
 {angryA}Pourquoi diable a-t-il pris son arme?
-55) LEE
+55)  LEE
 {thinkingB}Il a peut-être été éjecté {fearA} de la voiture pendant l'accident?
-56) LEE
+56)  LEE
 Je dois passer par dessus cette palissade!
-57) LEE
+57)  LEE
 Heureusement, ces choses ne peuvent pas grimper...
-58) LEE
+58)  LEE
 {thinkingA}Il serait préférable d'enlever ces menottes {sadA}avant de chercher de l'aide.
-59) LEE
+59)  LEE
 {angryA}Je pense que les clés sont avec le flic.
-60) LEE
+60)  LEE
 Hmmph. Merde.
-61) LEE
+61)  LEE
 J'ai besoin d'éloigner ces maudites choses.
-62) LEE
+62)  LEE
 Je ne veux pas revoir ça à nouveau.
-63) LEE
+63)  LEE
 Je dois bouger.
-114) LEE
+114)  LEE
 Je dois bouger.
-64) LEE
+64)  LEE
 Ahh! Merde!
-115) LEE
+115)  LEE
 Ahh! Merde!
-65) LEE
+65)  LEE
 [grits through your teeth] ALLEZ. HOP.
-116) LEE
+116)  LEE
 [grits through your teeth] ALLEZ. HOP.
-66) LEE
+66)  LEE
 [through your teeth] MERDE!
-117) LEE
+117)  LEE
 [through your teeth] MERDE!
-67) LEE
+67)  LEE
 [Limping around the cop car, using it for balance for broken leg]
-68) LEE
+68)  LEE
 [Backing away from the zombie cop in a panic]
-72) LEE
+72)  LEE
 Il y a un morceau de la voiture là-bas... c'est mieux qu'un morceau de moi.
-73) LEE
+73)  LEE
 [looks at a piece of the wreck -- a broken police laptop and some papers from the clipboard]
-74) LEE
+74)  LEE
 [tired, exasperated] Merde.
-75) LEE
+75)  LEE
 [zombie is waking up] Uh, officier...?
-76) LEE
+76)  LEE
 [looks up at the busted guard rail, or up at the top of the incline the cop car came down]
-78) LEE
+78)  LEE
 [kicking out the window for the final time, popping out the glass] Ugh!
-80) LEE
+80)  LEE
 Putain, ces merdes sont partout.
-81) LEE
+81)  LEE
 Ugh, c'est raide. Je ne vais pas pouvoir revenir jusqu'à la route pour trouver de l'aide. Merde.
-82)
+82)  
 Fenêtre
-83)
+83)  
 Flic
-84)
+84)  
 Clés
-85)
+85)  
 Fusil
-86)
+86)  
 Balle de fusil
-87)
+87)  
 Palissade
-88)
+88)  
 Menottes
-89)
+89)  
 Débris
-90)
+90)  
 Garde-corps
-91)
+91)  
 Tirer
-97)
+97)  
 Tirer
-92)
+92)  
 Regarder
-94)
+94)  
 Regarder
-98)
+98)  
 Regarder
-100)
+100)  
 Regarder
-105)
+105)  
 Regarder
-106)
+106)  
 Regarder
-108)
+108)  
 Regarder
-109)
+109)  
 Regarder
-111)
+111)  
 Regarder
-113)
+113)  
 Regarder
-125)
+125)  
 Regarder
-93)
+93)  
 Prendre les clés
-95)
+95)  
 Prendre les clés
-96)
+96)  
 Prendre les clés
-99)
+99)  
 Prendre
-126)
+126)  
 Prendre
-127)
+127)  
 Prendre
-101)
+101)  
 Grimper
-102)
+102)  
 Grimper
-103)
+103)  
 Frapper
-104)
+104)  
 Sortir
-121)
+121)  
 Sortir
-107)
+107)  
 Dévérouiller
-110)
+110)  
 Ramasser
-112)
+112)  
 Ramasser
-118)
+118)  
 Colline
-119) LEE
+119)  LEE
 {sadB}[in pain] Je dois m'extirper par la fenêtre?
-128) LEE
+128)  LEE
 {sadB}[in pain] Je dois m'extirper par la fenêtre?
-120)
+120)  
 Regarder
-122)
+122)  
 Petite fille
-123)
+123)  
 Appeler
-124)
+124)  
 Silhouette mystérieuse
 

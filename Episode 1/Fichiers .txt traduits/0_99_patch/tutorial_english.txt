@@ -23,25 +23,25 @@ Parfois vous pouvez cliquer dans plusieurs directions. Utilisez la croix directi
 12)  
 Parfois vous pouvez cliquer dans plusieurs directions. Utilisez la croix directionnelle et choisissez en appuyant sur A.
 13)  
-Allez à l'étagère (Appuyez sur Z)
+Allez à l'étagère (Appuyez sur Z)  
 14)  
-Allez à l'étagère (Utilisez le stick gauche)
+Allez à l'étagère (Utilisez le stick gauche)  
 15)  
-Poussez l'étagère (utilisez la souris pour regarder, faites un clique gauche pour sélectionner)
+Poussez l'étagère (utilisez la souris pour regarder, faites un clique gauche pour sélectionner)  
 16)  
-Poussez l'étagère (utilisez le stick droit pour regarder, appuyer sur A pour sélectionner)
+Poussez l'étagère (utilisez le stick droit pour regarder, appuyer sur A pour sélectionner)  
 17)  
-Faites une chose (Probablement dans la voiture de flic) (utilisez la molette pour l'icone)
+Faites une chose (Probablement dans la voiture de flic)  (utilisez la molette pour l'icone)  
 18)  
-Faites une chose (Probablement dans la voiture de flic) (utilisez la croix directionnelle pour l'icone)
+Faites une chose (Probablement dans la voiture de flic)  (utilisez la croix directionnelle pour l'icone)  
 19)  
 Allez à la fenêtre
 20)  
 Allez à la fenêtre
 21)  
-Renforcez les planches (clic gauche)
+Renforcez les planches (clic gauche)  
 22)  
-Renforcez les planches (A)
+Renforcez les planches (A)  
 23)  
 Allez à la porte
 24)  
@@ -67,7 +67,7 @@ Courez!
 34)  
 Courez!
 35)  
-Répondre à l'officier (Molette, Clic gauche pour choisir)
+Répondre à l'officier (Molette, Clic gauche pour choisir)  
 36)  
 Répondre à l'officier
 37)  
@@ -75,17 +75,17 @@ Si les choix disparaissent, vous resterez muet.
 38)  
 Si les choix disparaissent, vous resterez muet.
 39)  
-Jetez un coup d'oeil par dessus le mur (Z)
+Jetez un coup d'oeil par dessus le mur (Z)  
 40)  
-Jetez un coup d'oeil par dessus le mur (Stick gauche vers le haut)
+Jetez un coup d'oeil par dessus le mur (Stick gauche vers le haut)  
 41)  
 Jetez un coup d'oeil trop longtemps et vous serez vu
 42)  
 Jetez un coup d'oeil trop longtemps et vous serez vu
 43)  
-Sélectionnez d'autres actions (Molette)
+Sélectionnez d'autres actions (Molette)  
 44)  
-Sélectionnez d'autres actions (Croix directionnelle)
+Sélectionnez d'autres actions (Croix directionnelle)  
 45)  
 Liberez Clémentine
 46)  
@@ -204,17 +204,17 @@ Allez voir à l'extérieur si Kenny ou Hershel ont besoin de votre aide.
 99)  
 Soyez sûr d'avoir discuté avec chaque personne rencontrée jusqu'ici.
 100)  
-Maintenant BOUGEZ vers la fenêtre, en utilisant la touche Z (avant).
+Maintenant BOUGEZ vers la fenêtre, en utilisant la touche Z (avant)  .
 101)  
-Utilisez la touche Z (avant) pour bouger le long de la voiture.
+Utilisez la touche Z (avant)  pour bouger le long de la voiture.
 102)  
-Utilisez la touche S (arrière) pour partir!
+Utilisez la touche S (arrière)  pour partir!
 103)  
 Utilisez la molette pour sélectionner un choix et le bouton gauche de la souris pour confirmer.
 Vous pouvez aussi utilisés les touches numériques 1-4 pour faire votre choix.
 104)  
 Utilisez la souris pour regarder autour.
 105)  
-Utilisez la molette (ou les touches numériques 1-4) pour choisir une réponse.
+Utilisez la molette (ou les touches numériques 1-4)  pour choisir une réponse.
 106)  
-Regardez la porte. Utilisez la molette (ou les touches numériques 1-4) pour choisir une action.
+Regardez la porte. Utilisez la molette (ou les touches numériques 1-4)  pour choisir une action.

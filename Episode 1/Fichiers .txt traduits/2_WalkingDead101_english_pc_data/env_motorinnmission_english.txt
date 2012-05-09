@@ -1034,7 +1034,7 @@ Regardez-la. Donnez-lui s'il vous plaît.
 [pickup3] Vous pouvez y aller.
 529)  LEE
 [pickup3] Vous pouvez y aller.
-501)
+501)  
 Je suis ici avec toi.
 502)  
 Au revoir.
@@ -1092,7 +1092,7 @@ passer à
 passer à
 550)  
 passer à
-544) 
+544)  
 regarder
 545)  
 regarder

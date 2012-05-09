@@ -1,7 +1,7 @@
 1)  
 Carley
 2)  
-Clementine
+Clémentine
 3)  
 Doug
 4)  
@@ -65,7 +65,7 @@ Ouvrir
 33)  
 Aller
 34)  
-Allez à
+Aller à
 35)  
 Appuyer
 36)  
@@ -102,3 +102,4 @@ Texte de silence de Sean
 Marcher d'un pas lourd
 51)  
 A SUIVRE ...
+

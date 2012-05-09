@@ -1,145 +1,145 @@
-1) HERSHEL
+1)  HERSHEL
 {normalC} Un homme vous demande votre nom, vous le donnez. {disgustA} Sauf que ce nom n'est pas le bon.
-2) HERSHEL
+2)  HERSHEL
 {angryA} Vous devriez savoir que si vous n'étiez pas parti avec Kenny aujourd'hui, {disgustA} je n'aurais pas supporté votre manque d'honnêteté de la nuit dernière.
-3) LEE
+3)  LEE
 {thinkingB} Je ne suis pas sûr de bien comprendre.
-4) HERSHEL
+4)  HERSHEL
 {disgustA} Comment avez-vous quitté Atlanta?
-5) LEE
+5)  LEE
 {sadA} ... à pied. Je me suis dirigé au sud et {fearA}j'ai couru pour sortir de la ville. [sets logic liar]
-6) LEE
+6)  LEE
 {normalD} ... j'ai fait une balade en voiture et puis j'ai eu un accident. Je marchais, jusqu'à ce que votre fils me trouve.
-7) LEE
+7)  LEE
 {normalD} Je suivais ma route, voilà tout. J'étais là au bon moment. [sets logic liar]
-8)
+8)  
 A pied.
-9)
+9)  
 Je me baladais.
-10)
+10)  
 Je suivais ma route, c'est tout.
-11)
+11)  
 Je suivais ma route, c'est tout.
-12)
+12)  
 [Remain Silent]
-29)
+29)  
 [Remain Silent]
-35)
+35)  
 [Remain Silent]
-50)
+50)  
 [Remain Silent]
-13) HERSHEL
+13)  HERSHEL
 {thinkingA} C'est un long trajet.
-14) HERSHEL
+14)  HERSHEL
 {thinkingA} Hmm. Vos vêtements n'ont pas l'air usé.
-15) HERSHEL
+15)  HERSHEL
 {thinkingA} Ha, si jamais il y avait un bon moment pour la supposée "apocalypse".
-16) HERSHEL
+16)  HERSHEL
 [incredulous] {thinkingA} Bien, je suis sûr que c'était compliqué.
-70) HERSHEL
+70)  HERSHEL
 [incredulous] {thinkingA} Bien, je suis sûr que c'était compliqué.
-17) LEE
+17)  LEE
 {thinkingA} On y a été ammenés, oui.
-18) LEE
+18)  LEE
 [trying to change the subject] {fearA}{body-C} Cette {happyB}ferme est sur une belle parcelle de terre.
-19) HERSHEL
+19)  HERSHEL
 {sadA} Ca n'a jamais été prévu, d'avoir un endroit comme celui-ci. Il était dans la famille, et je pense que j'en faisais partie.{happyA} La famille c'est important, c'est tout ce qui compte.{thinkingA}Vous êtes d'accord avec ça?
-20) HERSHEL
+20)  HERSHEL
 {thinkingA} Où est votre famille maintenant? Des parents? Une femme? Une petite amie? 
-21) HERSHEL
+21)  HERSHEL
 {thinkingA} Hmm, si vous m'aviez dit ça il y a vingt ans je ferais encore ça, sachez que vous vous mettiez le doigt dans l'oeil.
-22) LEE
+22)  LEE
 {normalD} Mes parents sont à Macon, avec mon frère.
-23) LEE
+23)  LEE
 {normalD} Je n'ai plus de femme. Je pense qu'elle est en Virginie, peut-être.
-24) LEE
+24)  LEE
 {normalD} Je n'ai pas de famille. {happyA}J'ai eu un poisson combattant sur mon bureau à l'Université.
-25) LEE
+25)  LEE
 ...
-26)
+26)  
 Mes parents sont a Macon.
-27)
+27)  
 Je n'ai plus de femme.
-28)
+28)  
 Je n'ai pas de famille.
-30) HERSHEL
+30)  HERSHEL
 {happyA} Et bien j'espère qu'ils vont bien.
-31) HERSHEL
+31)  HERSHEL
 {sadA} Je suis désolé de l'entendre.
-32) HERSHEL
+32)  HERSHEL
 {sadA} J'espère que quelqu'un s'est souvenu qu'il fallait le nourrir.
-33) HERSHEL
+33)  HERSHEL
 {angryA} Bien. Gardez votre bouche fermée. {disgustA} Désagréable comme l'enfer, mais c'est ce qu'un homme doit faire.
-71) HERSHEL
+71)  HERSHEL
 {angryA} Bien. Gardez votre bouche fermée. {disgustA} Désagréable comme l'enfer, mais c'est ce qu'un homme doit faire.
-34) HERSHEL
+34)  HERSHEL
 {sadA}{body-D} Mais maintenant, vous avez cette petite fille dont vous devez prendre soin.{body-handships} Clémentine, c'est ça? {thinkingA}Vous êtes tombé sur elle par hasard?
-36) LEE
+36)  LEE
 {normalC}{body-A} Ouais, je cherchais de l'aide dans sa maison.
-37) LEE
+37)  LEE
 {normalC}{body-A} J'ai été attaqué et elle est venue à mon secours.
-38) LEE
+38)  LEE
 {thinkingA}{body-A} Où voulez-vous en venir?
-39)
+39)  
 Je cherchais de l'aide dans sa maison.
-40)
+40)  
 Une de ces choses a voulu me mordre et elle m'est venue en aide.
-41)
+41)  
 Ou voulez-vous en venir?
-42) HERSHEL
+42)  HERSHEL
 [judgmental, distrusting] {disgustA} Hmmmm. [like, is that so]
-43) HERSHEL
+43)  HERSHEL
 {angryA} Puis-je vous donner un conseil?
-44) LEE
+44)  LEE
 {normalB} Bien sûr.
-45) LEE
+45)  LEE
 {angryA}{body-C} Qu'est ce que c'est?
-46) LEE
+46)  LEE
 {angryB}{body-C} Occupez-vous de vos affaires.
-47)
+47)  
 Bien entendu.
-48)
+48)  
 Qu'est ce que c'est?
-49)
+49)  
 Occupez-vous de vos affaires.
-51) HERSHEL
+51)  HERSHEL
 {normalC}{body-D} Je ne sais ni qui vous êtes, ni ce que vous avez fait.
-52) HERSHEL
+52)  HERSHEL
 {thinkingA}{body-D} Mais vous feriez mieux de devenir un meilleur menteur, et rapidement.
-53) HERSHEL
+53)  HERSHEL
 {thinkingA} Mais mieux vaut découvrir votre histoire. Ou du moins ce que vous voulez que votre histoire soit.
-54) HERSHEL
+54)  HERSHEL
 {fearA} Disons que les choses ne s'améliorent pas dans les villes. {normalB} Ou bien qu'elles empirent plus rapidement que prévu. {thinkingA} Vous allez devoir dépendre de l'honnêteté des étrangers, si vous voulez vous en tirer. {sadA} Et si ces mêmes personnes arrivent à vous interroger vous aurez des ennuis.
-67) HERSHEL
+67)  HERSHEL
 {fearA} Disons que les choses ne s'améliorent pas dans les villes. {normalB} Ou bien qu'elles empirent plus rapidement que prévu. {thinkingA} Vous allez devoir dépendre de l'honnêteté des étrangers, si vous voulez vous en tirer. {sadA} Et si ces mêmes personnes arrivent à vous interroger vous aurez des ennuis.
-69) HERSHEL
+69)  HERSHEL
 {fearA} Disons que les choses ne s'améliorent pas dans les villes. {normalB} Ou bien qu'elles empirent plus rapidement que prévu. {thinkingA} Vous allez devoir dépendre de l'honnêteté des étrangers, si vous voulez vous en tirer. {sadA} Et si ces mêmes personnes arrivent à vous interroger vous aurez des ennuis.
-55) HERSHEL
+55)  HERSHEL
 {disgustA} Donc, qui que vous soyez, et quoi que vous ayez fait, merde gardez-le pour vous.
-68) HERSHEL
+68)  HERSHEL
 {disgustA} Donc, qui que vous soyez, et quoi que vous ayez fait, merde gardez-le pour vous.
-56) HERSHEL
+56)  HERSHEL
 [a hmmph, kind of to yourself] {happyA} Mais au moins vous avez le bon sens d'écouter un homme qui vous donne des conseils.
-57) HERSHEL
+57)  HERSHEL
 {fearA} Oh, et {angryA}je commencerais par faire attention à votre attitude, l'ami.
-58) HERSHEL
+58)  HERSHEL
 {sadA} Oh, et {angryA} essayez d'être mieux qu'un trou du cul, ça vous aidera.
-59) HERSHEL
+59)  HERSHEL
 {angryA} Une autre chose : {thinkingA} vous allez devoir savoir comment répondre à une question quand quelqu'un vous la pose.
-60) HERSHEL
+60)  HERSHEL
 {surprisedA} ALLEZ-Y! Je vais chercher mon fusil.
-61) SHAWN
+61)  SHAWN
 [super far away scream] MERDE, ILS SONT ICI! [gets leg trapped] AHH! A L'AIDE!
-62) CLEMENTINE
+62)  CLEMENTINE
 [SCREAM!] AHHHHHH!
-63) LEE
+63)  LEE
 {fearC} Qu'est-ce que?! --
-64) HERSHEL
+64)  HERSHEL
 [pickup1] Et honnêtement, je ne veux même pas savoir.
-65) HERSHEL
+65)  HERSHEL
 [pickup1] {disgustA} Je ne suis pas stupide. Je savais que vous mentiez la nuit dernière ; à propos de qui était avec vous dans cette voiture.
-66) HERSHEL
+66)  HERSHEL
 [pickup1] HMMPH. [pissed]
-72) HERSHEL
+72)  HERSHEL
 [pickup1] HMMPH. [pissed]
 
