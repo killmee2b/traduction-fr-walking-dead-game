@@ -191,41 +191,41 @@ Tu es débile.
 96)  CARLEY
 [you're nuts] Je n'ai pas dit ça.
 97)  CARLEY
-Go !
+Go!
 98)  CARLEY
-Faites attention !
+Faites attention!
 99)  CARLEY
-Voila!
+Voilà!
 100)  CARLEY
-Regardez !
+Regardez!
 101)  CARLEY
-Ca va ?
+Ca va?
 102)  CARLEY
-LEE ! FAIT ATTENTION !
+LEE ! FAIT ATTENTION!
 103)  CARLEY
-BAISSE TOI !
+BAISSE-TOI!
 104)  CARLEY
 JE L'AI.
 105)  CARLEY
 Je suis juste derrière.
 106)  CARLEY
-Qu'est-ce que c'était ?
+Qu'est-ce que c'était?
 107)  CARLEY
 Nous devons être SILENCIEUX.
 108)  CARLEY
-Attendez-le ...
+Attendez-le...
 109)  CARLEY
-Regardez, là-bas !
+Regardez, là-bas!
 110)  CARLEY
-Si nous pouvions juste ...
+Si nous pouvions juste...
 111)  CARLEY
-Attendez ...
+Attendez...
 112)  CARLEY
 [grabbed by a zombie]
 113)  CARLEY
 [bashing a zombie's brains in]
 114)  CARLEY
-Maintenant !
+Maintenant!
 115)  MOTEL GIRL
 [pickup1][crying]
 116)  MOTEL GIRL
