@@ -865,7 +865,7 @@ Quoi... Que penses-tu...?
 434)  LEE
 Je ne sais pas Glenn, nous devons bouger.
 435)  USE_CAR_DOOR DIR
-(<<author>>Sean Vanaman, Mon Sep 26 19:04:18 2011<<date:1317089058>>) Lee ouvre la porte de la voiture et regarde dedans.
+(<<author>>Sean Vanaman, Mon Sep 26 19:04:18 2011<<date:1317089058>>)  Lee ouvre la porte de la voiture et regarde dedans.
 436)  LEE
 [pickup1] [hushed, sharp] Couvre-moi.
 437)  LEE

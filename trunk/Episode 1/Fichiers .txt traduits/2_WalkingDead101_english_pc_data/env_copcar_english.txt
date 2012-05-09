@@ -1,225 +1,225 @@
-1) COP
+1)  COP
 {sadA}{body-drive}Bien, {happyC}je considère que vous n'avez rien fait, alors.
-2)
+2)  
 Pourquoi vous dites ça?
-3)
+3)  
 Est-ce vraiment important?
-4)
+4)  
 Vous savez ce qu'il disent à propos des considérations.
-6) LEE
+6)  LEE
 {thinkingA}{body-sitcuffed}Pourquoi vous dites ça?
-7) LEE
+7)  LEE
 {angryA}{body-sitcuffed}Cela importe-t-il{normalC} vraiment?
-8) LEE
+8)  LEE
 {thinkingA}{body-sitcuffed}Vous savez ce qu'il disent à propos des considérations.
-9) COP
+9)  COP
 {happyC}{body-drive}Nan, pas {sadA}vraiment.
-10) LEE
+10)  LEE
 {happyA}Ouais, quelque chose comme ça.
-11) COP
+11)  COP
 {happyB}{body-drive}Ha, non mais je {happyC} considère que ça ressemble beaucoup à de la supposition.
-12) COP
+12)  COP
 {normalC}{body-drive}Hmm.
-112) COP
+112)  COP
 {normalC}{body-drive}Hmm.
-13) COP
+13)  COP
 {happyB}{body-drive}Vous savez, j'ai conduit un tas de type à cette prison.{sadA}Dieu sait combien. Habituellement, c'est à ce moment-là qu'ils me disent : {surprisedA}"Je n'ai rien fait."
-14)
+14)  
 Et qu'est-ce que vous en dites?
-15)
+15)  
 C'est pas mon cas.
-16)
+16)  
 A chaque fois?
-18) LEE
+18)  LEE
 {normalC}{body-sitcuffed}Et qu'est-ce que vous dites?
-19) COP
+19)  COP
 {normalC}{body-drive}Je dis "Ouais,{sadA} je sais que tu n'as rien fait."
-20) LEE
+20)  LEE
 {angryA}{body-sitcuffed}C'est pas mon cas.
-21) COP
+21)  COP
 {normalC}{body-drive}Parce que les types dans votre position l'ont {fearA}déjà assez dit?
-22) LEE
+22)  LEE
 {normalD}{body-sitcuffed}A chaque fois?
-23) COP
+23)  COP
 {happyA}{body-drive}CHAQUE fois.
-24) COP
+24)  COP
 {thinkingA}{body-drive}Hmmm, mais vous {happyB}ne parlez pas beaucoup, n'est-ce pas?
-114) COP
+114)  COP
 {thinkingA}{body-drive}Hmmm, mais vous {happyB}ne parlez pas beaucoup, n'est-ce pas?
-118) COP
+118)  COP
 {thinkingA}{body-drive}Hmmm, mais vous {happyB}ne parlez pas beaucoup, n'est-ce pas?
-25) COP
+25)  COP
 {sadA}{body-drive}J'ai {normalC}un peu suivi votre cas, vous êtes de {happyB}Macon.
-26)
+26)  
 Vous êtes aussi de Macon alors.
-27)
+27)  
 Alors vous avez un avis.
-28)
+28)  
 Qu'est-ce que vous en pensez?
-30) COP
+30)  COP
 {happyC}{body-drive}Yep. Je me suis rapproché {happyD} d'Atlanta pour devenir flic dans les années 70. {fearA}J'ai toujours voulu travailler sur une affaire de meurtre, {sadA}comme ce bazar sénatorial auquel vous êtes mêlé, {happyC}sauf votre respect.
-31) LEE
+31)  LEE
 {thinkingA}{body-sitcuffed}Vous êtes aussi de Macon alors.
-32) LEE
+32)  LEE
 {thinkingA}{body-sitcuffed}Qu'est-ce que vous pensez?
-33) COP
+33)  COP
 {happyB}{body-drive}Je suis juste heureux d'avoir choisi ce côté {happyA} de la loi et d'avoir laisser le traitement des grosse affaires aux autres. Particulièrement quand cela concerne des professeurs tuant des sénateurs, {normalC}sauf votre respect.e s45s
-34) COP
+34)  COP
 {sadA}{body-drive}Ce n'est pas tous les jours qu'un type du comté de Bibb passe {fearA}et tue un Sénateur de l'Etat, {normalB}ça c'est sûr.
-111) COP
+111)  COP
 {sadA}{body-drive}Ce n'est pas tous les jours qu'un type du comté de Bibb passe {fearA}et tue un Sénateur de l'Etat, {normalB}ça c'est sûr.
-119) COP
+119)  COP
 {sadA}{body-drive}Ce n'est pas tous les jours qu'un type du comté de Bibb passe {fearA}et tue un Sénateur de l'Etat, {normalB}ça c'est sûr.
-35) LEE
+35)  LEE
 {happyB}C'est sûr.
-36) COP
+36)  COP
 {happyA}Bien.
-37) COP
+37)  COP
 Bordel. La famille entière avait l'habitude d'aller {happyC}à la pharmacie du centre ville.{normalB}Elle est toujours là?
-38) COP
+38)  COP
 {normalA}{body-drive}Combien de temps avez-vous travaillé à l'université?
-39) LEE
+39)  LEE
 {normalA}{body-sitcuffed}J'allais sur ma 6ème année.
-40) COP
+40)  COP
 Vous {sadA}voulez savoir comment je le vois?
-41) COP
+41)  COP
 {happyC}Vous avez rencontré votre femme à Athens ?{Lee sadB}
-42)
+42)  
 Ouai.
-43)
+43)  
 Pas vraiment.
-44)
+44)  
 J'ai d'autres choix?
-46) COP
+46)  COP
 {sadA}{body-drive}Je ne voulais pas dire ça. Je {happyB} crois en l'innocence tant que {happyC}la culpabilité n'est pas prouvée. Même {normalB} en considérant les personnes qui ont dit "vous l'avez tué".
-47) LEE
+47)  LEE
 {normalD}{body-sitcuffed}Ouai.
-48) LEE
+48)  LEE
 {normalC}{body-sitcuffed}Pas vraiment.
-49) LEE
+49)  LEE
 {normalC}{body-sitcuffed}J'ai d'autres choix ?
-50) COP
+50)  COP
 {happyB}{body-drive}Et bien tant pis, c'est {happyC}ma voiture. Vous avez peut être le droit de garder le silence, mais ça ne veut pas dire que moi aussi.
-51) COP
+51)  COP
 {happyC}{body-drive}Bien sûr que non.
-52) COP
+52)  COP
 Vous pourriez juste être marié à la mauvaise femme.
-53) COP
+53)  COP
 {fearA}{body-drive}J'imagine qu'il{normalB} doit y avoir une myriade d'hypothèses. Auto-défense, {sadA}meutre de sang-froid, {fearA}accident, conspiration, {thinkingA}merde, euh... {surprisedA}réaction allergique aux, euh...{happyD} hehe, balles! Ha! {happyB}N'est pas qu'une allergie assez commune!
-54)
+54)  
 J'aurais pu l'être.
-56)
+56)  
 Ou alors elle s'est mariee avec le mauvais gars.
-57)
+57)  
 Allez-vous faire voir.
-58) COP
+58)  COP
 {fearA}Alors, il a arrêté, {body-drive}{thinkingA}et après avoir épuisé toutes ses options, il {disgustA}a commencé à pleurer dans les jupes de sa mère. {fearC}"Maman, c'est un grand malentendu! {angryA}Ce n'était pas moi!"
-59) COP
+59)  COP
 {sadA}{body-drive}J'ai conduit un homme une fois, c'était {sadB}le pire. Il {fearA}ne voulait pas arrêter de dire {thinkingA}qu'il n'avait rien fait.
-60) COP
+60)  COP
 {fearC}Alors peu de temps après, {thinkingA}{body-turnback}il a commencé à donner des coups de pied au dos du siège, comme un satané gosse dans un avion. Et {fearC}je lui ai dit d'arrêter, que {angryA}c'était la propriété du gouvernement, et que je serais {thinkingA}contraint de le neutraliser sinon.
-61) COP
+61)  COP
 C'était un type âgé. {sadA}Gros, des petits yeux derrière {disgustA}des lunettes chiques, et il gémissait juste {fearB} derrière là, disant {surprisedA}que ce n'était pas lui. {thinkingA}En pleurant et en mettant de la morve partout, {happyC}juste là où vous êtes assis.
-62)
+62)  
 Mec.
-63)
+63)  
 Peut-être qu'il n'avait rien fait.
-67) LEE
+67)  LEE
 Peut-être qu'il n'avait rien fait.
-64)
+64)  
 Alors, il l'avait fait?
-66) LEE
+66)  LEE
 {thinkingA}{body-sitcuffed}Peut-être qu'il était innocent.
-68) COP
+68)  COP
 {fearB}{body-drive}Mec?! Même pas {happyC}de près!
-69) LEE
+69)  LEE
 {thinkingB}{body-sitcuffed}Mec.
-70) COP
+70)  COP
 {fearC}{body-drive}Innocent?
-71) COP
+71)  COP
 Cela prouve que les gens {disgustA}deviennent fous {fearB}lorsque qu'ils croient que leur vie est finie.
-72) COP
+72)  COP
 {surprisedA}{body-drive}Ils ont choppé {thinkingA} l'enfoiré en flagrant délit ! {angryA}Poignardant sa femme, la découpant quand les collègues sont passés par la porte! {surprisedA}Le meurtrier s'assoit dans ma voiture, en pleurant {fearC}qu'il n'avait rien fait! {thinkingA}Je pense qu'il le croyait vraiment.
-73) COP
+73)  COP
 {happyD}{body-drive}Oh, j'en ai une autre {body-turnback}pour vous. {surprisedA}Celle-ci est un peu moins déprimante et{happyB} un peu plus hilarante si je peux dire. {fearB}C'était à une autre époque --
-74) COP
+74)  COP
 [Continuation of story] Il s'est mis à trembler, merde il s'est pissé dessus, il ne pouvait même pas faire une phrase complète. Et juste à ce moment-là, je reçois un message sur la radio, je n'avais pas arrêté le bon gars, c'était juste un collégien qui avait fait un saut dans le réservoir de l'école la nuit d'avant.
-75) COP
+75)  COP
 N'est-ce pas hilarant?!
-76) COP RADIO
+76)  COP RADIO
 Votre attention, je répète VOTRE ATT-
-77) COP
+77)  COP
 Je choppe ce voyou dans les rues de Macon et j'étais particulièrement énervé ce jour-là. Donc il était dans la voiture et je commencais à lui dire ce qui allait lui arriver ; les choses qu'il pourrait faire pendant les 50-75 années restantes de sa pathétique vie, j'ai jamais vu un mec aussi apeuré de ma carrière.
-78)
+78)  
 FAITES ATTENTION!
-79)
+79)  
 OH MERDE!
-80)
+80)  
 SUR LA ROUTE!
-81)
+81)  
 PUTAIN DE CONDUITE!
-82) COP RADIO
+82)  COP RADIO
 Il semble qu'il y ait un code 10-91E prés du 285 Peachtree Exit. A toutes les voitures, on demande à tous les officiers de rester à l'affût pour un 10-91v dans la zone.
-83) COP RADIO
+83)  COP RADIO
 Votre attention : un convoi médical est en route pour Hartsfield, il arrivera dans environ 10 ou 20 secondes.
-84) COP RADIO
+84)  COP RADIO
 Emeute en cours. Tous les officiers disponibles sont réquisitionnés pour un code 217. Roulement et répartition à tous les emplacements.
-85) COP
+85)  COP
 {thinkingA}{body-drive}Vous êtes fort, mais {happyC}pas que fort.
-86) COP
+86)  COP
 {happyB}{body-drive}Je suis sûr que le surveillant les aura en un rien de temps. [sarc]
-87) COP
+87)  COP
 {sadA}{body-drive}Tout, mais {disgustA}cette machine ne se la ferme jamais. {thinkingA}Asseyez-vous dans ce siège, prêtez-y trop d'attention et vous {happyC}vous rendrez fou.
-88) LEE
+88)  LEE
 {thinkingA}{body-sitcuffed}Rien ne vous semble {thinkingB}important?
-89) COP
+89)  COP
 {sadA}{body-drive}Vous devriez apprendre à ne pas {normalC}vous inquiétez pour les choses que vous ne pouvez pas contrôler.
-90) LEE
+90)  LEE
 {surpriseC}{body-sitcuffed}Faites attention!
-91) LEE
+91)  LEE
 {fearD}{body-sitcuffed}Oh merde!
-92) LEE
+92)  LEE
 {surpriseC}{body-sitcuffed}Sur la route!
-93) LEE
+93)  LEE
 {fearD}{body-sitcuffed}Putain de conduite!
-94) LEE
+94)  LEE
 {angryA}{body-sitcuffed}Vous avez un {thinkingA}avis alors?
-95) LEE
+95)  LEE
 {happyA}{body-sitcuffed}C'est une allergie assez commune.
-96) COP
+96)  COP
 {happyB}Aux balles? Ah, ouais {happyD}je dirais ça. [a beat] {thinkingA}Vous pourriez juste être marié à la mauvaise femme.
-97) LEE
+97)  LEE
 {sadB}{body-sitcuffed}[big sigh]
-98) COP
+98)  COP
 {sadA}{body-drive}Bien, pipelette, {fearA}laissez-moi vous dire quelque chose.
-115) COP
+115)  COP
 {sadA}{body-drive}Bien, pipelette, {fearA}laissez-moi vous dire quelque chose.
-117) COP
+117)  COP
 {sadA}{body-drive}Bien, pipelette, {fearA}laissez-moi vous dire quelque chose.
-99) VFX
+99)  VFX
 la fissure dans le pare-brise comme la voiture de flic va dégringoler.
-100) LEE
+100)  LEE
 {thinkingB}{body-sitcuffed}[pickup1] Alors, il l'a fait?
-101)
+101)  
 Flic
-102)
+102)  
 Menottes
-103)
+103)  
 Radio
-104)
+104)  
 Rétroviseur
-105) COP
+105)  COP
 {thinkingA}Non, définitivement non.
-113) COP
+113)  COP
 {thinkingA}Non, définitivement non.
-106) COP
+106)  COP
 {sadA}Une vraie honte, c'est ça.
-107) COP
+107)  COP
 {happyC}Je suis juste heureux d'avoir choisi la loi et non l'ordre. Un {fearB}gros et salissant procès comme ça. {sadA}Même si vous êtes innocent, une grande partie {sadB}de ce qui s'est passé ne pourra pas être défait.
-108) COP
+108)  COP
 {normalC}J'ai un neveau à UGA, {happyD}vous y enseigniez beaucoup?
-109) COP
+109)  COP
 {thinkingB}[gets angry for a second] Peu importe, vous pourriez {disgustA}être {normalC}juste marié à la mauvaise femme.
-110) LEE
+110)  LEE
 {thinkingB}[a big bored sigh]
 

@@ -1021,7 +1021,7 @@ Désordre
 369)  
 Porte
 402)  GLENN
-[pickup1] [panicked by a scream] Merde! [DIR: (<<author>>Sean Vanaman, Tue Jul 05 18:30:12 2011<<date:1309915812>>)] [Glen bolts across the room and out the office door.]
+[pickup1] [panicked by a scream] Merde! [DIR: (<<author>>Sean Vanaman, Tue Jul 05 18:30:12 2011<<date:1309915812>>)  ] [Glen bolts across the room and out the office door.]
 415)  GLENN
 [pickup1] Lee, aller!
 416)  GLENN
