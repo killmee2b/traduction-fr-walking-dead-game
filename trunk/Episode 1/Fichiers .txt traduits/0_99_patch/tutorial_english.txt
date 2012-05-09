@@ -1,35 +1,35 @@
 1)  
-Pour faire bouger Lee, agitez le stick our appuyer sur ZQSD. Faites-ceci jusqu'à que vous vouliez que Lee s'arrête.
+Pour faire bouger Lee, bougez le stick gauche ou appuyer sur ZQSD. Faites ceci jusqu'à que vous vouliez que Lee s'arrête.
 2)  
-Saviez-vous que vous pouvez cliquer sur le truc ? Cliquez sur le truc ! Essayez !
+Saviez-vous que vous pouvez cliquer sur le truc? Cliquez sur le truc! Essayez!
 3)  
-Parfois vous pouvez cliquer sur le truc dans plus d'une direction. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
+Parfois vous pouvez cliquer dans plusieurs directions. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
 5)  
-Parfois vous pouvez cliquer sur le truc dans plus d'une direction. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
+Parfois vous pouvez cliquer dans plusieurs directions. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
 7)  
-Parfois vous pouvez cliquer sur le truc dans plus d'une direction. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
+Parfois vous pouvez cliquer dans plusieurs directions. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
 9)  
-Parfois vous pouvez cliquer sur le truc dans plus d'une direction. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
+Parfois vous pouvez cliquer dans plusieurs directions. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
 11)  
-Parfois vous pouvez cliquer sur le truc dans plus d'une direction. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
+Parfois vous pouvez cliquer dans plusieurs directions. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
 4)  
-Parfois vous pouvez cliquer sur le truc dans plus d'une direction. Utilisez la croix directionnelle et choisissez en appuyant sur A.
+Parfois vous pouvez cliquer dans plusieurs directions. Utilisez la croix directionnelle et choisissez en appuyant sur A.
 6)  
-Parfois vous pouvez cliquer sur le truc dans plus d'une direction. Utilisez la croix directionnelle et choisissez en appuyant sur A.
+Parfois vous pouvez cliquer dans plusieurs directions. Utilisez la croix directionnelle et choisissez en appuyant sur A.
 8)  
-Parfois vous pouvez cliquer sur le truc dans plus d'une direction. Utilisez la croix directionnelle et choisissez en appuyant sur A.
+Parfois vous pouvez cliquer dans plusieurs directions. Utilisez la croix directionnelle et choisissez en appuyant sur A.
 10)  
-Parfois vous pouvez cliquer sur le truc dans plus d'une direction. Utilisez la croix directionnelle et choisissez en appuyant sur A.
+Parfois vous pouvez cliquer dans plusieurs directions. Utilisez la croix directionnelle et choisissez en appuyant sur A.
 12)  
-Parfois vous pouvez cliquer sur le truc dans plus d'une direction. Utilisez la croix directionnelle et choisissez en appuyant sur A.
+Parfois vous pouvez cliquer dans plusieurs directions. Utilisez la croix directionnelle et choisissez en appuyant sur A.
 13)  
 Allez à l'étagère (Appuyez sur Z)
 14)  
 Allez à l'étagère (Utilisez le stick gauche)
 15)  
-Poussez l'étagère (utilisez la souris pour regarder, le stick gauche pour sélectionner)
+Poussez l'étagère (utilisez la souris pour regarder, faites un clique gauche pour sélectionner)
 16)  
-Poussez l'étagère (utilisez le stick droit pour regarder, A pour sélectionner)
+Poussez l'étagère (utilisez le stick droit pour regarder, appuyer sur A pour sélectionner)
 17)  
 Faites une chose (Probablement dans la voiture de flic) (utilisez la molette pour l'icone)
 18)  
@@ -39,9 +39,9 @@ Allez à la fenêtre
 20)  
 Allez à la fenêtre
 21)  
-Renforcez les tableaux (clic gauche)
+Renforcez les planches (clic gauche)
 22)  
-Renforcez les tableaux (A)
+Renforcez les planches (A)
 23)  
 Allez à la porte
 24)  
@@ -63,13 +63,13 @@ Sauvez Doug ou Carley
 32)  
 Sauvez Doug ou Carley
 33)  
-Courez !
+Courez!
 34)  
-Courez !
+Courez!
 35)  
-Répondre au flic (Molette, Clic gauche pour choisir)
+Répondre à l'officier (Molette, Clic gauche pour choisir)
 36)  
-Répondre au flic
+Répondre à l'officier
 37)  
 Si les choix disparaissent, vous resterez muet.
 38)  
@@ -87,28 +87,28 @@ Sélectionnez d'autres actions (Molette)
 44)  
 Sélectionnez d'autres actions (Croix directionnelle)
 45)  
-Liberez Clementine
+Liberez Clémentine
 46)  
-Liberez Clementine
+Liberez Clémentine
 47)  
 "La vie est la somme de tous vos choix"
 48)  
 --Albert Camus
 49)  
-Chaque choix vous fait à partir de ce moment ...
+Chaque choix fait à partir de ce moment...
 50)  
-Utilisez les boutons pour choisir votre réponse ...
+Utilisez les boutons pour choisir votre réponse...
 51)  
-Cliquez pour choisir votre réponse ...
+Cliquez pour choisir votre réponse...
 52)  
-Appuyer pour choisir votre réponse ...
+Appuyer pour choisir votre réponse...
 53)  
 Ou attendez la fin du temps, et choisissez le silence comme réponse.
 54)  
 Bien.
-Rappelez-vous ... Vos choix influencerons les personnes que vous rencontrerez, et déterminerons vos chances de survie.
+Rappelez-vous... Vos choix influenceront les personnes que vous rencontrerez, et détermineront vos chances de survie.
 55)  
-Vos choix ... une fois faits, ne peuvent pas être annulés.
+Vos choix... une fois faits, ne peuvent plus être annulés.
 56)  
 Ne peut pas être annulé.
 57)  
@@ -116,35 +116,35 @@ Maintenant. Utilisez le stick droit pour jeter un coup d'oeil autour.
 58)  
 Bien. Maintenant fixez le rétroviseur.
 59)  
-Vous verez une petite icone. Appuyer sur le bouton pour regarder le flic dans les yeux.
+Vous verrez une petite icone. Appuyer sur le bouton pour regarder l'officier dans les yeux.
 60)  
 Essayez avec des actions différentes pour voir ce qui se passe.
 61)  
 Bien. Maintenant pressez l'icone de dialogue pour lui parler.
 62)  
-définira votre histoire pour le reste de l'histoire.
+influencera le déroulement de votre histoire pour le reste de l'aventure.
 63)  
-Regarder autour, en utilisant le stick droit, et trouvez une issue pour sortir de la voiture.
+Regardez autour, en utilisant le stick droit, et trouvez une issue pour sortir de la voiture.
 64)  
-Regarder autour, en utilisant la souris, et trouvez une issue pour sortir de la voiture.
+Regardez autour, en utilisant la souris, et trouvez une issue pour sortir de la voiture.
 65)  
-Regarder autour, en utilisant le stick droit, et trouvez une issue pour sortir de la voiture.
+Regardez autour, en utilisant le stick droit, et trouvez une issue pour sortir de la voiture.
 66)  
 Bien. Maintenant BOUGEZ vers la fenêtre en utilisant encore le stick gauche.
 67)  
 Regardez la porte, et utilisez l'icone de la main pour vous traîner en dehors.
 68)  
-Bien ! Encore !
+Bien! Encore!
 69)  
 Utilisez le stick gauche pour bouger le long de la voiture.
 70)  
-Maintenant BOUGEZ vers le fenêtre, en utilisant le stick gauche.
+Maintenant BOUGEZ vers la fenêtre, en utilisant le stick gauche.
 71)  
-Utilisez le stick gauche pour sortir !
+Utilisez le stick gauche pour sortir!
 72)  
-CONTINUE
+CONTINUEZ
 73)  
-Bien. Maintenant fixez le rétroviseur pour regarder le flic dans les yeux.
+Bien. Maintenant fixez le rétroviseur pour regarder l'officier dans les yeux.
 74)  
 CHOICE:
 Vous répondez à l'officier.
@@ -152,29 +152,29 @@ Vous répondez à l'officier.
 Vous avez voulu répondre à l'officier.
 76)  
 CHOICE:  
-Vous ignorez le flic.
+Vous ignorez l'officier.
 77)  
 P
 78)  
 Bien. Maintenant le dialogue suivant sera chronométré. Soyez prêt.
 79)  
-Bien. Maintenant regardez le chronomètre. Lee ne parlera pas si vous ne choisissez pas d'option.
+Bien. Maintenant regardez le chronomètre. Lee ne parlera pas si vous ne choisissez rien.
 80)  
 PLAYING DEAD:
 Utilisez [left joystick icon] pour faire bouger Lee et explorer le monde.
 [right joystick icon] vous permet de regarder autour et d'intéragir avec les choses que vous voyez.
-Appuyez sur [a button], [b button], [x button], et [y button] pour choisir les actions ou réponses et occasionnellement décapiter un zombie.
+Appuyez sur [a button], [b button], [x button], et [y button] pour choisir les actions ou les réponses et occasionnellement décapiter un zombie.
 Et pour quitter vers le menu principal, appuyer sur [start].
 81)  
-Bien. Maintenant regardez le chronomètre. Lee ne parlera pas si vous ne choisissez pas d'option.
+Bien. Maintenant regardez le chronomètre. Lee ne parlera pas si vous ne choisissez rien.
 82)  
 Utilisez le stick gauche pour faire bouger Lee et explorer le monde.
 83)  
-Bienvenue dans The Walking Dead ...
+Bienvenue dans The Walking Dead...
 84)  
-Vous verez une petite icone. Appuyer sur le bouton X pour regarder le flic dans les yeux.
+Vous verrez une petite icone. Appuyer sur le bouton X pour regarder l'officier dans les yeux.
 85)  
-Vous verez une petite icone. Appuyer sur le bouton A pour regarder le flic dans les yeux.
+Vous verrez une petite icone. Appuyer sur le bouton A pour regarder l'officier dans les yeux.
 86)  
 Le texte iPad devrait être ici.
 87)  
@@ -190,7 +190,7 @@ Vous avez un temps limité pour choisir une option de dialogue.
 92)  
 Vous avez un temps limité pour faire votre choix.
 93)  
-Appuyez sur le bouton pour regarder le flic dans les yeux.
+Appuyez sur le bouton pour regarder l'officier dans les yeux.
 94)  
 Maintenant fixez le rétroviseur.
 95)  
@@ -198,17 +198,17 @@ Utilisez le stick droit pour regarder autour.
 96)  
 Le silence est une option valide.
 97)  
-Vous choissirez de ne rien dire si le temps expire.
+Vous choisirez de ne rien dire si le temps expire.
 98)  
-Allez chercher à l'exterieur si Kenny ou Hershel a besoin de votre aide.
+Allez voir à l'extérieur si Kenny ou Hershel ont besoin de votre aide.
 99)  
-Soyez sûr d'avoir vérifier chaque personne rencontrées jusqu'ici.
+Soyez sûr d'avoir discuté avec chaque personne rencontrée jusqu'ici.
 100)  
-Maintenant BOUGEZ vers le fenêtre, en utilisant la touche Z (avant).
+Maintenant BOUGEZ vers la fenêtre, en utilisant la touche Z (avant).
 101)  
 Utilisez la touche Z (avant) pour bouger le long de la voiture.
 102)  
-Utilisez la touche S (arrière) pour partir !
+Utilisez la touche S (arrière) pour partir!
 103)  
 Utilisez la molette pour sélectionner un choix et le bouton gauche de la souris pour confirmer.
 Vous pouvez aussi utilisés les touches numériques 1-4 pour faire votre choix.

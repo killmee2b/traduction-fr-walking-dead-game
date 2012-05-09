@@ -1,7 +1,7 @@
 1)  LEE
 [gathering himself] {fearA} Mec...
 2)  CLEMENTINE
-{fearA} Tu l'a tué ?
+{fearA} Tu l'as tuée?
 3)  
 Oui.
 4)  
@@ -15,17 +15,17 @@ Quelque chose l'a fait sinon.
 9)  CLEMENTINE
 {sadA} {body-handsopen} C'est bon. Je pense que c'était un monstre.
 10)  CLEMENTINE
-{fearB} {body-handonwrist} Des fois ils reviennent.
+{fearB} {body-handonwrist} Parfois ils reviennent.
 11)  LEE
-[disbelief] {surpriseA} Tu en as tué un ?
+[disbelief] {surpriseA} Tu en as tué un?
 12)  LEE
 {thinkingB} {body-c2} Je ne sais pas trop. {sadA} Je pense.
 13)  LEE
 {thinkingB} {body-c2}Je pense que quelque chose l'a fait sinon. {normalD} Avant moi, {sadA} je pense.
 14)  CLEMENTINE
-{sadC} {body-handonwrist}J'ai entendu ses cris il y a 2 nuits. {fearA} Peut être qu'un monstre la eu.
+{sadC} {body-handonwrist}J'ai entendu ses cris il y a deux nuits. {fearA} Peut-être qu'un monstre l'a eue.
 15)  LEE
-[Délicatement, parlant à une petite fille de comment elle a entendu quelqu'un être mangé par un zombie, elle dit que la personne est peut être morte.] {surpriseB} Il y a 2 nuits ? {sadB} Ouais, c'est probablement ce qui est arrivé.
+[Doucement, parlant à une petite fille qui lui raconte comment elle a entendu quelqu'un se faire manger par un zombie, elle dit que la personne est peut-être morte.] {surpriseB} Il y a deux nuits? {sadB} Ouais, c'est probablement ce qui est arrivé.
 16)  LEE
 Il y a quelqu'un dehors.
 17)  CLEMENTINE
@@ -33,33 +33,33 @@ Il y a quelqu'un dehors.
 18)  CLEMENTINE
 {sadA} {body-handsopen}Oui.{sadC} Je veux que mes parents reviennent à la maison.
 19)  CLEMENTINE
-Quelqu'un en vie !
+Quelqu'un en vie!
 20)  LEE
 Ouais, allons voir.
 21)  LEE
-{sadC} Je pense que ça peut prendre du temps, {normalD} tu sais ?
+{sadC} Je pense que ça peut prendre du temps, {normalD} tu sais?
 22)  LEE
-{sadA} {body-c2}Vous étiez toute seules par ici ?
+{sadA} {body-c2}Tu étais toute seule ici?
 23)  CLEMENTINE
 [No] {sadB}{body-fists} Non. {fearA} Mais ils en ont tué beaucoup.
 24)  LEE
-{disgustA} Je vais m'asseoir une minute et juste, me resaisir.
+{disgustA} Je vais m'asseoir une minute et juste, essayer de me ressaisir.
 25)  LEE
-{normalC} Regarde, Je ne sais pas ce qu'il ce passe. {thinkingA} Mais je vais m'occuper de toi.
+{normalC} Ecoute, Je ne sais pas ce qui se passe. {thinkingA} Mais je vais m'occuper de toi.
 26)  CLEMENTINE
-{fearB}Non! Ce n'est pas bien, {fearA}surtout lorsqu'il fait noir.
+{fearB}Non! Ce n'est pas bien, {fearA}surtout quand il fait noir.
 27)  CLEMENTINE
 [tentative] {sadB} Ok... Je suppose que c'est bon.
 28)  LEE
-{surpriseA} On va où ensuite ?
+{surpriseA} On va où ensuite?
 29)  LEE
 {normalD} Salut.
 30)  
-Chercher de l'aide, avant qu'il fasse nuit.
+Chercher de l'aide, avant qu'il ne fasse nuit.
 31)  CLEMENTINE
-[pickup1] [nervous, scared] Que va t-on faire maintenant ?
+[pickup1] [nervous, scared] Que va-t-on faire maintenant?
 32)  
-Sortir d'ici avant que le soleil ne se couche.
+Attendre qu'il fasse nuit.
 33)  LEE
 [pickup3] Nous devons chercher de l'aide... [follows up with "now" or "later"]
 34)  CLEMENTINE
@@ -75,26 +75,26 @@ Sortir d'ici avant que le soleil ne se couche.
 50)  LEE
 [pickup3] Allons-y. Reste près de moi.
 36)  LEE
-[pickup3] Nous devons trouver de l'aide avant la nuit.
+[pickup3] Nous devons trouver de l'aide avant que la nuit ne tombe.
 43)  LEE
-[pickup3] Nous devons trouver de l'aide avant la nuit.
+[pickup3] Nous devons trouver de l'aide avant que la nuit ne tombe.
 37)  CLEMENTINE
-[pickup1] Cela semble bon. Nous pourrions nous cacher dans ma cabane d'ici là.
+[pickup1] Ca semble bon. Nous pourrions nous cacher dans ma cabane d'ici là.
 49)  CLEMENTINE
-[pickup1] Cela semble bon. Nous pourrions nous cacher dans ma cabane d'ici là.
+[pickup1] Ca semble bon. Nous pourrions nous cacher dans ma cabane d'ici là.
 38)  LEE
-[pickup3] Nous devons partir de ce quartier; ce n'est pas sûr. Nous sommes moins susceptibles d'être vu si l'on bouge la nuit.
+[pickup3] Nous devons quitter ce quartier ; il n'est pas sûr. Nous serons plus discrets si nous bougeons la nuit.
 48)  LEE
-[pickup3] Nous devons partir de ce quartier; ce n'est pas sûr. Nous sommes moins susceptibles d'être vu si l'on bouge la nuit.
+[pickup3] Nous devons quitter ce quartier ; il n'est pas sûr. Nous serons plus discrets si nous bougeons la nuit.
 39)  CLEMENTINE
-[pickup1] [nervous]Mes parents pourraient revenir à la maison.
+[pickup1] [nervous]Mes parents pourraient rentrer à la maison.
 47)  CLEMENTINE
-[pickup1] [nervous]Mes parents pourraient revenir à la maison.
+[pickup1] [nervous]Mes parents pourraient rentrer à la maison.
 40)  LEE
-[pickup3] Nous n'irons pas loin. Nous allons essayer de trouver un abri et revenir avec d'autres gens.
+[pickup3] Nous n'irons pas loin. Nous allons essayer de trouver un abri et nous reviendrons avec d'autres gens.
 51)  LEE
-[pickup3] Nous n'irons pas loin. Nous allons essayer de trouver un abri et revenir avec d'autres gens.
+[pickup3] Nous n'irons pas loin. Nous allons essayer de trouver un abri et nous reviendrons avec d'autres gens.
 42)  LEE
-[pickup3] [talking to clementine] Il sera dur de griimper avec cette jambe, mais c'est une bonne idée.
+[pickup3] [talking to clementine] Ca va être dur de grimper avec cette jambe, mais c'est une bonne idée.
 46)  LEE
-[pickup3] [talking to clementine] Il sera dur de griimper avec cette jambe, mais c'est une bonne idée.
+[pickup3] [talking to clementine] Ca va être dur de grimper avec cette jambe, mais c'est une bonne idée.

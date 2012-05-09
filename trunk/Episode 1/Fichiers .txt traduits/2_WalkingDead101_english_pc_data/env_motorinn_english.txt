@@ -1,0 +1,880 @@
+1)  LEE
+{NormalC} Hey Glenn
+2)  RADIO
+[over radio] ......annah est en alerte de niveau neuf, tandis que plus éloignée de l'océan, Atlanta a été abaissée temporairement à un niveau d'alerte huit en raison des attaques et des émeutes signalées dans tous les quartiers de la ville. Les citoyens sont invités à rester dans leur maison ou à se déplacer vers les villes de Charlotte, Atlanta, ou Orlando. Si des citoyens choisissent de rester chez eux, ils sont invités à se rapprocher de leur radio et à attendre d'autres instructions. Se déplacer vers les villes de Charlotte, Atlanta ou Orlando peut devenir nécessaire afin d'assurer la sécurité de tous les citoyens...
+3)  RADIO
+[over radio] Suite à d'innombrables situations d'urgence dans tous le comté, les niveaux d'alerte actuels des villes de Géorgie sont les suivants : Atlanta, catastrophe de niveau neuf, Augusta, désastre de niveau huit, Columbus, zone d'infection de niveau six, Savannah, catastrophe de niveau neuf, Athènes, désastre de niveau huit , Sandy Springs, épidémie de niveau sept, Macon, catastrophe de niveau neuf, Roswell, catastrophe de niveau neuf, Albany, catastrophe de niveau neuf, Savannah est désormais à un niveau d'alerte neuf...
+4)  GLENN
+{NormalB}Je pense que je dois y aller.
+5)  LEE
+{SurpriseA}A Atlanta?
+6)  GLENN
+Ouais... J'ai des amis là-bas, et{ThinkingA} Je ne peux pas rester ici en sachant qu'ils pourraient être pris au piège dans cette ville.
+7)  LEE
+{ThinkingA} On dirait que personne ne sait ce qui se passe. {NormalC} Quand nous sommes partis il ya quelques jours cela aurait pu se dérouler autrement.
+8)  GLENN
+{NormalB}Je vais tenter ma chance.
+9)  <<ID
+{269A4908-84ED-44B1-B2DC-3A55670A2A5E}>>
+10)  LEE
+{ThinkingA} Je pense que tu ne fais pas le bon choix
+11)  LEE
+{NormalD}Tu dois faire ce que tu dois faire.
+12)  LEE
+{HappyA}Trouve tes amis et reste en vie.
+13)  
+Je pense que ce n'est pas le bon choix
+14)  
+Tu dois faire ce que tu dois faire.
+15)  
+Trouve tes amis
+16)  LEE
+{NormalC}Je respecte ça.
+20)  LEE
+{NormalC}Je respecte ça.
+17)  GLENN
+{NormalC}Peut-être. Mais je préfère faire le mauvais choix et le savoir, que de faire{ThinkingA}  le bon et ne pas le savoir.
+18)  LEE
+Je respecte ça.
+19)  GLENN
+{FearA} Et je vais faire ça.
+21)  GLENN
+{HappyA}Merci Lee, ça compte beaucoup pour moi. {SadA}Je ne veux pas vous abandonner tous, mais {NormalC}cela me semble être le mieux, et je suis sûr que les choses seront revenues à la normale ici en un rien de temps.
+22)  LEE
+{ThinkingA}Espérons-le.
+23)  GLENN
+Eh bien reste en securité. Et... j'espère que tu t'en tireras bien.
+24)  LARRY
+{NormalC}Lee, viens ici une seconde.
+25)  LEE
+{AngryA} Que veux-tu?
+26)  LARRY
+{DisgustA} Tu aimes ma fille?
+27)  LEE
+{SurpriseA}Ouais, elle est géniale.
+28)  LEE
+{AngryC}Son père a essayé de me tuer, {DisgustA}alors...
+29)  LEE
+{NormalB}Pas vraiment.
+30)  LEE
+{ThinkingA}Elle est bien.
+31)  
+Ouais, elle est super.
+32)  
+Son père a voulu me tuer, donc...
+33)  
+Elle est bien.
+34)  
+Pas vraiment.
+35)  LARRY
+{AngryA}Eh bien reste{AngryC}loin d'elle.
+36)  LEE
+{DisgustA}Ou bien quoi?
+37)  LARRY
+Ou tout le monde saura, que Lee Everett est un meurtrier.
+38)  LARRY
+{DisgustA}Ou, euh, {AngryA}tout le monde saura, que Lee Everett est {AngryB}est un meurtrier. {AngryA} Et que c'était avant que tu aies à le faire pour rester en vie.
+50)  LARRY
+{DisgustA}Ou, euh, {AngryA}tout le monde saura, que Lee Everett est {AngryB}est un meurtrier. {AngryA} Et que c'était avant que tu aies à le faire pour rester en vie
+39)  LARRY
+[angry] {AngryC}Bien, heu. {AngryB}Eh bien je t'emmerde, Lee Everett.
+40)  LARRY
+{HappyB}C'est vrai. {AngryA}Je sais qui tu es,{AngryB} je sais que tu es un meurtrier et tu vas t'éloigner de ma fille,{AngryC} franchis la ligne ET {DisgustA}tout le monde saura.
+41)  LARRY
+{HappyA}Bien. {AngryB}Reste loin d'elle ; ou {AngryA}tout le monde ici saura que {DisgustA}Lee Everett est un meurtrier. {AngryB}Et je ne parle pas de ces choses.
+42)  LARRY
+{HappyA}Encore une fois, je n'attendrais pas {DisgustA}d'un meurtrier qu'il écoute ce que quiconque a à dire.
+48)  LARRY
+{DisgustA}Tu m'entends?
+49)  LARRY
+{AngryB}Je t'ai posé une question, mon gars.
+45)  LARRY
+{DisgustA}Je sais qui tu es.
+46)  LARRY
+{AngryC}j'en ai rien à branler{DisgustA}de ce qui t'es arrivé. {AngryC} Mais si quelque chose arrive à ma fille ou à cette petite fille, tu le paieras,{DisgustA} hé, fais gaffe à toi.
+47)  LARRY
+{DisgustA} Tu m'entends?
+48)  LARRY
+{AngryA}Eh bien il a fait ça car il savait que Lee Everett est un {AngryB}meurtrier ; {AngryA}voilà ce que vous risquez si vous vous approchez d'elle.
+49)  LARRY
+Eh bien la réponse a intérêt à être "non".
+51)  LILLY
+{body-HoldWrist}{HappyC} {body-B}Mon père serait mort si vous n'aviez pas été là.
+52)  LEE
+{ThinkingB} {body-C2}Cette journaliste est morte à cause de moi.
+53)  LEE
+{ThinkingB} {body-C2}Ce gars, Doug, est mort à cause de moi.
+54)  LILLY
+{NormalC} tu ne peux pas être comme ça. Tu es seulement un homme.
+55)  LILLY
+{HappyC} Nous sommes chanceux de t'avoir.
+56)  KENNY
+{body-A}{HappyB}J'espère que c'est le son de nous en train de gagner contre cette chose.
+57)  LEE
+{ThinkingB} {body-C2}Je ne sais pas...
+58)  KENNY
+{HappyB} Nous avons des lits, de l'eau, et le plus important {body-B}{HappyA}nous avons de la lumière.  {ThinkingA} Il y a des endroits bien pires à appeler maison.
+59)  LILLY
+{body-HandOnHip}{HappyB} Je suis d'accord avec ça.
+60)  LILLY
+{HappyA}Ouais, t'as raison. {body-A}{HappyC}Vous savez les gars, je pense que ça va bien se passer.
+61)  KENNY
+{ThinkingA} Cette auberge est difficile à défendre. {body-HandsHips}Nous bloquerons les entrées avec des voitures et nous garderons quelqu'un pour surveiller, ainsi nous pourrons {HappyA}rester ici jusqu'à ce que les militaires viennent nous chercher.
+62)  LILLY
+{HappyA} Moi aussi.
+63)  LEE
+{HappyA}Moi auusi.
+64)  LEE
+Ce serait une bonne idée d'aller voir Doug.
+65)  DOUG
+{NormalC}Je... Je sais c'est stupide, nou nous sommes juste rencontrés...{ThinkingA}c'est débile, mais euh… Je veux dire c'est... c'est...{NormalA} probablement juste ce coté survivant, {SadB}mais, je l'aimais beaucoup.
+66)  DOUG
+{SadA}{body-B}On ne pouvait pas la sauver, hein?
+67)  LEE
+{NormalD}Comment ça va, Doug?
+68)  LEE
+{NormalC} Je ne pense pas, c'est arrivé si vite.
+69)  LEE
+{SurpriseA}Doug?
+70)  LEE
+{HappyA}Elle t'aimait beaucoup.
+71)  LEE
+{NormalD}Je suis désolé, Doug.
+72)  LEE
+{NormalC}Ca va aller.
+108)  LEE
+{NormalC}Ca va aller.
+73)  
+Elle t'aimait beaucoup.
+74)  
+Je suis desole.
+75)  
+Ca va aller.
+111)  
+Ca va aller.
+76)  DOUG
+{HappyA}Merci, Lee.
+77)  DOUG
+{SadA}C'est bon. {NormalC}Merci quand même.
+78)  DOUG
+[doesn't believe him] {NormalA}Ouais, {SadA}je sais.
+79)  DOUG
+{SadA}Désolé, c'est bête.
+80)  DOUG
+Comment as-tu fait pour choisir? {SadA}Je veux dire, nous avions tout les deux besoin d'aide... tu m'as choisi.
+81)  LEE
+Je comprends.
+82)  LEE
+Qu'est-ce qu'il y a, mec?
+83)  DOUG
+{FearA} Attends, {NormalC}Lee?
+84)  DOUG
+{NormalA}Quoi qu'il en soit, je préfère être seul, je pense.
+85)  LEE
+{NormalC}Non.
+86)  LEE
+{NormalB}J'ai cru que tu avais besoin d'aide en premier.
+87)  LEE
+{NormalD}J'allais vous aider tous les deux.
+88)  
+Je ne l'ai pas fait.
+123)  
+Je ne l'ai pas fait.
+89)  
+J'ai cru que tu avais besoin d'aide en premier.
+90)  
+J'allais vous aider tous les deux.
+125)  
+J'allais vous aider tous les deux.
+91)  LEE
+{NormalB}Parfois, il n'y a pas de choix à faire. {NormalC}On fait juste ce qu'il y a à faire.
+127)  LEE
+{NormalB}Parfois, il n'y a pas de choix à faire. {NormalC}On fait juste ce qu'il y a à faire.
+92)  DOUG
+{SadA}Oh.
+93)  LEE
+Mais ce n'était pas un choix, comme ça. {ThinkingA}c'était... {NormalC} juste quelque chose que j'ai fait. {NormalB} Je ne sais pas pourquoi.
+129)  LEE
+Mais ce n'était pas un choix, comme ça. {ThinkingA}c'était... {NormalC} juste quelque chose que j'ai fait. {NormalB} Je ne sais pas pourquoi.
+94)  DOUG
+{NormalC}Oh, Je suppose que c'est logique.
+95)  DOUG
+{NormalB}C'est logique, je suppose. {NormalC} Mais tu m'as aidé en premier.
+96)  LEE
+{NormalC}Ouais, je l'ai fait.
+130)  LEE
+{NormalC}Ouais, je l'ai fait.
+97)  DOUG
+{SadA}Je suppose que ça n'a pas d'importance.
+98)  DOUG
+{SadB}J'aurais préféré que tu la sauves.
+99)  LEE
+Je devrais peut-être aller parler à Carley.
+100)  LEE
+{NormalC} Je l'ai fait, ouais. [I'm ok, you know, considering...]
+101)  CARLEY
+{NormalA} Je vais bien. {SadA}Tu sais, compte tenu de...
+102)  CARLEY
+Je ne peux pas m'arrêter de penser à Doug. {ThinkingA}On ne pouvait pas le sauver, hein?
+103)  CARLEY
+{FearA} Je sais que c'est stupide... nous nous sommes juste rencontrés... {ThinkingB}et il était tellement... c'est juste que...{DisgustA} Je pense que je l'aimais.
+104)  LEE
+{ThinkingA}Je ne pense pas. C'est arrivé si vite.
+105)  LEE
+{NormalD}Comment ça va, Carley?
+106)  LEE
+[lighthearted] {HappyA}Eh, bien, je suis sûr qu'il t'aimait beaucoup.
+107)  LEE
+{SadA}Je suis désolé, Car.
+109)  
+Je suis certain qu'il t'aimait beaucoup.
+110)  
+Desole, Carley.
+112)  CARLEY
+[trying to make light of a tragic situation] {HappyC}Ha, Ha, n'y pensons plus.
+113)  CARLEY
+{SadA}C'est bon. {HappyA}Merci.  {ThinkingA}Il y a eu beaucoup de décès ces derniers jours.
+114)  CARLEY
+{NormalB}Ouais. {ThinkingA}Définitivement.
+115)  CARLEY
+{ThinkingB}Quoi qu'il en soit, je préfère rester seule, je crois.
+116)  LEE
+{NormalC} Je comprends.
+117)  CARLEY
+{FearA}Attends, Lee?
+118)  LEE
+{ThinkingA}Qu'est-ce qu'il y a?
+119)  CARLEY
+{ThinkingA}Comment as-tu choisi? Nous avions tous les deux besoin d'aide... {DisgustA}tu m'as choisi.
+120)  LEE
+{NormalC} Je n'ai pas pu.
+121)  LEE
+{NormalB}J'ai pensé que tu avais besoin d'aide en premier.
+122)  LEE
+{NormalD} J'allais vous aider tous les deux.
+124)  
+Je pensais que tu avais besoin d'aide en premier.
+126)  CARLEY
+{ThinkingB}Ah. [asked a question, got a benign answer]
+128)  CARLEY
+{NormalC} Ah, c'est logique.
+131)  CARLEY
+{ThinkingA} Mais tu m'as aidée en premier.
+132)  CARLEY
+{ThinkingA} Je suppose que ça n'a pas d'importance.
+133)  LEE
+[heavy]{SadA} Moi aussi, Carley.
+134)  CARLEY
+J'espérais que nous aurions pu nous en tirer tout les deux, tu sais?
+135)  LEE
+{HappyA}Ouais, nous le faisons.
+136)  KENNY
+{body-HandsHips} {HappyA}Nous avons à prendre soin les uns les autres. [remembering that he let Hershel's son die]
+137)  KENNY
+{NormalC} Pas de problème.
+138)  KENNY
+{body-B}{FearA}Fermez là-bas.
+139)  LEE
+{body-C}Merci de m'avoir sauvé.
+140)  LEE
+{body-A}{NormalA}Hey Ken.
+141)  LEE
+{body-B} {HappyB}Merci, Kenny.
+142)  LEE
+{HappyA}{body-A}Oui en effet.
+143)  LEE
+{NormalD}{body-C2}Ouais, je le sais.
+144)  KENNY
+{NormalB}{body-B}Tu as dit que tu voulais des enfants une fois.
+145)  KENNY
+Bien, {body-B}elle n'est pas ta  {NormalC}fille, donc tu ne peux pas la traiter comme ça.
+146)  KENNY
+Mais tu {NormalB}peux prendre soin d'elle. {body-A}Diable, {HappyB}peut être mieux que certain père.
+147)  KENNY
+{HappyA}Je surveille tes arrières, mon pote.
+148)  KENNY
+{SadA}{body-A}Tu crois que ça va arriver?
+149)  LEE
+{body-C}{HappyA}Merci Kenny.
+150)  LEE
+{ThinkingB}{body-C} Que ses parents se montrent? {SadA}{body-C2}Non, je ne crois pas.
+151)  LEE
+{NormalB}Oui, en effet.
+152)  KENNY
+{NormalC} Eh bien je veux que tu saches que la réponse est en toi{body-HandsHips} Je {ThinkingA}pense que tu peux t'occuper de cette petite fille.
+153)  KENNY
+{NormalB}{body-B}Plus tôt, je t'ai demandé ce que tu feras si tu ne retrouves pas les parents de Clémentine.
+154)  KENNY
+{HappyB}De rien.
+155)  LEE
+{body-A}{HappyB}Merde mec, {body-B}{ThinkingA}il serait l'un d'eux?
+156)  LEE
+{HappyA}Merci, Kenny.
+161)  LEE
+{HappyA}Merci, Kenny.
+157)  KENNY
+{body-HandsHips}{ThinkingA}Je pense que tu sais ce que tu fais.
+158)  KENNY
+{NormalC}Avec Clémentine, je veux dire. {NormalB} {body-A}Plus tôt, tu as dit que tu étais désemparé. Je veux juste que tu saches que je {ThinkingA}te vois, et je vois en toi le genre de gars qui {HappyA}comprend les choses. {HappyB}{body-B}Cette fille ira très bien.
+159)  KENNY
+De rien.
+164)  KENNY
+De rien.
+160)  KENNY
+{NormalC}{body-A}Hey, à propos de Clémentine.
+162)  KENNY
+{NormalB}J'ai dit plus tôt, il y a des trucs là-bas qui peuvent poser des problèmes à {ThinkingA}une petite fille aussi mignonne.
+163)  LEE
+Ouais.
+165)  KENNY
+{NormalC} Eh bien, je continue à penser que c'est vrai. Mais après {ThinkingA}ce que j'ai vu, j'hésite à ce que tu  {HappyA} prennes soin d'elle ou à la laisser prendre soin d'elle-même, {HappyB} {body-B} tout se passera bien pour vous deux.
+166)  LEE
+{NormalC}{body-B}Ouais?
+167)  LEE
+[quiet!] Merde! A couvert!
+168)  CARLEY
+[catching your breath, but quiet, there are zombies around] Où est-elle?
+169)  LEE
+[catching your breath, but quiet, there are zombies around] Je ne suis pas sûr... Il à demandé de l'aide non?
+170)  CARLEY
+[keeping quiet, zombies around] Quoi? S'il avait été attaqué? Je pense...
+171)  CARLEY
+[hushed] Qu'est-ce qu'on fait? On se faufile discrètement et on ouvre le feu? Quoi que ce soit, on le dégage et on le tue?
+172)  LEE
+[hushed, tense] Bien sûr.
+173)  CARLEY
+[hushed] T'as vu ça?
+174)  LEE
+[hushed] Laisse moi regarder!
+175)  LEE
+[hushed] Quoi qu'il en soit on doit les tuer silencieusement.
+176)  LEE
+[hushed] Je vais passer derrière eux discrètement, soyez prêts à tirer.
+177)  CARLEY
+[hushed] Ca va être tendu.
+178)  LEE
+[hushed] Bien on n'a pas le choix.
+179)  LEE
+[hushed] Nous devons les dégager d'ici.
+180)  LEE
+[Hushed] On jette un coup d'oeil, soyez prêts à courir.
+181)  LEE
+[hushed] un... deux...
+182)  LEE
+[hushed] un... deux...
+183)  LEE
+[hushed] un... deux...
+184)  GLENN
+[hushed] LES GARS! Oh mec, je suis content que tu sois là.
+185)  CARLEY
+[hushed, surprised] Mon dieu, Glenn!
+191)  CARLEY
+[hushed, surprised] Mon dieu, Glenn!
+194)  CARLEY
+[hushed, surprised] Mon dieu, Glenn!
+186)  LEE
+[hushed] Carley allait te tuer.
+187)  GLENN
+[hushed] Huh?! [carley was going to shoot you]
+188)  CARLEY
+[hushed]Glenn! Que faisais-tu là!
+189)  LEE
+[hushed] Son idée. [jokingly passng the blame]
+190)  CARLEY
+Lee était sur le point de t'exploser la tête!
+192)  LEE
+[hushed] On allait te tuer!
+193)  GLENN
+[hushed] Heureux que vous ne l'ayez pas fait.
+195)  LEE
+[hushed] Quoi de neuf.
+196)  CARLEY
+[hushed] Sans blague, tu nous as fait peur.
+197)  GLENN
+[hushed] J'étais juste caché.
+198)  GLENN
+[hushed] Hey, les gars.
+199)  LEE
+[hushed] Pareil.
+200)  CARLEY
+[hushed] On peut partir avant que ces choses ne nous repèrent?
+201)  GLENN
+[hushed] Non attends. Il y a une survivante coincée là-bas.
+202)  GLENN
+[hushed] J'étais ici, je cherchais du gaz et, j'ai cru que c'était une bonne idée de prendre des oreillers pour le groupe, du matos confortable, tu vois?
+203)  GLENN
+[hushed] Nous avons parlé et, bien, elle est terrorisée. J'ai essayé de l'aider, et puis elle a commencé à crier et a dire que j'avais été mordu. J'ai essayé de la convaincre que je ne l'étais pas et c'est à ce moment-là que tous nos amis sont arrivés. Certains d'entre eux m'ont repéré, et je me suis caché ici.
+204)  GLENN
+[hushed] Quoi qu'il en soit, j'allais de chambre en chambre et quand je suis arrivé à celle-là, dans le coin en haut, j'ai entendu pleurer de l'autre côté de la porte.
+205)  CARLEY
+[hushed] Tu as eu de la chance ; allons-y!
+206)  GLENN
+[hushed] On ne peut pas la laisser là.
+207)  CARLEY
+[hushed] Pourquoi pas?
+208)  LEE
+Glenn a raison, on doit l'aider.
+209)  LEE
+[hushed] Tu as raison, Carley. Chaque seconde que nous passons ici, nous laisse une chance.
+210)  LEE
+[hushed] Observons les alentours et allons la chercher.
+211)  CARLEY
+[hushed] Ugh, bien. On peut essayer de la sauver, mais elle a intérêt à être reconnaissante. Tu es d'accord, Lee?
+212)  LEE
+[hushed Ouais.
+213)  GLENN
+[hushed] Mais elle est toute seule.
+214)  LEE
+[hushed] Ce n'est pas la peine, Glenn. Elle est en sécurité, ils ne peuvent pas l'atteindre.
+215)  CARLEY
+[hushed] Allons-y, les gars.
+216)  GLENN
+[hushed] On va vraiment faire ça? Partir en la laissant?
+217)  
+Glen à raison, on doit l'aider.
+218)  
+Tu as raison Carley, on doit y aller.
+219)  
+Observons les alentours et allons la chercher.
+220)  GLENN
+[hushed] Et si par magie on arrive à sauver cette fille, alors on aura bonne conscience.
+221)  LEE
+[hushed] Oui, bonne conscience.
+222)  
+Oui, on doit faire demi-tour.
+223)  
+Bien, tu as raison. Allons-lui porter secours.
+224)  GLENN
+[hushed,angry] Bien.
+225)  GLENN
+[hushed, angry] Allons-y.
+226)  LEE
+[Hushed] Ouais, Glenn. Je suis désolé, nous devons partir.
+227)  CARLEY
+[hushed] C'est le mieux à faire.
+228)  CARLEY
+[hushed] D'accord, Lee. Nous te suivons.
+229)  GLENN
+[hushed] Le plus silencieusement possible. Quand ils allaient m'avoir, ils sont tous venus de la forêt derrière. Nous ne savons pas combien ils sont dans le coin, à chercher des humains à manger.
+230)  LEE
+[hushed] Ouais. Minimum de bruits. Nous devons éliminer ces rôdeurs, celui-là avec la voiture, et l'autre par l'escalier.
+231)  CARLEY
+[hushed] Si on doit le faire, on le fera proprement.
+232)  GLENN
+[hushed] Ok, elle est coincée dans cette chambre en haut. On doit y monter le plus silencieusement possible, la sortir de là, et retourner à la voiture.
+233)  CARLEY
+[hushed] Ainsi que les deux à la porte.
+234)  LEE
+[talking through a door] Si vous ouvrez, on vous mettra en sécurité. On a un groupe en ville.
+235)  GLENN
+Elle a des problèmes!
+236)  LEE
+Une minute.
+237)  MOTEL GIRL
+[upset, through door] Non non non! S'il vous plaît non.
+238)  LEE
+Il y a quelqu'un là-dedans? On est ici pour vous aider.
+239)  CARLEY
+Allons-y les mecs.
+240)  MOTEL GIRL
+[upset, through door] S'il vous plaît, partez!
+241)  LEE
+[talking through door] Madame, on entre!
+242)  GLENN
+Tu dois casser la planche en premier.
+243)  MOTEL GIRL
+Stop, stop. Je vais ouvrir.
+244)  MOTEL GIRL
+C'est trop tard.
+245)  LEE
+Vous êtes blessée.
+246)  CARLEY
+[terse, under your breath] GLENN.
+247)  GLENN
+Quoi?!
+355)  GLENN
+Quoi?!
+248)  MOTEL GIRL
+Je vous avais prévenus. Je vous avais dit de ne pas venir, j'ai été mordue. Mais vous ne vouliez pas partir.
+249)  MOTEL GIRL
+Je ne vais pas bien. Mon petit ami à été mordu. Vous êtes malades et vous mourrez, puis vous revenez à la vie pour tuer tout ce qui est vivant.
+250)  CARLEY
+Oh, mon dieu.
+251)  MOTEL GIRL
+Je... Je vous ai dit de ne pas venir.
+252)  GLENN
+On va vous aider.
+253)  CARLEY
+Les gars, elle à été mordue.
+254)  GLENN
+Vous avez un petit ami?
+255)  MOTEL GIRL
+Je ne veux pas ça. Ce n'est pas catholique. S'il vous plaît, laissez-moi, partez.
+256)  LEE
+Calmez-vous. Ca va aller.
+257)  
+Ok, on va partir.
+258)  
+Venez avec nous, on va vous aider.
+259)  
+Et si vous vous transformez et que vous nous retrouvez?
+260)  
+...
+261)  LEE
+Ok, on part. prenez soin de vous, pour le temps qui vous reste.
+262)  LEE
+Venez avec nous, on va vous aider.
+263)  LEE
+Et si vous vous transformez et que vous nous suivez?
+264)  MOTEL GIRL
+Je sais! C'est pour ça que je me suis enfermée. Je ne peux pas laisser cela m'arriver.
+265)  MOTEL GIR
+Hé, vous avez un pistolet.
+266)  MOTEL GIRL
+Puis-je l'emprunter?
+267)  CARLEY
+[dubious] donc?
+268)  MOTEL GIRL
+Vous avez un pistolet.
+269)  LEE
+Whoa whoa whoa...
+270)  MOTEL GIRL
+Donnez-le-moi. Je ne peux pas, vous savez, donnez-le-moi et - il n'y aura plus de problèmes.
+271)  MOTEL GIRL
+S'IL VOUS PLAÎT. Je ne veux pas devenir comme eux. Ils... ils sont... diaboliques.
+272)  CARLEY
+Que voulez-vous dire par "emprunter"?
+273)  
+Donne-lui.
+277)  LEE
+Donne-lui.
+274)  
+On ne peut pas vous laisser faire ça.
+275)  CARLEY
+Quoi? tu n'es pas sérieux.
+276)  LEE
+Fais-le.
+278)  GLENN
+C'est fou!
+279)  MOTEL GIRL
+Donnez-le-moi, S'IL VOUS PLAÎT!
+280)  MOTEL GIRL
+Merci!
+281)  LEE
+On ne peux pas vous laisser faire ça vous-même.
+282)  CARLEY
+Nous en avons besoin.
+283)  MOTEL GIRL
+[falling yell/scream]
+288)  GLENN
+[falling yell/scream]
+284)  CARLEY
+Reprends-le!
+285)  LEE
+Madame...
+286)  MOTEL GIRL
+Ca ne durera que deux secondes, juste une balle, et je rejoindrais ma famille, ce sera merveilleux.
+287)  MOTEL GIRL
+S'IL VOUS PLAÎT!
+289)  CARLEY
+S'il vous plaît, reculez.
+290)  LEE
+Whoa, allez-y mollo. On veut juste aider.
+291)  MOTEL GIRL
+Vous ne pouvez pas.
+292)  LEE
+[running to stop a girl from killing herself] Non non non non, NON!
+293)  GLENN
+[puke]
+294)  CARLEY
+Partons d'ici.
+295)  GLENN
+Rentre!
+296)  GLENN
+Ce truc m'énerve! Le démarreur est coincé et il faut que je lui donne "un peu d'amour". T'as un marteau ou un truc dans le genre?
+297)  CARLEY
+Carley en a marre et monte dans la voiture.
+298)  CARLEY
+Qu'est-ce que tu fais?!
+299)  GLENN
+Merde! Gardez-les à distance!
+307)  GLENN
+Merde! Gardez-les à distance!
+300)  LEE
+[mutters, panicked] Mec...
+306)  LEE
+[mutters, panicked] Mec...
+301)  GLENN
+Ca fonctionne!
+304)  GLENN
+Ca fonctionne!
+302)  LEE
+C'est un brin d'amour?!
+308)  LEE
+C'est un brin d'amour?!
+303)  LEE
+Ici!
+305)  LEE
+Ici!
+309)  GLENN
+Aller, stupide chose!
+310)  LEE
+On va manquer de balles...[shooting a gun]
+311)  GLENN
+C'est presque bon!
+312)  LEE
+Allez, Glenn! Ils sont beaucoup trop!
+313)  GLENN
+AH! C'est encore coincé!
+314)  GLENN
+C'EST BON!
+315)  LEE
+Il y a un oreiller là.
+316)  GLENN
+C'est aussi loin que là où j'ai pu aller pour prendre des provisions.
+317)  LEE
+Je pourrais avoir une idée pour ça.
+318)  CARLEY
+[pickup1] Bonne chance, étranglez-les jusqu'à la mort...
+319)  LEE
+Ce n'est pas vraiment ce à quoi je pensais.
+320)  CARLEY
+[pickup1] Mais ce bruit...
+321)  LEE
+Suivez moi ; restez derrière moi.
+322)  LEE
+Prenez votre arme.
+323)  GLENN
+[hushed, over-excited] C'est fou!
+324)  LEE
+Je vais lui exploser la tête.
+409)  LEE
+Je vais lui exploser la tête.
+325)  GLENN
+Ca pourrait attirer l'attention.
+407)  GLENN
+Ca pourrait attirer l'attention.
+326)  CARLEY
+[pickup1] [dubious] Ouais...
+408)  CARLEY
+[pickup1] [dubious] Ouais...
+327)  LEE
+Visez, je vais faire ça.
+410)  LEE
+Visez, je vais faire ça.
+328)  GLENN
+Lee! Derrière toi!
+411)  GLENN
+Lee! Derrière toi!
+329)  LEE
+[a "i just got bitten on the neck" scream]
+412)  LEE
+[a "i just got bitten on the neck" scream]
+330)  LEE
+C'est exactement ce que je pensais. [with a wink]
+331)  GLENN
+Ca pourrait dégommer un cerveau.
+332)  LEE
+Lee a maintenant une pointe carrée.
+333)  GLENN
+Lee! Attrape-le!
+334)  GLENN
+Pour sûr!
+335)  LEE
+Merci de me couvrir.
+336)  GLENN
+Joli!
+337)  GLENN
+Lee! Ils sont enfermés là-dedans !
+338)  GLENN
+Lee! Ah! AHHH!!! AHHHHHHHH!
+339)  LEE
+Oh...
+340)  GLENN
+... Merde.
+341)  GLENN
+C'était génial!
+342)  LEE
+On va prendre soin de les éliminer, pour pas qu'ils nous sautent dessus.
+343)  LEE
+Les deux rôdeurs en haut seront rapides à neutraliser. Ce serait plus simple s'ils étaient en bas.
+344)  GLENN
+[under his breath] J'espère que vous ne serez jamais pris au piège et que vous n'aurez pas besoin d'aide.
+345)  
+Rebroussons chemin.
+346)  
+Je suis desole, ok?
+347)  
+Elle va bien.
+352)  LEE
+Elle va bien.
+348)  
+Reprenez le dessus, ok?
+358)  LEE
+Reprenez le dessus, ok?
+349)  LEE
+Faisons machine arrière.
+354)  LEE
+Faisons machine arrière.
+359)  LEE
+Faisons machine arrière.
+350)  GLENN
+Quoiqu'il en soit.
+351)  LEE
+Je suis désolé, d'accord?
+353)  GLENN
+Ouais, je suis sûr qu'elle se promène tout simplement là-haut, pas de problème.
+356)  GLENN
+Va te faire foutre, mec.
+357)  LEE
+J'ai dit qu'on partait, on ne peut pas sauver tout le monde. Il y a des gens à la pharmacie qui ont plus besoin de nous qu'elle.
+360)  LEE
+Deux de plus.
+361)  GLENN
+Ca devrait aider. [with a wink]
+362)  GLENN
+Ca aurait pu mieux se passer.
+363)  LEE
+Nous devrions simplement le tuer à l'ancienne, Je suppose.
+364)  CARLEY
+[pickup1] Lee!! NON!!!
+365)  LEE
+Aww MERDE!
+366)  CARLEY
+[pickup1] Hey, ho, nous ne savons pas ce qui se passe là-haut. Je propose de retourner sur nos pas.
+368)  LILLY
+{body-HoldWrist}{HappyA}Hey, Lee ; tu as une seconde?
+369)  LILLY
+{body-HoldWrist}{HappyA}Hey, Lee ; tu as une seconde?
+370)  LEE
+{HappyA}On va essayer.
+371)  GLENN
+{NormalB}Restez sain et sauf les gars.
+372)  GLENN
+{NormalA}Ouais, Je sais que tu veux. Mais parfois...{NormalC} tu sais...
+373)  LEE
+{DisgustA}Quoi?
+374)  GLENN
+{ThinkingA}Ce n'est pas tout le temps la question {FearA}d'être en sécurité.  {NormalC}Quoi qu'il en soit, euh, à plus.
+375)  GLENN
+[Ugh] Faisons-le simplement. Lee?
+376)  
+On va sauver cette file.
+377)  
+Ouais, retournons sur nos pas.
+378)  CARLEY
+[pickup1] Aller, allons sauver cette fille.
+379)  LEE
+Je dis juste que.
+380)  LEE
+Non, on va sauver cette fille. Carley, tu peux repartir si tu veux.
+381)  CARLEY
+[pickup1] Je culpabilise, pourquoi pas vous.
+382)  LEE
+Je ne le sens pas ce plan, de toute façon. On doit retourner vers la pharmacie.
+383)  GLENN
+Je ne peux pas... quoi? Vraiment?... hors de question.
+384)  GLENN
+Vraiment?!
+385)  CARLEY
+[pickup1] Bon, nous prenons ta voiture. Donne le talkie-walkie à Lee et tu pourras régler ça toi-même.
+386)  GLENN
+Mais...
+387)  LEE
+Je suis désolé, Glenn. Allons protéger les gens qu'on connaît.
+388)  LEE
+Retournons à la pharmacie.
+389)  GLENN
+Méchant.
+390)  LEE
+Nous pouvons faire quelque chose avec cette voiture, je pense, s'il n'y avait pas ce mec à côté.
+391)  LEE
+Il ne va nulle part.
+392)  LEE
+Ok, il y en a deux autour du camping-car. On pourrait aller se cacher là-bas.
+393)  LEE
+Je ne suis pas sûr que je pourrais me défendre contre eux, même si j'avais une arme.
+394)  GLENN
+Je surveille tes arrières, mais ce serait mieux si je n'avais pas les mains vides.
+395)  LEE
+Ce pique est le meilleur moyen de tuer des rôdeurs. Ca devrait fonctionner sur ces gars quand ils se raprocheront.
+396)  LEE
+Au bon moment, on devrait pouvoir les avoir silencieusement. Glenn, tu gardes les autres en arrière.
+397)  GLENN
+Un vieux problème.
+398)  LEE
+Eh bien, j'ai un oreiller et deux cadavres.
+399)  GLENN
+Il n'arrête pas de bouger.
+400)  LEE
+Il vient de passer par là.
+401)  LEE
+Nous allons sans doute devoir l'éliminer à l'ancienne.
+402)  LEE
+[observational] Dans ce trou dans la vitre.
+403)  GLENN
+Mec, où est ton arme?
+404)  GLENN
+C'est cool, maintenant on a CA!
+405)  CARLEY
+[pickup1] Qu'avez-vous fait tous les deux?
+406)  GLENN
+Haha,  putain.
+413)  CARLEY
+[pickup1] Merci foutu DIEU.
+414)  LEE
+Ils ne nous ont même pas vus.
+415)  LEE
+Ils veulent vraiment aller dans cette chambre.
+416)  GLENN
+Maintenant on doit juste les tuer silencieusement.
+417)  LEE
+Je pense avoir trouvé un moyen sacrément bon d'arrêter ces gars-là discrètement.
+418)  GLENN
+Hey mec, ça attire l'attention. Fais gaffe.
+419)  LEE
+Ow!
+420)  LEE
+Je vais essayer de taper dans cette fenêtre.
+421)  LEE
+L'un d'eux devrait le faire.
+422)  GLENN
+Ils n'ont rien entendu!
+423)  LEE
+Merde. Je vais essayer de ne pas le refaire.
+424)  GLENN
+Whoa, bien! C'était trop fort, et ils ont entendu.
+425)  GLENN
+LEE! Serieux, mec! Ce serait judicieux!
+426)  GLENN
+BIEN! Pas plus de bruit, mec, ou nous sommes foutus...
+427)  LEE
+Je ne sais pas vraiment. Tu sais comment je pourrais aller à l'intérieur de la voiture? 
+428)  GLENN
+Passe sans faire de bruit. Et pas avec un oreiller.
+429)  GLENN
+Que vas-tu faire avec ça?
+430)  LEE
+[hushed] Poussez à trois! Un, deux... trois!
+431)  LEE
+Ouais, avant qu'une foule d'entre eux ne sorte de la forêt en titubant. Prenons la hache et partons d'ici.
+432)  GLENN
+Regardez!
+433)  GLENN
+Quoi... Que penses-tu...?
+434)  LEE
+Je ne sais pas Glenn, nous devons bouger.
+435)  USE_CAR_DOOR DIR
+(<<author>>Sean Vanaman, Mon Sep 26 19:04:18 2011<<date:1317089058>>) Lee ouvre la porte de la voiture et regarde dedans.
+436)  LEE
+[pickup1] [hushed, sharp] Couvre-moi.
+437)  LEE
+[pickup1][hushed] On ne devrait pas aller par là.
+438)  LEE
+[pickup1][hushed] Ce chemin n'est pas sécurisé.
+439)  LEE
+[pickup1][hushed] Carley, reste ici.
+440)  LEE
+[pickup1][hushed] Glenn, reste ici.
+441)  LEE
+[pickup1][hushed] Glenn, allons-y. [running to a new station - quick and fast]

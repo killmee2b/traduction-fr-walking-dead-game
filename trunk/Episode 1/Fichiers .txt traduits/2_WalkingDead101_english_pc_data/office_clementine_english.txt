@@ -1,17 +1,17 @@
 1)  LEE
 {happyA}Jettons un coup d'oeil à ce doigt.
 2)  LEE
-{happyB}	Voyons si on peut faire quelque chose pour ça.
+{happyB}Voyons si on peut faire quelque chose pour ça.
 3)  LEE
-{fearA}	Ohh.
+{fearA}	Ow.
 4)  CLEMENTINE
 {fearA}Ca fait mal.
 5)  LEE
-{sadA}T'as mal quand je fais ça ?
+{sadA}Tu as mal quand je fais ça?
 6)  CLEMENTINE
 {cryingB}Un peu. [whince] {fearB}Pas tant que ça.
 7)  LEE
-[incredulous]{fearA} T'es sûre?
+[incredulous]{fearA} Tu es sûre?
 8)  CLEMENTINE
 Ouais.
 9)  LEE
@@ -19,29 +19,29 @@ Ouais.
 10)  CLEMENTINE
 {fearA}C'est là où ça fait le plus mal.
 11)  LEE
-{thinkingA}Il faut un pansement, je crois.{normalD} Attraper une infection pourrait être un gros problème aujourd'hui.
+{thinkingA}Il faut un pansement, je crois.{normalD} Attraper une infection pourrait être un gros problème.
 12)  CLEMENTINE
 {fearB}	Pourquoi?
 13)  LEE
-{thinkingA}Difficile de mettre la main sur un médecin ces temps-ci.{happyB} On a besoin de rester au top de notre forme.
+{thinkingA}Diffcile de mettre la main sur un médecin ces temps-ci.{happyB} On a besoin de rester au top de notre forme.
 14)  LEE
 {thinkingA}	Si j'appuie ici.
 15)  CLEMENTINE
-{fearC}Aie.
+{fearC}Aïe.
 16)  LEE
-{happyA}	Gros aie ou petit aie ?
+{happyA}Gros aïe ou petit aïe?
 17)  CLEMENTINE
-Moyen aie.
+Moyen aïe.
 18)  LEE
 {happyB}Ok, bon, il n'y a rien de cassé, alors.
 19)  LEE
-{happyA}	On va penser cette vilane coupure.
+{happyA}On va panser cette vilaine coupure.
 20)  CLEMENTINE
-{happyA}Oui, s'il te plait.
+{happyA}Oui, s'il te plaît.
 21)  LEE
-{happyB}Comment ça va ?
+{happyB}Comment ça va?
 101)  LEE
-{happyB}Comment ça va ?
+{happyB}Comment ça va?
 22)  CLEMENTINE
 [how are you doing?] {fearA}Ca va.
 100)  CLEMENTINE
@@ -51,25 +51,25 @@ Moyen aie.
 103)  LEE
 {happyB}Il n'y a rien de méchant.
 24)  LEE
-{happyA}Tu, euh... parles pas beaucoup.
+{happyA}Tu, euh....parles pas beaucoup.
 102)  LEE
-{happyA}Tu, euh... parles pas beaucoup.
+{happyA}Tu, euh....parles pas beaucoup.
 25)  LEE
-{thinkingA}Comment ça va par ici?
+{thinkingA}Comment ça va par-ici?
 26)  CLEMENTINE
 {fearA}	Bah, ça fait toujours mal.
 27)  
-Selon toi, tout le monde semble aller bien.
+Selon toi, tout le monde semble aller bien?
 61)  
-Selon toi, tout le monde semble aller bien.
+Selon toi, tout le monde semble aller bien?
 28)  
-Des nouvelles de Glenn ?
+Des nouvelles de Glenn?
 82)  
-Des nouvelles de Glenn ?
+Des nouvelles de Glenn?
 29)  
-Comment va ton doigt ?
+Comment va ton doigt?
 85)  
-Comment va ton doigt ?
+Comment va ton doigt?
 30)  
 Partir
 88)  
@@ -79,39 +79,39 @@ Partir
 66)  LEE
 {thinkingB}	Je sais.
 32)  CLEMENTINE
-{fearB}Il y avait cette chose dans la salle de bain.{fearA} Il a essayé de m'attraper.
+{fearB}Il y avait cette chose dans la salle de bain.{fearA} Elle a essayé de m'attraper.
 33)  LEE
-Est-ce que ça va dans la pharmacie ?
+Est-ce que ça va dans le drugstore?
 34)  LEE
-{thinkingA}	Tout le monde semble aller bien, hein ?
+{thinkingA}	Tout le monde semble aller bien, hein?
 62)  LEE
-{thinkingA}	Tout le monde semble aller bien, hein ?
+{thinkingA}	Tout le monde semble aller bien, hein?
 35)  CLEMENTINE
 Mmhmm.
 36)  CLEMENTINE
-{happyB}Ouais, {thinkingA}{fearA}Bah, pas le gars malade.
+{happyB}Yeah, {thinkingA}{fearA}ouais, sauf le gars malade.
 37)  LEE
-{thinkingA}	Ouais. [thinking] On va garder un oeil sur lui.
+{thinkingA}	Yeah. [thinking] On va garder un oeil sur lui.
 64)  LEE
-{thinkingA}	Ouais. [thinking] On va garder un oeil sur lui.
+{thinkingA}	Yeah. [thinking] On va garder un oeil sur lui
 39)  CLEMENTINE
-{fearA}	Mais tu l'as arreté.
+{fearA}	Mais tu l'a arrêté.
 68)  CLEMENTINE
-{fearA}	Mais tu l'as arreté.
+{fearA}	Mais tu l'a arrêté.
 40)  LEE
-{happyA}	Ouais, c'est vrai.
+{happyA}Ouais, c'est vrai.
 69)  LEE
-{happyA}	Ouais, c'est vrai.
+{happyA}Ouais, c'est vrai.
 41)  CLEMENTINE
-{thinkingA}	Est-ce que tu peux continuer ?
+{thinkingA}	Est-ce que tu peux continuer?
 70)  CLEMENTINE
-{thinkingA}	Est-ce que tu peux continuer ?
+{thinkingA}	Est-ce que tu peux continuer?
 42)  LEE
-{thinkingA}	Eh bien, je ne vais pas aller les chercher.
+{thinkingA}	Euh, comment ça?
 43)  CLEMENTINE
-{thinkingA}	Je veux dire, les choses dangereuses.
+{thinkingA}	Je veux dire, t'occuper des trucs dangereux.
 72)  CLEMENTINE
-{thinkingA}	Je veux dire, les choses dangereuses.
+{thinkingA}	Je veux dire, t'occuper des trucs dangereux.
 44)  LEE
 {thinkingA}	Je vais essayer.
 73)  LEE
@@ -121,23 +121,23 @@ Mmhmm.
 74)  CLEMENTINE
 {happyB}Bon.
 46)  CLEMENTINE
-{cryingA}	J'avais peur.
+{cryingA}   J'avais peur.
 75)  CLEMENTINE
 {cryingA}	J'avais peur.
 47)  LEE
 {sadA}	Ouais, j'... j'étais loin.
 48)  CLEMENTINE
-{fearA}	La dame m'a sauvé.
+{fearA}	La dame m'a sauvée.
 77)  CLEMENTINE
-{fearA}	La dame m'a sauvé.
+{fearA}	La dame m'a sauvée.
 49)  LEE
 {sadA}	Je suis content qu'elle l'ait fait.
 78)  LEE
 {sadA}	Je suis content qu'elle l'ait fait.
 50)  CLEMENTINE
-{sadB}	La prochaine fois, reste plus près de moi. Comme ça tu ne seras pas si loin...
+{sadB}	La prochaine fois, reste plus près de moi. Comme ça tu na seras plus si loin...
 79)  CLEMENTINE
-{sadB}	La prochaine fois, reste plus près de moi. Comme ça tu ne seras pas si loin...
+{sadB}	La prochaine fois, reste plus près de moi. Comme ça tu na seras plus si loin...
 51)  LEE
 {sadA}{happyA}	Je vais essayer.
 80)  LEE
@@ -145,43 +145,43 @@ Mmhmm.
 52)  CLEMENTINE
 {fearB}{happyB}Bien.
 53)  LEE
-{thinkingA}Des nouvelles de Glenn ?
+{thinkingA}Des nouvelles de Glenn?
 83)  LEE
-{thinkingA}Des nouvelles de Glenn ?
+{thinkingA}Des nouvelles de Glenn?
 54)  CLEMENTINE
 {thinkingA}	Pas encore.
 84)  CLEMENTINE
 {thinkingA}	Pas encore.
 55)  LEE
-{happyA}	Comment va ton doigt ? 
+{happyA}	Comment va ton doigt? 
 86)  LEE
-{happyA}	Comment va ton doigt ?
+{happyA}	Comment va ton doigt?
 56)  CLEMENTINE
-{happyB}	Ca va. Merci de m'avoir soigné.
+{happyB}	Ca va. Merci de m'avoir soignée.
 87)  CLEMENTINE
-{happyB}	Ca va. Merci de m'avoir soigné.
+{happyB}	Ca va. Merci de m'avoir soignée.
 57)  LEE
 {thinkingB}	Je vais continuer à fouiller les alentours.
 89)  LEE
 {thinkingB}	Je vais continuer à fouiller les alentours.
 58)  CLEMENTINE
-{happyB}	D'ac.
+{happyB}	D'acc.
 90)  CLEMENTINE
-{happyB}	D'ac.
+{happyB}	D'acc.
 59)  CLEMENTINE
 {fearA}	Ouais.
 60)  CLEMENTINE
-{sadA}	Moyen aie.
+{sadA}	Moyen aïe.
 63)  CLEMENTINE
-{happyB}	Oui. {thinkingA}{fearA}mais pas le gars malade.
+{happyB}	Oui. {thinkingA}{fearA}Sauf le gars malade.
 65)  CLEMENTINE
-{fearB}Il y avait un monstre mort dans la salle de bain.{fearA} Il a essayé de m'attraper.
+{fearB}Il y avait un monstre dans la salle de bain.{fearA} Il a essayé de m'attraper.
 71)  LEE
 {thinkingA}Bon, je ne vais pas les chercher.
 76)  LEE
 {sadA}Ouais, j'étais loin.
 81)  CLEMENTINE
-{fearB}{happyB}	Bien.
+{fearB}{happyB}	Bien
 91)  
 Examiner le doigt
 92)  
@@ -193,10 +193,10 @@ Bandage
 98)  
 Bandage
 95)  
-Enfiler
+Appliquer
 96)  
 Inspecter
 97)  
 Appuyer
 99)  
-Sortie
+Quitter
