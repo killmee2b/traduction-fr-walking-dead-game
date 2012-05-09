@@ -1,94 +1,95 @@
-1)  LEE
+1) LEE
 Salut, euh, Kenny.[first time really approaching the guy]
-2)  LEE
+2) LEE
 Salut.
-3)  KENNY
-Hey ...
-4)  LEE
-{happyA}{body-A} Besoin d'aide ?
-5)  LEE
-{normalD} Comment va votre famille ?
-6)  LEE
-{thinkingA} Alors, quel est le plan de votre famille ?
-7)  LEE
+3) KENNY
+Hey...
+4) LEE
+{happyA}{body-A} Besoin d'aide?
+5) LEE
+{normalD} Comment va votre famille?
+6) LEE
+{thinkingA} Alors, quel est le plan de votre famille?
+7) LEE
 {happyA} Ciao.
-8)  
-Besoin d'aide ?
-9)  
-Comment va votre fils ?
-43)  LEE
-Comment va votre fils ?
-10)  
-Quel est votre plan ?
-11)  KENNY
+8)
+Besoin d'aide?
+9)
+Comment va votre fils?
+43) LEE
+Comment va votre fils?
+10)
+Quel est votre plan?
+11) KENNY
 {happyA}{body-B} Avez-VOUS besoin d'aide?
-12)  KENNY
+12) KENNY
 {normalB} Nan, je crois que c'est bon.
-29)  KENNY
+29) KENNY
 {normalB} Nan, je crois que c'est bon.
-13)  LEE
-{thinkingA} Comment ça ?
-14)  KENNY
-{normalA} Je veux dire, en prenant soin de cette petite fille. {sadA} Vous savez ce que vous faites ? Vous avez des enfants ?
-16)  
+13) LEE
+{thinkingA} Comment ça?
+14) KENNY
+{normalA} Je veux dire, en prenant soin de cette petite fille. {sadA} Vous savez ce que vous faites? Vous avez des enfants?
+16)
 Silence
-17)  LEE
-{normalD} Nan, nan. Non... pas d'enfants.  [sort of wistful]
-18)  LEE
-{normalB} Je pense que je m'en occupe bien.  {angryA} Aussi longtemps que je la garderai en sécurité, je penses que ça sera bien.
-19)  LEE
+17) LEE
+{normalD} Nan, nan. Non... pas d'enfants. [sort of wistful]
+18) LEE
+{normalB} Je pense que je m'en occupe bien. {angryA} Aussi longtemps que je la garderais en sécurité, je pense que tout ira bien.
+19) LEE
 {happyA} Je n'ai aucune idée de ce que je fais.
-20)  KENNY
+20) KENNY
 {happyB} Nous aurions bien aimé en avoir un.
-21)  LEE
+21) LEE
 [casual, hiding emotion] {thinkingA} Tu sais.
-22)  
+22)
 Pas d'enfants.
-23)  
+23)
 C'est bon.
-24)  
-Je n'ai aucune idée.
-25)  KENNY
+24)
+Je n'en sais rien.
+25) KENNY
 {fearA} Avec ces choses là-bas, peut-être, bien sûr, c'est sûr. {thinkingA} Mais tu dois te demander si tu es le genre de gars qui peut faire mieux que ça{sadA} si ses parents ne reviennent pas.
-26)  LEE
+26) LEE
 {thinkingA} Je vais garder ça à l'esprit.
-27)  KENNY
-{happyA} Au moins tu es honnête. {disgustA} Merde, mieux que je ne l'étais quand Duck est arrivé. {happyB} Tu te débrouilles très bien.
-28)  KENNY
-{normalC} Bien, que vous le fassiez ou non, c'est un amour. {fearA} Nous avons vu certain dingues arriver ici. Le genre de trucs qui pourrait déranger un petit ange comme ça.
-48)  KENNY
-{normalC} Bien, que vous le fassiez ou non, c'est un amour. {fearA} Nous avons vu certain dingues arriver ici. Le genre de trucs qui pourrait déranger un petit ange comme ça.
-30)  KENNY
-{sadA} Bien, je pense. {normalB} Katjaa a une soeur à Memphis; Nous revenions de chez elle. {disgustA} Nous étions dans une station-service et des gars ont attrapé mon garçon.
-31)  KENNY
-[continued] {fearA} Je pensais qu'il avait été kidnappé. J'étais sur l'enfoire en moins de 2s et...  {happyB} Christ.  {normalC} Un coup de chance que j'étais là. Nous avons vu beaucoup de corps avant de tomber sur Hershel. {angryA} Mais nous sommes une famille coriace, Lee. Et rien ne nous effrait.
-32)  KENNY
+27) KENNY
+{happyA} Au moins tu es honnête. {disgustA} Merde, plus que je ne l'étais quand Duck est arrivé. {happyB} Tu te débrouilles très bien.
+28) KENNY
+{normalC} Bien, que vous le fassiez ou non, c'est un amour. {fearA} Nous avons vu certains dingues arriver ici. Le genre de trucs qui pourraient déranger un petit ange comme ça.
+48) KENNY
+{normalC} Bien, que vous le fassiez ou non, c'est un amour. {fearA} Nous avons vu certains dingues arriver ici. Le genre de trucs qui pourraient déranger un petit ange comme ça.
+30) KENNY
+{sadA} Bien, je pense. {normalB} Katjaa a une soeur à Memphis ; Nous revenions de chez elle. {disgustA} Nous étions dans une station-service et des gars ont attrapé mon garçon.
+31) KENNY
+[continued] {fearA} Je pensais qu'il avait été kidnappé. J'étais sur l'enfoiré en moins de 2s et... {happyB} Mon dieu. {normalC} Un coup de chance que j'aie été là. Nous avons vu beaucoup de corps avant de tomber sur Hershel. {angryA} Mais nous sommes une famille coriace, Lee. Et rien ne nous effraie.
+32) KENNY
 {happyB} Nous allons bien, merci de demander.
-33)  KENNY
+33) KENNY
 {angryA} Nous retournerons sur Lauderdale et laisserons cette pagaille rentrer dans l'ordre.
-37)  KENNY
+37) KENNY
 {angryA} Nous retournerons sur Lauderdale et laisserons cette pagaille rentrer dans l'ordre.
-34)  KENNY
-{happyA} Je suis pécheur professionnel, attrapant maquereaus, dauphins, tout ce qui mord et se vend.  {disgustA} Katjaa ne serait pas emballée à cette idée,{happyA} mais le bateau n'est pas si mauvais.
-35)  LEE
-{normalD} Vous avez eu un bateau ?
-36)  KENNY
+34) KENNY
+{happyA} Je suis pêcheur professionnel, j'attrape des maquereaux, des dauphins, tout ce qui mord et qui se vend. {disgustA} Katjaa ne serait pas emballée à cette idée,{happyA} mais le bateau n'est pas si mauvais.
+35) LEE
+{normalD} Vous avez un bateau?
+36) KENNY
 {normalA} Le gouvernement va commencé à faire feu, la garde nationale fera de même... {thinkingA} Si les choses empirent, nous pourrions aller sur mon bateau, je suppose.
-38)  LEE
+38) LEE
 Hey Kenny, tu vas bien ?
-39)  KENNY
+39) KENNY
 Ouaip.
-40)  LEE
-Je peux aider ?
-41)  KENNY
+40) LEE
+Je peux aider?
+41) KENNY
 C'est bon, merci.
-42)  
+42)
 A plus.
-44)  LEE
+44) LEE
 [pickup3] Il a l'air d'aller bien.
-45)  LEE
+45) LEE
 [pickup3] Il travaille sur son véhicule.
-46)  
+46)
 Regarder
-47)  
-Parler à
+47)
+Parler a
+

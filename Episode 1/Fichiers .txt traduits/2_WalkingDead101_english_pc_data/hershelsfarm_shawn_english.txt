@@ -1,27 +1,27 @@
 1)  DUCK
-{happyB} Cool! Je vais conduire le tracteur !
+{happyB} Cool! Je vais conduire le tracteur!
 2)  DUCK
-{happyC} Je suis le contremaître ! [to shawn]Soulève avec ton dos, Shawn !
+{happyC} Je suis le contremaître! [to shawn]Soulève avec ton dos, Shawn!
 3)  LEE
-{happyA} Comment tu fais, Duck ?
+{happyA} Comment tu fais, Duck?
 4)  
 Regarder 
 5)  DUCK
-NE LES LAISSER PAS ME PRENDRE !
+NE LES LAISSEZ PAS ME PRENDRE!
 6)  DUCK
-ILS VONT ME MANGER !
+ILS VONT ME MANGER!
 7)  DUCK
-LEE, A L'AIDE !
+LEE, A L'AIDE!
 8)  DUCK
-NON, S'IL VOUS PLAIT S'IL VOUS PLAIT NON !
+NON, S'IL VOUS PLAIT S'IL VOUS PLAIT NON!
 9)  DUCK
-AHH !
+AHH!
 10)  DUCK
-PAPA ! A L'AIDE !
+PAPA! A L'AIDE!
 11)  SHAWN
 [working, manual labor] Salut Lee.
 12)  
-Besoin d'un coup de main ?
+Besoin d'un coup de main?
 13)  
 Salut.
 17)  LEE
@@ -29,43 +29,43 @@ Salut.
 14)  
 Partir
 15)  LEE
-{thinkingA} Je vais aller euhh ... parler aux autres.
+{thinkingA} Je vais aller euhh... parler aux autres.
 16)  SHAWN
 {HappyA} Tout ce que tu veux, mec.
 18)  SHAWN
-{HappyB} Ça serait génial. {SadA} Si tu pouvais couper ces deux planches à la longueur, c'est sûr que les choses iront plus vite.
+{HappyB} Ça serait génial. {SadA} Si tu pouvais couper ces deux planches à la bonne longueur, c'est sûr que les choses iront plus vite.
 109)  SHAWN
-{HappyB} Ça serait génial. {SadA} Si tu pouvais couper ces deux planches à la longueur, c'est sûr que les choses iront plus vite.
+{HappyB} Ça serait génial. {SadA} Si tu pouvais couper ces deux planches à la bonne longueur, c'est sûr que les choses iront plus vite.
 19)  LEE
-{happyA} Besoin d'un coup de main ?
+{happyA} Besoin d'un coup de main?
 110)  LEE
-{happyA} Besoin d'un coup de main ?
+{happyA} Besoin d'un coup de main?
 111)  LEE
-{happyA} Besoin d'un coup de main ?
+{happyA} Besoin d'un coup de main?
 20)  LEE
-{happyA} Encore besoin d'un coup de main ?
+{happyA} Encore besoin d'un coup de main?
 112)  LEE
-{happyA} Encore besoin d'un coup de main ?
+{happyA} Encore besoin d'un coup de main?
 21)  SHAWN
 Ça serait génial.
 22)  SHAWN
-{HappyA} C'est bon. Peut-être que tu pourrais parler à mon père dans la grange ?
+{HappyA} C'est bon. Tu pourrais peut-être parler à mon père dans la grange?
 23)  SHAWN
-{SadA} Mon père ne sait pas à quel point la situation est dangereuse.
+{SadA} Mon père ne se rend pas compte à quel point la situation est dangereuse.
 24)  LEE
-{sadA} Non, il ne sait pas.
+{sadA} Non, il ne s'en rend pas compte.
 25)  SHAWN
-{FearA} J'ai vu un mec à Atlanta tuer un enfant. Un garçon. Il lui a juste tiré dessus en pleine face.
+{FearA} J'ai vu un mec à Atlanta tuer un enfant. Un garçon. Il lui a juste tiré dessus en plein visage.
 26)  
 Silence
 27)  
-Parfois, il s'agit de tuer ou être tué.
+Parfois, il s'agit de tuer ou se faire tuer.
 28)  LEE
 {fearA} Putain.
 29)  LEE
-{thinkingA} Tu dois faire ce que tu peux pour survivre.
+{thinkingA} Tu dois faire tout ce que tu peux pour survivre.
 30)  LEE
-{disgustA} Le garçon était un des rodeurs ?
+{disgustA} Le garçon était un rôdeur?
 31)  
 Putain.
 32)  
@@ -73,43 +73,43 @@ Tu dois faire ce que tu dois faire.
 47)  LEE
 Tu dois faire ce que tu dois faire.
 33)  
-Le garçon était un des rodeurs ?
+Le petit etait un zombie?
 34)  SHAWN
 {SadA} Non merde, putain.
 35)  SHAWN
-{fearA} Comme mettre un pistolet sur la tête de ce gamin et appuyer sur la gâchette ? {disgustA} Putain, mec.
+{fearA} Comme mettre un pistolet sur la tête de ce gamin et appuyer sur la gâchette? {disgustA} Putain, mec.
 36)  SHAWN
-{thinkingA} Je ne sais même pas. Soit il a attaqué le gars ou soit il a demandé de l'aide.
+{thinkingA} Je ne sais même pas. Soit il a attaqué le gars ou soit il lui a demandé de l'aide.
 37)  SHAWN
 {angryA} Tu ne vois pas les choses comme ça. {normalB} Ce n'est pas comme dans les films.
 38)  SHAWN
-{FearA} Il n'a même pas hésité. Il a juste, mis le canon de l'arme entre les yeux de ce gosse {sadB}et appuyé sur la gâchette.
+{FearA} Il n'a même pas hésité. Il a juste, mis le canon de l'arme entre les deux yeux du gosse {sadB}et a appuyé sur la gâchette.
 39)  LEE
 {normalD} Oh, euh...
 40)  SHAWN
-{sadA} As-tu eu à le faire ?
+{sadA} As-tu eu à le faire?
 41)  LEE
-{thinkingA} Faire quoi ?
+{thinkingA} Faire quoi?
 42)  SHAWN
 {thinkingB} Ouais. Ce n'est pas comme une poupée de chiffon ou une marionnette sans cordes. C'est dur.
 43)  LEE
 {normalC} Ils ne tombent pas comme vous le pensez.
 44)  SHAWN
-{thinkingA} Tuer. Tu as déjà eu à en tuer un ?
+{thinkingA} Tuer. En as-tu déjà tué un?
 45)  LEE
-{thinkingA} J'ai dû en abattre un.
+{thinkingA} J'ai dû en tuer un.
 46)  LEE
 {disgustB} J'ai traumatisé une pauvre petite fille en faisant ça.
 48)  LEE
 {normalD} Parfois, c'est tuer {angryA}ou être tué.
 49)  
-J'ai dû en abattre un.
+Il a fallu que j'en tue un.
 50)  
-J'ai traumatisé une pauvre petite fille en faisant ça.
+J'ai traumatise une pauvre petite fille en faisant ça.
 52)  SHAWN
-{thinkingA} C'est cool, ne t'inquiètes pas à propos de ça.
+{thinkingA} C'est cool, ne t'inquiète pas à propos de ça.
 106)  SHAWN
-{thinkingA} C'est cool, ne t'inquiètes pas à propos de ça.
+{thinkingA} C'est cool, ne t'inquiète pas à propos de ça.
 53)  SHAWN
 {thinkingA} Je pourrais en tuer un, peut-être. {sadA} S'il était loin.
 54)  SHAWN
@@ -117,73 +117,73 @@ J'ai traumatisé une pauvre petite fille en faisant ça.
 55)  SHAWN
 {sadA} Je suppose. {thinkingA}Je ne pense pas que j'aurais bien dormi après ça.
 56)  SHAWN
-{normalC} Et à propos de toi ? Comment va ta famille ?
+{normalC} Et toi? Comment va ta famille?
 91)  SHAWN
-{normalC} Et à propos de toi ? Comment va ta famille ?
+{normalC} Et toi? Comment va ta famille?
 57)  SHAWN
-{happyA} J'ai juste hâte que cette clôture soit terminée. {sadA} Papa veut juste garder la famille en toute sécurité et il pense qu'accueillir des gens est une menace plus grande {thinkingA}que tout ce qu'il y a à l'exterieur.
+{happyA} J'ai juste hâte que cette clôture soit terminée. {sadA} Papa veut juste que la famille reste en sécurité et il pense qu'accueillir des gens est beaucoup plus dangereux {thinkingA}que tout ce qu'il y a à l'extérieur.
 58)  LEE
 {normalC} Mon frère et mes parents sont à Macon, {sadA}J'espère.
 59)  LEE
-{thinkingA} Je ne suis pas tout à fait sûr où se trouve mon ex-femme.
+{thinkingA} Je ne suis pas tout à fait certain de savoir où se trouve mon ex-femme.
 60)  LEE
 {normalD} Je ne suis pas très proche de ma famille.
 61)  
-Mes parents sont à Macon avec mon frère.
+Mes parents sont à Macon avec mon frere.
 62)  
-Je ne sais pas où se trouve mon ex-femme.
+Je ne sais pas ce que fait mon ex-femme.
 63)  
-Je ne sais pas où se trouve mon ex-femme.
+Je ne sais pas ce que fait mon ex-femme.
 64)  
-Je ne suis pas très proche de ma famille.
+Je ne suis pas proche de ma famille.
 65)  SHAWN
-{thinkingA} Oh mec, je l'espère aussi. {fearA} Peut-être que ce n'est pas trop mauvais là-bas.
+{thinkingA} Oh mec, je l'espère aussi. {fearA} Ce n'est peut-être pas pire qu'ici, là-bas.
 66)  SHAWN
 [awkard ex-wife talk] {happyB} Ah. {thinkingB} Oh. {sadA} Ouais. Pour sûr.
 67)  SHAWN
-{thinkingA} Oh. Et bien, ils n'étaient pas à Atlanta, n'est-ce pas ? {sadB} Donc, c'est une bonne chose.
+{thinkingA} Oh. Et bien, ils n'étaient pas à Atlanta, n'est-ce pas? {sadB} Donc, c'est une bonne chose.
 68)  SHAWN
-[filling awkward silence] {thinkingB} Et bien, qui qu'ils soient, où qu'ils se trouvent, {happyB} j'espère qu'ils vont bien.
+[filling awkward silence] {thinkingB} Et bien, qui que ce soit, où qu'ils se trouvent, {happyB} j'espère qu'ils vont bien.
 107)  SHAWN
-[filling awkward silence] {thinkingB} Et bien, qui qu'ils soient, où qu'ils se trouvent, {happyB} j'espère qu'ils vont bien.
+[filling awkward silence] {thinkingB} Et bien, qui que ce soit, où qu'ils se trouvent, {happyB} j'espère qu'ils vont bien.
 69)  LEE
 {normalD} Merci.
 108)  LEE
 {normalD} Merci.
 70)  SHAWN
-{normalB} C'est probablement tout que j'ai besoin de couper pour l'instant. Merci.
+{normalB} C'est probablement tout ce dont j'ai besoin comme planches pour l'instant. Merci.
 71)  SHAWN
-{sadA} Peut-être que pourrais-tu aider mon père dans la grange ?
+{sadA} Tu pourrais peut-être aider mon père dans la grange?
 72)  LEE
 {happyA} J'aime faire le boulot.
 73)  LEE
-{normalB} J'irais voir.
+{normalB} J'irai voir.
 74)  LEE
 Merde! Ils vont l'avoir.
 75)  LEE
-Il est coincé sous le tracteur !
+Il est coincé sous le tracteur!
 76)  LEE
-Je dois enlever ce truc de lui !
+Je dois lui enlever ce truc!
 77)  LEE
-Ils arrivent de sous la barrière !!!
+Ils passent par dessous la barrière!!!
 78)  LEE
 Shawn travaille toujours sur cette barrière.
 79)  SHAWN
-Ma jambe est coincée !
+Ma jambe est coincée!
 80)  SHAWN
-Fait chier, c'est écrasé! Déplace ce truc !
+Fait chier, c'est écrasé! Déplace ce truc!
 81)  SHAWN
-KENNY ! MERDE ! AIDE MOI !
+KENNY! MERDE! AIDE MOI!
 82)  SHAWN
-LEE, s'il te plait, aide moi!
+LEE, s'il te plaît, aide moi!
 83)  SHAWN
-A L'AIDE ! PUTAIN ! A L'AIDE !
+A L'AIDE! PUTAIN! A L'AIDE!
 84)  SHAWN
-Enlevez moi ça !
+Enlevez-moi ça!
 85)  LEE
-On va enlever ce truc de toi !
+On va t'enlever ce truc!
 86)  SHAWN
-Merde, ils arrivent mec, ils arrivent !
+Merde, ils arrivent mec, ils arrivent!
 87)  DUCK
 [a bunch of panicked/trapped/I don't want to die sounds1]
 88)  DUCK
@@ -193,7 +193,7 @@ Merde, ils arrivent mec, ils arrivent !
 90)  DUCK
 [scream2]
 92)  SHAWN
-{happyA} J'ai juste hâte que cette clôture soit terminée. {sadA} Papa veut juste garder la famille en toute sécurité et il pense qu'accueillir des gens est une menace plus grande {thinkingA}que tout ce qu'il y a à l'exterieur.
+{happyA} J'ai juste hâte que cette clôture soit terminée. {sadA} Papa veut juste que la famille reste en sécurité et il pense qu'accueillir des gens est beaucoup plus dangereux {thinkingA}que tout ce qu'il y a à l'extérieur.
 93)  
 Parler à
 95)  
@@ -205,12 +205,12 @@ Regarder
 100)  SHAWN
 [pickup1] {sadA} Merci, j'apprécie.
 101)  SHAWN
-[pickup1] Quoi qu'il en soit, si vous voyez mon père, il voudrait peut être un peu d'aide dans la grange.
+[pickup1] Quoi qu'il en soit, si vous voyez mon père, il voudrait peut-être un peu d'aide dans la grange.
 105)  SHAWN
-[pickup1] Quoi qu'il en soit, si vous voyez mon père, il voudrait peut être un peu d'aide dans la grange
+[pickup1] Quoi qu'il en soit, si vous voyez mon père, il voudrait peut-être un peu d'aide dans la grange
 102)  LEE
 [pickup3] {sadA} Je suis désolé pour ton ami.
 103)  LEE
 [pickup3] {normalD} Et, Shawn, merci encore pour le trajet.
 104)  SHAWN
-[pickup1] {happyA} Pas de problème, Lee. On allait pas vous laissez derrière nous.
+[pickup1] {happyA} Pas de problème, Lee. On n'allait pas vous laisser derrière nous.

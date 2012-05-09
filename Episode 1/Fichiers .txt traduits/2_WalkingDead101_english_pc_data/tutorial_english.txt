@@ -1,220 +1,220 @@
 1)  
-To pilot Lee around like a little boat, waggle the stick or push WASD. Do this until you want Lee to stop moving.
+Pour faire bouger Lee, bougez le stick gauche ou appuyer sur ZQSD. Faites ceci jusqu'à que vous vouliez que Lee s'arrête.
 2)  
-Did you know you can click on stuff? Click on stuff! Try it!
+Saviez-vous que vous pouvez cliquer sur le truc? Cliquez sur le truc! Essayez!
 3)  
-Sometimes you can click on stuff in more than one way. Scrollwheel it up and down or press a number key for choosing.
+Parfois vous pouvez cliquer dans plusieurs directions. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
 5)  
-Sometimes you can click on stuff in more than one way. Scrollwheel it up and down or press a number key for choosing.
+Parfois vous pouvez cliquer dans plusieurs directions. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
 7)  
-Sometimes you can click on stuff in more than one way. Scrollwheel it up and down or press a number key for choosing.
+Parfois vous pouvez cliquer dans plusieurs directions. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
 9)  
-Sometimes you can click on stuff in more than one way. Scrollwheel it up and down or press a number key for choosing.
+Parfois vous pouvez cliquer dans plusieurs directions. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
 11)  
-Sometimes you can click on stuff in more than one way. Scrollwheel it up and down or press a number key for choosing.
+Parfois vous pouvez cliquer dans plusieurs directions. Défilez avec la molette vers le haut et bas ou appuyer sur le pad numérique pour choisir.
 4)  
-Sometimes you can click on stuff in more than one way. D-pad it up and down and then get with the button pushing of A.
+Parfois vous pouvez cliquer dans plusieurs directions. Utilisez la croix directionnelle et choisissez en appuyant sur A.
 6)  
-Sometimes you can click on stuff in more than one way. D-pad it up and down and then get with the button pushing of A.
+Parfois vous pouvez cliquer dans plusieurs directions. Utilisez la croix directionnelle et choisissez en appuyant sur A.
 8)  
-Sometimes you can click on stuff in more than one way. D-pad it up and down and then get with the button pushing of A.
+Parfois vous pouvez cliquer dans plusieurs directions. Utilisez la croix directionnelle et choisissez en appuyant sur A.
 10)  
-Sometimes you can click on stuff in more than one way. D-pad it up and down and then get with the button pushing of A.
+Parfois vous pouvez cliquer dans plusieurs directions. Utilisez la croix directionnelle et choisissez en appuyant sur A.
 12)  
-Sometimes you can click on stuff in more than one way. D-pad it up and down and then get with the button pushing of A.
+Parfois vous pouvez cliquer dans plusieurs directions. Utilisez la croix directionnelle et choisissez en appuyant sur A.
 13)  
-Get to the shelf (Press W)
+Allez à l'étagère (Appuyez sur Z)
 14)  
-Get to the shelf (Press L-Stick)
+Allez à l'étagère (Utilisez le stick gauche)
 15)  
-Push the shelf (Mouse over to look, L-click to select)
+Poussez l'étagère (utilisez la souris pour regarder, faites un clique gauche pour sélectionner)
 16)  
-Push the shelf (Press R-stick to look, A to select)
+Poussez l'étagère (utilisez le stick droit pour regarder, appuyer sur A pour sélectionner)
 17)  
-Do a thing. (Probably in cop car) (Scroll wheel to icon)
+Faites une chose (Probablement dans la voiture de flic) (utilisez la molette pour l'icone)
 18)  
-Do a thing. (Probably in cop car) (Directional pad)
+Faites une chose (Probablement dans la voiture de flic) (utilisez la croix directionnelle pour l'icone)
 19)  
-Get to the window
+Allez à la fenêtre
 20)  
-Get to the window
+Allez à la fenêtre
 21)  
-Reinforce the boards (L-click)
+Renforcez les planches (clic gauche)
 22)  
-Reinforce the boards (A)
+Renforcez les planches (A)
 23)  
-Get to the door
+Allez à la porte
 24)  
-Get to the door
+Allez à la porte
 25)  
-Hold the door shut
+Tenir la porte fermée
 26)  
-Hold the door shut
+Tenir la porte fermée
 27)  
-Take the cane.
+Prenez la canne.
 28)  
-Take the cane.
+Prenez la canne.
 29)  
-Put the cane on the door handles
+Mettez la canne sur les poignées de porte
 30)  
-Put the cane on the door handles
+Mettez la canne sur les poignées de porte
 31)  
-Save Doug or Carley
+Sauvez Doug ou Carley
 32)  
-Save Doug or Carley
+Sauvez Doug ou Carley
 33)  
-Run!
+Courez!
 34)  
-Run!
+Courez!
 35)  
-Answer the cop (Mouse wheel, L-click to choose)
+Répondre à l'officier (Molette, Clic gauche pour choisir)
 36)  
-Answer the cop
+Répondre à l'officier
 37)  
-If choices fade out, you will stay quiet
+Si les choix disparaissent, vous resterez muet.
 38)  
-If choices fade out, you will stay quiet
+Si les choix disparaissent, vous resterez muet.
 39)  
-Peek over the wall (W)
+Jetez un coup d'oeil par dessus le mur (Z)
 40)  
-Peek over the wall (left stick up)
+Jetez un coup d'oeil par dessus le mur (Stick gauche vers le haut)
 41)  
-Peek for too long and you will be seen
+Jetez un coup d'oeil trop longtemps et vous serez vu
 42)  
-Peek for too long and you will be seen
+Jetez un coup d'oeil trop longtemps et vous serez vu
 43)  
-Select other actions. (Scroll wheel to icon)
+Sélectionnez d'autres actions (Molette)
 44)  
-Select other actions. (Directional pad)
+Sélectionnez d'autres actions (Croix directionnelle)
 45)  
-Free Clementine
+Liberez Clémentine
 46)  
-Free Clementine
+Liberez Clémentine
 47)  
-“Life is a sum of all our choices.”
+"La vie est la somme de tous vos choix"
 48)  
 --Albert Camus
 49)  
-Every choice you make from this point on…
+Chaque choix fait à partir de ce moment...
 50)  
-Use the buttons to choose your reply...
+Utilisez les boutons pour choisir votre réponse...
 51)  
-Click to choose your reply...
+Cliquez pour choisir votre réponse...
 52)  
-Tap to choose your reply...
+Appuyer pour choisir votre réponse...
 53)  
-Or wait for the timer to run out, and choose silence as your answer.
+Ou attendez la fin du temps, et choisissez le silence comme réponse.
 54)  
-Good.  
-Remember... Your choices will influence the people you meet, and shape your chances for survival.
+Bien.
+Rappelez-vous... Vos choix influenceront les personnes que vous rencontrerez, et détermineront vos chances de survie.
 55)  
-Your choices...once made, cannot be undone.
+Vos choix... une fois faits, ne peuvent plus être annulés.
 56)  
-Cannot be undone.
+Ne peut pas être annulé.
 57)  
-Now.  Use the right stick to take a look around.
+Maintenant. Utilisez le stick droit pour jeter un coup d'oeil autour.
 58)  
-Good.  Now aim the target at the rearview mirror.
+Bien. Maintenant fixez le rétroviseur.
 59)  
-You’ll notice a small icon. Press the button to make eye contact with the cop.
+Vous verrez une petite icone. Appuyer sur le bouton pour regarder l'officier dans les yeux.
 60)  
-Experiment with the different actions to see what happens.
+Essayez avec des actions différentes pour voir ce qui se passe.
 61)  
-Good.  Now press the Talk Icon to talk to him.
+Bien. Maintenant pressez l'icone de dialogue pour lui parler.
 62)  
-will define your story for the rest of the game.
+influencera le déroulement de votre histoire pour le reste de l'aventure.
 63)  
-Look around, using the right stick, and find a way out of the car.
+Regardez autour, en utilisant le stick droit, et trouvez une issue pour sortir de la voiture.
 64)  
-Look around, using the mouse, and find a way out of the car.
+Regardez autour, en utilisant la souris, et trouvez une issue pour sortir de la voiture.
 65)  
-Look around, using the mouse, and find a way out of the car.
+Regardez autour, en utilisant le stick droit, et trouvez une issue pour sortir de la voiture.
 66)  
-Good.  Now MOVE toward the window, using the left joystick again.
+Bien. Maintenant BOUGEZ vers la fenêtre en utilisant encore le stick gauche.
 67)  
-Look at the door, and use the hand icon to haul yourself out.
+Regardez la porte, et utilisez l'icone de la main pour vous traîner en dehors.
 68)  
-Good!  Again!
+Bien! Encore!
 69)  
-Use left stick to move along the car.
+Utilisez le stick gauche pour bouger le long de la voiture.
 70)  
-Now MOVE toward the window, using the left stick.
+Maintenant BOUGEZ vers la fenêtre, en utilisant le stick gauche.
 71)  
-Use the left stick to get away!
+Utilisez le stick gauche pour sortir!
 72)  
-CONTINUE
+CONTINUEZ
 73)  
-Good.  Now aim the target at the rearview mirror to make eye contact with that cop.
+Bien. Maintenant fixez le rétroviseur pour regarder l'officier dans les yeux.
 74)  
 CHOICE:
-You answered the officer.
+Vous répondez à l'officier.
 75)  
-You chose to answer the officer.
+Vous avez voulu répondre à l'officier.
 76)  
 CHOICE:  
-You ignored the cop.
+Vous ignorez l'officier.
 77)  
 P
 78)  
-Good.  Now the next dialog will be timed.  Get ready.
+Bien. Maintenant le dialogue suivant sera chronométré. Soyez prêt.
 79)  
-Good.  Now watch the timer.  Lee won't speak if you don't choose an option.
+Bien. Maintenant regardez le chronomètre. Lee ne parlera pas si vous ne choisissez rien.
 80)  
 PLAYING DEAD:
-Use the [left joystick icon] to move Lee and explore the world.
-The [right joystick icon] allows you to look around and interact with the things you see.
-Push the [a button], [b button], [x button], and [y button] to choose actions or replies and occasionally blow a zombie's head off.
-And to exit to the Main Menu, press [start].
+Utilisez [left joystick icon] pour faire bouger Lee et explorer le monde.
+[right joystick icon] vous permet de regarder autour et d'intéragir avec les choses que vous voyez.
+Appuyez sur [a button], [b button], [x button], et [y button] pour choisir les actions ou les réponses et occasionnellement décapiter un zombie.
+Et pour quitter vers le menu principal, appuyer sur [start].
 81)  
-Now watch the timer.  Lee won't speak if you don't choose an option.
+Bien. Maintenant regardez le chronomètre. Lee ne parlera pas si vous ne choisissez rien.
 82)  
-Use left stick to move Lee, and right stick to interact with the world.
+Utilisez le stick gauche pour faire bouger Lee et explorer le monde.
 83)  
-Welcome to The Walking Dead...
+Bienvenue dans The Walking Dead...
 84)  
-You’ll notice a small icon. Press the X Button to make eye contact with the cop.
+Vous verrez une petite icone. Appuyer sur le bouton X pour regarder l'officier dans les yeux.
 85)  
-You’ll notice a small icon. Press the A Button to make eye contact with the cop.
+Vous verrez une petite icone. Appuyer sur le bouton A pour regarder l'officier dans les yeux.
 86)  
-iPad text should go here.
+Le texte iPad devrait être ici.
 87)  
-Mouse text should go here.
+Le texte Souris devrait être ici.
 88)  
-Use right stick to look around and find a way out of the car.
+Utilisez le stick droit pour regarder autour et trouver une issue pour sortir de la voiture.
 89)  
-Tap to look around and find a way out of the car.
+Appuyez pour regarder autour et trouver une issue pour sortir de la voiture.
 90)  
-Use the mouse to look around and find a way out of the car.
+Utilisez la souris pour regarder autour et trouver une issue pour sortir de la voiture.
 91)  
-You have limited time to choose a dialog option.
+Vous avez un temps limité pour choisir une option de dialogue.
 92)  
-You have a limited amount of time to make a choice.
+Vous avez un temps limité pour faire votre choix.
 93)  
-Press the button to make eye contact with the cop.
+Appuyez sur le bouton pour regarder l'officier dans les yeux.
 94)  
-Now aim the target at the rearview mirror.
+Maintenant fixez le rétroviseur.
 95)  
-Use the right stick to take a look around.
+Utilisez le stick droit pour regarder autour.
 96)  
-Silence is a valid option.
+Le silence est une option valide.
 97)  
-You choose to say nothing if time expires.
+Vous choisirez de ne rien dire si le temps expire.
 98)  
-Go find out if Kenny or Hershel needs any help.
+Allez voir à l'extérieur si Kenny ou Hershel ont besoin de votre aide.
 99)  
-Be sure to check in with everyone you've met so far.
+Soyez sûr d'avoir discuté avec chaque personne rencontrée jusqu'ici.
 100)  
-Now MOVE toward the window, using the W (forward) key.
+Maintenant BOUGEZ vers la fenêtre, en utilisant la touche Z (avant).
 101)  
-Use the W (forward) key to move along the car.
+Utilisez la touche Z (avant) pour bouger le long de la voiture.
 102)  
-Use the S (back) key to get away!
+Utilisez la touche S (arrière) pour partir!
 103)  
-Use the mousewheel to select a choice and the left mouse button to confirm it.
-Alternatively, use the number keys 1-4 to choose a choice.
+Utilisez la molette pour sélectionner un choix et le bouton gauche de la souris pour confirmer.
+Vous pouvez aussi utilisés les touches numériques 1-4 pour faire votre choix.
 104)  
-Use the mouse to take a look around.
+Utilisez la souris pour regarder autour.
 105)  
-Use the mouse wheel (or number keys 1-4) to select a response.
+Utilisez la molette (ou les touches numériques 1-4) pour choisir une réponse.
 106)  
-Look at the door, and use the mouse wheel (or number keys 1-2) to select an action.
+Regardez la porte. Utilisez la molette (ou les touches numériques 1-4) pour choisir une action.

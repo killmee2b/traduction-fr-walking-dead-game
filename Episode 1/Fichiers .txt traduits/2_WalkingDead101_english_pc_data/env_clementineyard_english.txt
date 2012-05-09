@@ -1,101 +1,101 @@
 1)  LEE
-[YELL, BIG]{FearA} Bonjour ? {SurpriseB} Il y a quelqu'un ?!
+[YELL, BIG]{FearA} Hey..? {SurpriseB} Il y a quelqu'un?!
 2)  LEE
-Fils de pute !<<id:{9F783173-C747-48C0-99DE-8CA69C0A1E47}>>
+Fils de pute!<<id:{9F783173-C747-48C0-99DE-8CA69C0A1E47}>>
 3)  LEE
 Test
 4)  LEE
-{DisgustA} {body-A}Pas d'échelle... {ThinkingA}Je ne pourrais pas aller en haut de toute façon, {NormalD} {body-C}pas avec cette jambe.
+{DisgustA} {body-A}Pas d'échelle... {ThinkingA}Je ne pourrais pas grimper de toute façon, {NormalD} {body-C}pas avec cette jambe.
 5)  LEE
-[Calling up to the treehouse] {SurpriseB} {body-B}Il y a quelqu'un là-haut ?
+[Calling up to the treehouse] {SurpriseB} {body-B}Il y a quelqu'un là-haut?
 6)  LEE
-[calling up to a treehouse] {SurpriseA} {body-B}Bonjour ? {ThinkingB}Il y a quelqu'un ?
+[calling up to a treehouse] {SurpriseA} {body-B}Hey..? {ThinkingB}Il y a quelqu'un?
 7)  LEE
-[calling up to a treehouse] {body-B}{ThinkingB}J'ai cru voir une petite fille lorsque j'étais dans la forêt... {SurpriseC}T'es là-haut ? {AngryD}{body-C}Je ne suis pas une de ces choses.
+[calling up to a treehouse] {body-B}{ThinkingB}J'ai cru voir une petite fille lorsque j'étais dans la forêt... {SurpriseC}Tu es là-haut? {AngryD}{body-C}Je ne suis pas une de ces choses.
 8)  LEE
-[calling up to a treehouse] {SadA} {body-b} Je suppose qu'il n'y a personne
+[calling up to a treehouse] {SadA} {body-b} J'imagine qu'il n'y a personne...
 9)  LEE
 {ThinkingB} {body-B} Je me demande s'il y a quelqu'un dans la maison.
 10)  LEE
-{AngryB} {body-B} Et puis merde ... {ThinkingB} je rentre.
+{AngryB} {body-B} Et puis merde... {ThinkingB} je rentre.
 11)  LEE
-{surpriseA} {body-B} Bonjour ? {ThinkingA} Il y a quelqu'un ? {FearB}J'ai besoin d'un peu d'aide.
+{surpriseA} {body-B} Hey...? {ThinkingA} Il y a quelqu'un? {FearB}J'ai besoin d'un peu d'aide.
 12)  LEE
-{SurpriseB} {body-B} Bonjoouuur ... Il {ThinkingA}se passe quelque chose.
+{SurpriseB} {body-B} Hého... Il {ThinkingA}se passe quelque chose.
 13)  LEE
-{SadB} {body-B} Il n'y a l'air d'y avoir personne ...
+{SadB} {body-B} on dirait qu'il n'y a personne...
 14)  LEE
-{ThinkingA} {body-B} Peut être que ce n'est pas fermé.
+{ThinkingA} {body-B} Ce n'est peut-être pas fermé.
 15)  LEE
-[to nobody in particular] {ThinkingA} {body-B}J'entre. {FearA} Ne tirez pas, {SadB}ok?
+[to nobody in particular] {ThinkingA} {body-B}J'entre. {FearA}Ne tirez pas, {SadB}ok?
 34)  LEE
-[to nobody in particular] {ThinkingA} {body-B}J'entre. {FearA} Ne tirez pas, {SadB}ok ?
+[to nobody in particular] {ThinkingA} {body-B}J'entre. {FearA}Ne tirez pas, {SadB}ok?
 16)  LEE
-[to himself] Peut-être qu'il y a quelque chose par ici.
+[to himself] Il y a peut-être quelque chose par ici.
 17)  LEE
 Quelque chose est arrivé à Savannah aussi. J'espère que tout va bien à Macon.
 18)  ANSWERING MACHINE
 Vous avez 3 nouveaux messages.
 19)  ANSWERING MACHINE
-Message 1. Laissé à 17h43
+Message 1. Laissé à 17h43.
 20)  MAMAN
-Salut, Sandra, c'est Diana. Nous sommes encore à Savannah. Ed a eu un petit 'accident' avec des dingues à côté de l'hotel, nous avons du aller aux urgences pour se faire soigner. Il n'est pas en forme pour conduire cette nuit, donc nous allons rester une nuit de plus. Merci beaucoup de prendre soin de Clementine, et je te promets de revenir avant ton spring break !
+Salut, Sandra, c'est Diana. Nous sommes encore à Savannah. Ed a eu un petit 'accident' avec des dingues à côté de l'hôtel, nous avons dû aller aux urgences pour nous faire soigner. Il n'est pas en forme pour conduire cette nuit, donc nous allons rester une nuit de plus. Merci beaucoup de prendre soin de Clémentine, et je te promets de revenir avant ta semaine de vacances!
 21)  ANSWERING MACHINE
 Message 2. Laissé à 23h19.
 22)  MAMAN
-Oh mon dieu ! Je ne sais pas si vous avez essayez de nous joindre; toutes les lignes sont coupées. Il ne nous laissent pas partir et ne nous disent rien à propos d'Atlanta. S'il vous plait, s'il vous plait, quittez juste la ville avec Clementine et allez à Marietta. Je dois retourner à l'hôpital. S'il vous plait, prévenez-moi que vous êtes en sécurité.
+Oh mon dieu! Je ne sais pas si vous avez essayez de nous joindre; toutes les lignes sont coupées. Il ne nous laissent pas partir et ne nous disent rien à propos d'Atlanta. S'il te plaît, s'il te plaît, quitte la ville avec Clémentine et allez à Marietta. Je dois retourner à l'hôpital. S'il vous plaît, prévenez-moi quand vous serez en sécurité.
 23)  REPONDEUR
 Message 3. Laissé à 6h51
 24)  MAMAN
-Clementine ? Bébé, si tu entends ça, appelle la police. C'est le 911. Nous t'aimons, nous t'aim-
+Clémentine? Bébé, si tu entends ça, appelle la police. C'est le 9-1-1. Nous t'aimons, nous t'aim-
 25)  DIR
-Message coupé
+Message coupé.
 26)  ANSWERING MACHINE
-Vous n'avez pas de nouveau messages.
+Vous n'avez plus de nouveaux messages.
 27)  CLEMENTINE
 Allons voir!
 28)  CLEMENTINE
-Ouais !
+Ouais!
 29)  LEE
 {ThinkingA}Il y a quelqu'un dehors.
 30)  LEE
-{SurpriseA} {body-B}Tu as entendu ça ?
+{SurpriseA} {body-B}Tu as entendu ça?
 31)  LEE
-{ThinkingB} {body-C}Ok, mais soit prudente -- {NormalD}méfie-toi.
+{ThinkingB} {body-C}Ok, mais sois prudente -- {NormalD}méfie-toi.
 32)  LEE
-{ThinkingA} {body-B} Peut-être que je devrais vérifier l'intérieur de la maison, {ThinkingB}à travers la fenêtre, {NormalB}{body-A}avant de partir dans le quartier.
+{ThinkingA} {body-B} Je devrais peut-être vérifier l'intérieur de la maison, {ThinkingB}à travers la fenêtre, {NormalB}{body-A}avant de partir dans le quartier.
 33)  LEE
 {FearA} {body-B}Il y a quelqu'un devant. {ThinkingA}Nous n'allons pas revenir là-haut.
 35)  LEE
 [pickup1][pained] {DisgustA} {body-B}Je n'aime même pas les bois.
 36)  LEE
-[pickup1] [pained] [Sarcastic] {HappyA} {body-B}Peut-être que je vais juste y faire un plongeon. [in the pool]
+[pickup1] [pained] [Sarcastic] {HappyA} {body-B}Je vais peut-être juste y faire un plongeon. [in the pool]
 37)  LEE
 [pickup1] [pained] {FearA} {body-B}Je remplirais une de ces tasses de thé avec un peu de bourbon si je le pouvais.
 38)  LEE
-[pickup1][pained] [to himself] {FearA} {body-A}Bordel, qu'est ce qui est arrivé à tout le monde ?
+[pickup1][pained] [to himself] {FearA} {body-A}Bordel, qu'est ce qui est arrivé à tout le monde?
 39)  LEE
 [pickup1][pained] {FearB} {body-C}Je ne peux pas retourner là-bas.
 40)  LEE
-[pickup1][pained BIG yell] HE-HO ? IL Y A QUELQU'UN ?
+[pickup1][pained BIG yell] HE-HO? IL Y A QUELQU'UN?
 41)  LEE
-[pickup1][pained BIG yell] [Lee is walking around alone looking for help] {Body-B}{FearB}A L'AIDE !
+[pickup1][pained BIG yell] [Lee is walking around alone looking for help] {Body-B}{FearB}A L'AIDE!
 42)  LEE
-[pickup1][pained BIG yell] [Lee is walking around alone looking for help]{Body-B}{SadB}IL Y A QUELQU'UN ? {FearA}CRIEZ si vous m'entendez !
+[pickup1][pained BIG yell] [Lee is walking around alone looking for help]{Body-B}{SadB}IL Y A QUELQU'UN? {FearA}CRIEZ si vous m'entendez!
 43)  LEE
-[pickup1][pained BIG yell] [Lee is walking around alone looking for help] {Body-B}{SurpriseA}IL Y A QUELQU'UN ICI ?!
+[pickup1][pained BIG yell] [Lee is walking around alone looking for help] {Body-B}{SurpriseA}IL Y A QUELQU'UN ICI?!
 44)  LEE
-[pickup1][pained BIG yell] [Lee is walking around alone looking for help] {Body-B}{DisgustA}Il y a un mec étrange ici ! Qui saigne dans votre jardin !
+[pickup1][pained BIG yell] [Lee is walking around alone looking for help] {Body-B}{DisgustA}Il y a un mec étrange ici! Qui saigne dans votre jardin!
 45)  LEE
-[pickup1][pained BIG yell] [Lee is walking around alone looking for help] {Body-B}{AngryA}CA DEVRAIT NORMALEMENT FAIRE ARRETER UN HOMME ... une nouvelle fois.
+[pickup1][pained BIG yell] [Lee is walking around alone looking for help] {Body-B}{AngryA}CA DEVRAIT NORMALEMENT FAIRE ARRETER UN HOMME... une nouvelle fois.
 46)  LEE
-[pickup1][pained, sad, lost alone, looking for help] {Body-B}{SadA}S'il vous plaît... S'il vous plaît... {SadB}Quelqu'un... Quelqu'un... n'importe qui ...
+[pickup1][pained, sad, lost alone, looking for help] {Body-B}{SadA}S'il vous plaît... S'il vous plaît... {SadB}Quelqu'un... Quelqu'un... n'importe qui...
 47)  
 Cabane
 48)  
 Porte
 49)  
-Salon de thé
+Plateau avec un service à thé
 50)  
 Bâche de piscine
 51)  
@@ -117,21 +117,21 @@ Ouvrir
 106)  
 Ouvrir
 58)  LEE
-[pickup3] [quiet] Maintenant restons sliencieux; nous allons passer par devant et suivre la route du quartier.
+[pickup3] [quiet] Maintenant restons sliencieux ; nous allons passer par devant et suivre la route principale du quartier.
 59)  LEE
 [pickup3] Ca va bien se passer. Reste près de moi, nous allons bouger le plus rapidement possible.
 60)  CLEMENTINE
 [pickup1] [scared, quiet] OK.
 61)  CLEMENTINE
-[pickup1][just being shot at, close to Lee, hiding] On va mourir ?
+[pickup1][just being shot at, close to Lee, hiding] On va mourir?
 62)  MITCHELL
-[distant, offscreen] J'ai trouvé ce batard !
+[distant, offscreen] J'ai trouvé ce batard!
 63)  
 Non.
 64)  
 Je ne sais pas.
 65)  
-Ils sont après moi, pas vous.
+Ils sont apres moi, pas vous.
 66)  
 [Garder le silence]
 75)  
@@ -139,7 +139,7 @@ Ils sont après moi, pas vous.
 110)  
 [Garder le silence]
 67)  LEE
-[pickup3][hushed, hiding from someone trying to kill you, frazzled to hell] Non, Je suis sûr que nous irons bien.
+[pickup3][hushed, hiding from someone trying to kill you, frazzled to hell] Non, Je suis sûr que tout se passera bien.
 68)  LEE
 [pickup3] [hushed, hiding from someone trying to kill you, frazzled to hell] Je ne sais pas. Je suis désolé.
 69)  CLEMENTINE
@@ -147,7 +147,7 @@ Ils sont après moi, pas vous.
 70)  LEE
 [pickup3][quiet, just having been shot at] Ils sont après moi, pas vous.
 71)  CLEMENTINE
-[pickup1] [quiet, scared] Pourquoi ? [she isn't answered]
+[pickup1] [quiet, scared] Pourquoi? [she isn't answered]
 72)  CLEMENTINE
 [pickup1][super quiet,stressed, eyes squeezed shut, hiding] Je veux mon papa.
 111)  CLEMENTINE
@@ -155,33 +155,33 @@ Ils sont après moi, pas vous.
 73)  SHAWN
 [pickup1] Mec, il ne veut pas entendre ça.
 74)  MITCHELL
-[offscreen] Restez couchés ! Patrouille de l'État de Georgie !
+[offscreen] Restez couchés! Patrouille de l'État de Georgie!
 76)  
-OK !
+OK!
 77)  
-Je viendrai discrètement !
+Je viendrai discretement!
 78)  
-Nous ne sommes pas méchant !
+Nous ne sommes pas des monstres!
 79)  LEE
-[pickup3] [projecting] [don't move!] OK !
+[pickup3] [projecting] [don't move!] OK!
 80)  LEE
-[pickup3][projecting][don't move] Je viendrai discrètement !
+[pickup3][projecting][don't move] Je viendrai discrètement!
 81)  LEE
-[pickup3][projecting][don't move]Il y a une petite fille ici !
+[pickup3][projecting][don't move]Il y a une petite fille ici!
 83)  LEE
-[pickup3][projecting][don't move]Il y a une petite fille ici !
+[pickup3][projecting][don't move]Il y a une petite fille ici!
 82)  LEE
-[pickup3][projecting][don't move] Nous ne sommes pas méchant !
+[pickup3][projecting][don't move] Nous ne sommes pas des monstres!
 84)  SHAWN
-[pickup1] MEC; Ces choses n'ont pas peur des balles, ce sont des survivants !
+[pickup1] MEC ; ces choses n'ont pas peur des balles, ce sont des survivants!
 85)  MITCHELL
-On l'a eu putain !
+On l'a eu putain!
 86)  LEE
 [pickup3] Aucun de nous ne l'est.
 87)  MITCHELL
-Oh merde ! Vous n'êtes pas une des ces choses !
+Oh merde! Vous n'êtes pas une des ces choses!
 88)  MITCHELL
-Attendez ! Pourquoi vous avez dit que vous viendriez discrètement ?
+Attendez! Pourquoi avez-vous dit que vous viendriez discrètement?
 89)  MITCHELL
 [correcting someone, curtly]C'est Officier Mitchell.
 99)  MITCHELL
@@ -191,13 +191,13 @@ Attendez ! Pourquoi vous avez dit que vous viendriez discrètement ?
 113)  MITCHELL
 [correcting someone, curtly]C'est Officier Mitchell.
 90)  SHAWN
-[pickup1] On est désolé pour ça. Enfin, Andre est désolé pour ça.
+[pickup1] Nous sommes désolés pour ça. Enfin, André est désolé pour ça.
 98)  SHAWN
-[pickup1] On est désolé pour ça. Enfin, Andre est désolé pour ça.
+[pickup1] Nous sommes désolés pour ça. Enfin, André est désolé pour ça.
 102)  SHAWN
-[pickup1] On est désolé pour ça. Enfin, Andre est désolé pour ça.
+[pickup1] Nous sommes désolés pour ça. Enfin, André est désolé pour ça.
 115)  SHAWN
-[pickup1] On est désolé pour ça. Enfin, Andre est désolé pour ça.
+[pickup1] Nous sommes désolés pour ça. Enfin, André est désolé pour ça.
 91)  MITCHELL
 J'ai failli prendre votre tête.
 100)  MITCHELL
@@ -211,7 +211,7 @@ Ahh mec, pas de problème. Je suis désolé pour ça.
 97)  MITCHELL
 Ahh mec, pas de problème. Je suis désolé pour ça.
 94)  LEE
-[pickup3] Vous êtes la loi, vous le savez ? On ne plaisante pas avec ça.
+[pickup3] Vous représentez la loi, vous le savez? On ne plaisante pas avec ça.
 95)  LEE
 [pickup3] Je le pensais avant d'être arrêté.
 96)  SHAWN
@@ -221,10 +221,10 @@ Ahh mec, pas de problème. Je suis désolé pour ça.
 101)  MITCHELL
 Oh merde, vous avez une petite fille.
 105)  
-Choqué
+Choque.
 107)  
-J'étais confus.
+J'etais confus.
 108)  
 Tu es la loi, mec.
 109)  
-Je le pensais avant d'être arrêté.
+Je le pensais avant d'etre arrete.

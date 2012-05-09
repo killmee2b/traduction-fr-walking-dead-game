@@ -1,164 +1,165 @@
-1)  KATJAA
-Tu as de jolis cheveux !
-2)  CLEMENTINE
-Ils s'emmêlent tous.
-3)  KATJAA
-C'est ton papa qui t'a donné ce chapeau ?
-4)  CLEMENTINE
+1) KATJAA
+Tu as de jolis cheveux!
+2) CLEMENTINE
+Ils s'emmêlent sans arrêt.
+3) KATJAA
+C'est ton papa qui t'a donné ce chapeau?
+4) CLEMENTINE
 Mmhmm.
-5)  CLEMENTINE
+5) CLEMENTINE
 J'ai un poisson rouge nommé Peanut. Maman n'aime pas les chiens.
-6)  KATJAA
-Tu as des animaux de compagnie ?
-7)  KATJAA
+6) KATJAA
+Tu as des animaux de compagnie?
+7) KATJAA
 Oh, et bien, nous avons un laboratoire nommé Franklin à Fort Lauderdale.
-8)  KATJAA
-Quelle est ta couleur préférée ?
-9)  CLEMENTINE
-Le violet
-10)  CLEMENTINE
+8) KATJAA
+Quelle est ta couleur préférée?
+9) CLEMENTINE
+Le violet.
+10) CLEMENTINE
 C'est ma préférée.
-11)  KATJAA
+11) KATJAA
 Ooh, j'aime bien tes chaussures!
-12)  LEE
+12) LEE
 Salut les filles.
-13)  LEE
+13) LEE
 [warm] Hey.
-14)  
-Vous m'avez l'air détendues toutes les deux.
-15)  LEE
+14)
+Vous m'avez l'air tranquille toutes les deux.
+15) LEE
 {thinkingB} Et bien, ouais.[like "duh"]
-16)  KATJAA
-{normalA} De toute façon, c'est presque comme si {thinkingA}nous n'avions pas vu des gens se manger entre eux depuis 3 jours. {happyA}C'est paisible ici, non ?
-17)  CLEMENTINE
+16) KATJAA
+{normalA} De toute façon, c'est presque comme si {thinkingA}nous n'avions vu personne manger d'autres personnes depuis 3 jours. {happyA}C'est paisible ici, non?
+17) CLEMENTINE
 {happyB} C'est facile.
-18)  LEE
-{thinkingA} Oh, euh, {happyB} comment c'est ?
-19)  LEE
-{fearA} Dooonc, vous êtes {happyB}bien ?
-20)  KATJAA
-{happyB} Je pense que nous faisons très bien. {happyC} Clementine me parlait de sa première année d'école.
-21)  LEE
-{normalC} Vous m'avez l'air détendues toutes les deux.
-22)  
-Comment était la ville ?
-23)  LEE
-{normalD} Comment êtes-vous passer à travers la ville ?
-24)  KATJAA
-{fearA} Servi à ?! {disgustA} Lee, il y a des choses horribles qui se passe en ce moment {happyC}mais ce n'est certainement pas la fin du monde.
-25)  KATJAA
+18) LEE
+{thinkingA} Oh, euh, {happyB} comment c'est?
+19) LEE
+{fearA} Dooonc, vous êtes {happyB}bien?
+20) KATJAA
+{happyB} Je pense que nous faisons très bien. {happyC} Clémentine me parlait de sa première année d'école.
+21) LEE
+{normalC} Vous m'avez l'air détendu toutes les deux.
+22)
+Comment etait la ville?
+23) LEE
+{normalD} Comment avez-vous traversé la ville?
+24) KATJAA
+{fearA} Servi à?! {disgustA} Lee, il y a des choses horribles qui se passent en ce moment {happyC}mais ce n'est certainement pas la fin du monde.
+25) KATJAA
 {thinkingB} Kenny a juste... conduit. {sadA} Nous avons vu tellement de gens qui avaient besoin d'aide. {sadB} et... nous sommes... juste passés, à côté d'eux. Juste... juste...
-26)  LEE
+26) LEE
 {happyA} Bien.
-27)  LEE
-{sadB} OK.C'est bon, tu n'as pas à en dire plus.
-28)  KATJAA
-{happyA} Qu'est-ce que tu fais, Lee ?
-29)  KATJAA
+27) LEE
+{sadB} OK. C'est bon, tu n'as pas besoin d'en dire plus.
+28) KATJAA
+{happyA} Qu'est-ce que tu fais, Lee?
+29) KATJAA
 {fearA} Je suis juste en état de choc. {happyC} Parler à votre fille ici est un petit retour à la normalité.
-30)  LEE
-{normalB} J'avais l'habitude d'enseigner à l'Université de Géorgie.
-31)  LEE
+30) LEE
+{normalB} J'enseignais à l'Université de Géorgie.
+31) LEE
 {thinkingA} Non, j'avais l'habitude. {normalC} J'ai été largué un peu quelques temps.
-32)  LEE
-[Lie] {normalD} Ouais, mes erreurs
-59)  LEE
-[Lie] {normalD} Ouais, mes erreurs
-33)  
+32) LEE
+[Lie] {normalD} Ouais, mes erreurs.
+59) LEE
+[Lie] {normalD} Ouais, mes erreurs.
+33)
 Non, j'ai l'habitude.
-54)  
+54)
 Non, j'ai l'habitude.
-34)  
-MEs erreurs.
-57)  
+34)
+Mes erreurs.
+57)
 Mon erreur.
-35)  KATJAA
-{sadB} C'est trop mauvais. {normalB} J'ai entendu dire que les gens réclament toujours de se rendre dans les universités, après une grande catastrophe. {happyB} Les gens ne veulent pas mourir dans l'ignorance, Je suppose.
-55)  KATJAA
-{sadB} C'est trop mauvais. {normalB} J'ai entendu dire que les gens réclament toujours de se rendre dans les universités, après une grande catastrophe. {happyB} Les gens ne veulent pas mourir dans l'ignorance, Je suppose.
-36)  KATJAA
-{happyB} Tu seras de retour dans la salle de classe en un rien de temps.
-58)  KATJAA
-{happyB} Tu seras de retour dans la salle de classe en un rien de temps.
-37)  KATJAA
-{normalA} Et bien, je pense simplement qu'il est important de rester optimiste aux côtés [gesturing towards his daughter at your side] {happyC}de nos enfants.
-38)  KATJAA
-{happyC} Peut-être devrais-tu allez voir Hershel dans la grange, il est {disgustA}terriblement silencieux.
-39)  
+35) KATJAA
+{sadB} C'est trop mauvais. {normalB} J'ai entendu dire que les gens veulent toujours se rendre dans les universités, après une grande catastrophe. {happyB} Les gens ne veulent pas mourir dans l'ignorance, je suppose.
+55) KATJAA
+{sadB} C'est trop mauvais. {normalB} J'ai entendu dire que les gens veulent toujours se rendre dans les universités, après une grande catastrophe. {happyB} Les gens ne veulent pas mourir dans l'ignorance, je suppose.
+36) KATJAA
+{happyB} Tu seras de retour dans les salles de classe en un rien de temps.
+58) KATJAA
+{happyB} Tu seras de retour dans les salles de classe en un rien de temps.
+37) KATJAA
+{normalA} Et bien, je pense simplement qu'il est important de rester optimiste face[gesturing towards his daughter at your side] {happyC}à nos enfants.
+38) KATJAA
+{happyC} Peut-être que tu devrais aller voir Hershel dans la grange, il est {disgustA}terriblement silencieux.
+39)
 Je reviens de suite.
-40)  LEE
+40) LEE
 {happyA} Je reviens de suite.
-41)  KATJAA
+41) KATJAA
 [goodbye] {happyC} OK, Lee.
-42)  LEE
+42) LEE
 On dirait que ces deux-là s'entendent bien.
-43)  LEE
+43) LEE
 [sizing her up, to himself] Katjaa est sympa avec toi.
-44)  CLEMENTINE
+44) CLEMENTINE
 {happyA} Ouais.
-45)  LEE
-Tu passes du bon temps avec Katjaa, Clementine ?
-46)  LEE
+45) LEE
+Tu passes du bon temps avec Katjaa, Clémentine?
+46) LEE
 [having said a dumb thing] Ouais, ok.
-47)  LEE
-Hum, tu as besoin d'aller dans la salle de bain, ou des choses comme ça ?
-48)  KATJAA
-{thinkingA} Lee, cette jeune fille peut prendre soin d'elle toute seule !
-49)  
-Que fais-tu ?
-50)  KATJAA
-{happyC} Plus que tu ne le penserais, en fait.
-51)  LEE
-{happyA} Peut être l'alligator curieux ?
-52)  KATJAA
-{happyB} e suis vétérinaire à Fort Lauderdale -- {fearA} comme Hershel, ici, {disgustA}mais plus avec des chiens et des chats et sans chevaux.
-53)  LEE
-{thinkingA} Donc euhh, qu'est-ce que vous faites{happyA} quand... les morts ne sont pas dans le coin ?
-56)  LEE
+47) LEE
+Hum, tu as besoin d'aller dans la salle de bain, ou des choses comme ça?
+48) KATJAA
+{thinkingA} Lee, cette jeune fille peut prendre soin d'elle toute seule!
+49)
+Que fais-tu?
+50) KATJAA
+{happyC} Plus que tu ne le penses, en fait.
+51) LEE
+{happyA} Peut-être l'alligator curieux?
+52) KATJAA
+{happyB} Je suis vétérinaire à Fort Lauderdale -- {fearA} comme Hershel, ici, {disgustA}mais je m'occupe plus particulièrement des chiens et des chats, pas des chevaux.
+53) LEE
+{thinkingA} Donc euhh, qu'est-ce que vous faites{happyA} quand... les morts ne rôdent pas dans le coin?
+56) LEE
 {thinkingA} Non, j'avais l'habitude. {normalC} J'ai été largué un peu quelques temps.
-60)  KATJAA
-{normalA} Et bien, je pense simplement qu'il est important de rester optimiste aux côtés [gesturing towards his daughter at your side] {happyC}de nos petits.
-61)  KATJAA
-[pickup1] Je veux rentrer chez moi demain, mais quand bien même, je ne peux pas enlever les choses que nous -- les choses que Duck -- a traversé.
-62)  KATJAA
-[pickup1] Tu ne veux pas revenir aux instants avant que tu aies connaisance de tout ça ?
-63)  
-Qui ne voudrait pas ?
-64)  
+60) KATJAA
+{normalA} Et bien, je pense simplement qu'il est important de rester optimiste face [gesturing towards his daughter at your side] {happyC}à nos enfants.
+61) KATJAA
+[pickup1] Je veux rentrer chez moi demain, mais quand bien même, je ne peux pas enlever les choses que nous -- les choses que Duck -- a traversées.
+62) KATJAA
+[pickup1] Tu n'aimerais pas que tout redevienne comme avant?
+63)
+Qui ne voudrait pas?
+64)
 Les choses arrivent pour une raison.
-65)  
-C'était déjà mauvais avant.
-66)  KATJAA
+65)
+C'était deja mauvais avant.
+66) KATJAA
 [pickup1]Toutes ces choses.
-67)  LEE
-{happyA} Tout ça, ce sont les choses pour lesquelles nous vivont, hein ? {fearA} Sans eux, à quoi bon ?
-68)  LEE
-{normalD} N'importe qui le voudrait. La famille, les barbecues et les bières avec les pôtes.
-69)  KATJAA
+67) LEE
+{happyA} Tout ça, ce sont les choses pour lesquelles nous vivons, hein? {fearA} Sans elles, à quoi bon?
+68) LEE
+{normalD} N'importe qui le voudrait. La famille, les barbecues et les bières avec les potes.
+69) KATJAA
 [pickup1]Pas ce que nous avons vu.
-70)  LEE
+70) LEE
 {normalD} Tout cela pourrait être la providence, vous savez.
-71)  LEE
-{thinkingA} Vous ne réalisez jamais quand quelque chose vous arrive ce que vous êtes en train de donner; {happyA} peut-être que tout cela fonctionnera.
-72)  KATJAA
-[pickup1]Votre optimisme est rafraîchissant et ... nouveau. Ces deux jours passés du moins.
-73)  LEE
-{thinkingB} Mais ils n'étaient pas là avant ? {angryA}Les banques, les politiques, ce-ces conneries -- ces choses-là sont parties. {normalB} L'enfer est livré dans un grand nombre de couleurs différentes.
-74)  LEE
-{disgustB} Les choses étaient mauvaises avant, mauvaises maitenant, mais elles sont différentes, tu vois ?
-75)  KATJAA
+71) LEE
+{thinkingA} Vous ne réalisez jamais ce que vous êtes en train de donner quand quelque chose vous arrive ; {happyA} peut-être que tout cela fonctionnera.
+72) KATJAA
+[pickup1]Votre optimisme est rafraîchissant et... nouveau. Ces deux jours passés du moins.
+73) LEE
+{thinkingB} Mais ils n'étaient pas là avant? {angryA}Les banques, les politiques, ce-ces conneries -- ces choses-là sont parties. {normalB} L'enfer peut prendre énormément de facettes différentes.
+74) LEE
+{disgustB} Les choses étaient mauvaises avant, mauvaises maintenant, mais elles sont différentes, tu vois?
+75) KATJAA
 [pickup1]Les gens mangent les autres.
-76)  KATJAA
-[pickup1]La dernière pensée que j'ai eu avant de voir ce qu'il se passait, ce sont ces chiens Shar-Pei que j'ai vu à la clinique. Je veux retourner en arrière pour repenser à ces débiles de chien.
-82)  KATJAA
-[pickup1]La dernière pensée que j'ai eu avant de voir ce qu'il se passait, ce sont ces chiens Shar-Pei que j'ai vu à la clinique. Je veux retourner en arrière pour repenser à ces débiles de chien.
-77)  KATJAA
-[pickup1]Nous avons besoin d'ESPERER que nous retournerons à nos emplois bientôt, Lee. Un retour à la normal. Ca ne peut pas rester comme ça.
-78)  KATJAA
+76) KATJAA
+[pickup1]La dernière pensée que j'ai eu avant de voir ce qui se passait, ce sont ces chiens Shar-Pei que j'ai vu à la clinique. Je veux retourner en arrière pour repenser à ces débiles de chiens.
+82) KATJAA
+[pickup1]La dernière pensée que j'ai eu avant de voir ce qui se passait, ce sont ces chiens Shar-Pei que j'ai vu à la clinique. Je veux retourner en arrière pour repenser à ces débiles de chiens.
+77) KATJAA
+[pickup1]Nous avons besoin d'ESPERER que nous retournerons à nos emplois bientôt, Lee. Un retour à la normale. Ca ne peut pas rester comme ça.
+78) KATJAA
 [pickup1] Nous serons tous bientôt à la maison.
-79)  KATJAA
+79) KATJAA
 [pickup1] Nous serons tous bientôt à la maison.
-80)  
+80)
 Regarder
-81)  
+81)
 Parler à
+

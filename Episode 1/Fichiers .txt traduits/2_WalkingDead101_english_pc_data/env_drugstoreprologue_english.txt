@@ -1,0 +1,1260 @@
+1)  KENNY
+{AngryA}Avec cette alarme{ThinkingA} ,nous n'aurons pas beaucoup de temps {DisgustA}avant que tous les zombies de Macon {AngryA}ne soient à nos trousses. {NormalA}Je vais chercher le pick up à l'arrière.
+19)  KENNY
+{AngryA}Avec cette alarme{ThinkingA} ,nous n'aurons pas beaucoup de temps {DisgustA}avant que tous les zombies de Macon {AngryA}ne soient à nos trousses. {NormalA}Je vais chercher le pick up à l'arrière.
+2)  LILLY
+{AngryB}Dépêche-toi, {FearA} je dois sortir mon père d'ici.
+14)  LILLY
+{AngryB}Dépêche-toi, {FearA} je dois sortir mon père d'ici.
+301)  LILLY
+{AngryB}Dépêche-toi, {FearA} je dois sortir mon père d'ici.
+450)  LILLY
+{AngryB}Dépêche-toi, {FearA} je dois sortir mon père d'ici.
+3)  KENNY
+{HappyB}Je n'ai pas prévu d'y passer la journée.
+24)  KENNY
+{HappyB}Je n'ai pas prévu d'y passer la journée.
+303)  KENNY
+{HappyB}Je n'ai pas prévu d'y passer la journée.
+454)  KENNY
+{HappyB}Je n'ai pas prévu d'y passer la journée.
+4)  KENNY
+{NormalB}Chérie, enmène Duck dans le bureau et {AngryB}barricade la porte derrière moi. {ThinkingA}Glenn, quand tu m'entendras klaxonner dans la ruelle, {NormalB}commence à faire sortir tout le monde.
+15)  KENNY
+{NormalB}Chérie, enmène Duck dans le bureau et {AngryB}barricade la porte derrière moi. {ThinkingA}Glenn, quand tu m'entendras klaxonner dans la ruelle, {NormalB}commence à faire sortir tout le monde.
+297)  KENNY
+{NormalB}Chérie, enmène Duck dans le bureau et {AngryB}barricade la porte derrière moi. {ThinkingA}Glenn, quand tu m'entendras klaxonner dans la ruelle, {NormalB}commence à faire sortir tout le monde.
+453)  KENNY
+{NormalB}Chérie, enmène Duck dans le bureau et {AngryB}barricade la porte derrière moi. {ThinkingA}Glenn, quand tu m'entendras klaxonner dans la ruelle, {NormalB}commence à faire sortir tout le monde.
+605)  KENNY
+{NormalB}Chérie, enmène Duck dans le bureau et {AngryB}barricade la porte derrière moi. {ThinkingA}Glenn, quand tu m'entendras klaxonner dans la ruelle, {NormalB}commence à faire sortir tout le monde. 
+5)  GLENN
+{FearA}Compris.
+22)  GLENN
+{FearA}Compris.
+294)  GLENN
+{FearA}Compris.
+451)  GLENN
+{FearA}Compris.
+606)  GLENN
+{FearA}Compris.
+6)  KENNY
+{HappyA}Doug, Carley et Lee, {NormalB}vous les gars, assurez-vous que nos défenses {NormalC}tiennent jusque là.
+23)  KENNY
+{HappyA}Doug, Carley et Lee, {NormalB}vous les gars, assurez-vous que nos défenses {NormalC}tiennent jusque là.
+305)  KENNY
+{HappyA}Doug, Carley et Lee, {NormalB}vous les gars, assurez-vous que nos défenses {NormalC}tiennent jusque là.
+455)  KENNY
+{HappyA}Doug, Carley et Lee, {NormalB}vous les gars, assurez-vous que nos défenses {NormalC}tiennent jusque là.
+607)  KENNY
+{HappyA}Doug, Carley et Lee, {NormalB}vous les gars, assurez-vous que nos défenses {NormalC}tiennent jusque là.
+7)  KENNY
+[To player] {ThinkingA}Ca va aller pour ta petite fille?
+25)  KENNY
+[To player] {ThinkingA}Ca va aller pour ta petite fille?
+306)  KENNY
+[To player] {ThinkingA}Ca va aller pour ta petite fille?
+456)  KENNY
+[To player] {ThinkingA}Ca va aller pour ta petite fille?
+8)  LEE
+{HappyA}Certainement.{HappyC} Clémentine peut gérer ça.
+21)  LEE
+{HappyA}Certainement.{HappyC} Clémentine peut gérer ça.
+295)  LEE
+{HappyA}Certainement.{HappyC} Clémentine peut gérer ça.
+457)  LEE
+{HappyA}Certainement.{HappyC} Clémentine peut gérer ça.
+9)  KENNY
+{DisgustA}Merde.
+16)  KENNY
+{DisgustA}Merde.
+304)  KENNY
+{DisgustA}Merde.
+447)  KENNY
+{DisgustA}Merde.
+10)  DOUG
+{FearB}La porte n'est pas vérouillée.
+18)  DOUG
+{FearB}La porte n'est pas vérouillée.
+296)  DOUG
+{FearB}La porte n'est pas vérouillée.
+452)  DOUG
+{FearB}La porte n'est pas vérouillée.
+11)  KENNY
+{AngryA}Allez-y! {NormalB}Je serai de retour aussi vite que possible.
+20)  KENNY
+{AngryA}Allez-y! {NormalB}Je serai de retour aussi vite que possible.
+298)  KENNY
+{AngryA}Allez-y! {NormalB}Je serai de retour aussi vite que possible.
+448)  KENNY
+{AngryA}Allez-y! {NormalB}Je serai de retour aussi vite que possible.
+12)  KENNY
+{SadA}Et Lee, {NormalA}Je ferais mieux de prendre cette hache {FearB}au cas où je tombe sur l'un d'entre eux en allant chercher le pick up.
+17)  KENNY
+{SadA}Et Lee, {NormalA}Je ferais mieux de prendre cette hache {FearB}au cas où je tombe sur l'un d'entre eux en allant chercher le pick up.
+299)  KENNY
+{SadA}Et Lee, {NormalA}Je ferais mieux de prendre cette hache {FearB}au cas où je tombe sur l'un d'entre eux en allant chercher le pick up.
+449)  KENNY
+{SadA}ET Lee, {NormalA}Je ferais mieux de prendre cette hache {FearB}au cas où je tombe sur l'un d'entre eux en allant chercher le pick up.
+608)  KENNY
+{SadA}ET Lee, {NormalA}Je ferais mieux de prendre cette hache {FearB}au cas où je tombe sur l'un d'entre eux en allant chercher le pick up.
+13)  LEE
+{SadA}Vas-y.
+26)  LEE
+{SadA}Vas-y.
+300)  LEE
+{SadA}Vas-y.
+458)  LEE
+{SadA}Vas-y.
+609)  LEE
+{SadA}Vas-y.
+27)  DOUG
+{FearC}Je ne sais pas si ces planches vont tenir longtemps...
+309)  DOUG
+{FearC}Je ne sais pas si ces planches vont tenir longtemps...
+459)  DOUG
+{FearC}Je ne sais pas si ces planches vont tenir longtemps...
+28)  CARLEY
+[Exerting herself] {NormalC}Nous pourrions bloquer la porte, {AngryC}partir d'ici{AngryD} et nous assurer qu'ils ne passent pas!
+308)  CARLEY
+[Exerting herself] {NormalC}Nous pourrions bloquer la porte, {AngryC}partir d'ici{AngryD} et nous assurer qu'ils ne passent pas!
+460)  CARLEY
+[Exerting herself] {NormalC}Nous pourrions bloquer la porte, {AngryC}partir d'ici{AngryD} et nous assurer qu'ils ne passent pas!
+29)  DOUG
+[Mustering the courage] {ThinkingA}Ok.
+307)  DOUG
+[Mustering the courage] {ThinkingA}Ok.
+461)  DOUG
+[Mustering the courage] {ThinkingA}Ok.
+30)  LEE
+Alors Ok...
+133)  LEE
+Alors Ok...
+230)  LEE
+Alors Ok...
+382)  LEE
+Alors Ok...
+31)  LEE
+Tu es sûr?
+131)  LEE
+Tu es sûr?
+232)  LEE
+Tu es sûr?
+383)  LEE
+Tu es sûr?
+32)  CARLEY
+[focused, stern] {AngryB}Dessus.
+231)  CARLEY
+[focused, stern] {AngryB}Dessus.
+384)  CARLEY
+[focused, stern] {AngryB}Dessus.
+33)  KATJAA
+[from the other room] Glenn… GLENN, A L'AIDE!
+249)  KATJAA
+[from the other room] Glenn… GLENN, A L'AIDE!
+401)  KATJAA
+[from the other room] Glenn… GLENN, A L'AIDE!
+587)  KATJAA
+[from the other room] Glenn… GLENN, A L'AIDE!
+34)  LEE
+[Exerting himself to hold the door closed] Ouais.
+136)  LEE
+[Exerting himself to hold the door closed] Ouais.
+248)  LEE
+[Exerting himself to hold the door closed] Ouais.
+400)  LEE
+[Exerting himself to hold the door closed] Ouais.
+35)  GLENN
+Je vais voir ce qui ne va pas. Ca ira?
+250)  GLENN
+Je vais voir ce qui ne va pas. Ca ira?
+36)  CLEMENTINE
+AHHHH!
+140)  CLEMENTINE
+AHHHH!
+251)  CLEMENTINE
+AHHHH!
+406)  CLEMENTINE
+AHHHH!
+37)  KATJAA
+GLENN! GLENN, A L'AIDE!
+255)  KATJAA
+GLENN! GLENN, A L'AIDE!
+407)  KATJAA
+GLENN! GLENN, A L'AIDE!
+38)  GLENN
+{FearB}	Merde merde merde! Je... {FearC}Je dois y aller!
+252)  GLENN
+{FearB}	Merde merde merde! Je... {FearC}Je dois y aller!
+408)  GLENN
+{FearB}	Merde merde merde! Je... {FearC}Je dois y aller!
+39)  DOUG
+{FearD}On ne pourra pas tenir seul!
+254)  DOUG
+{FearD}On ne pourra pas tenir seul!
+404)  DOUG
+{FearD}On ne pourra pas tenir seul!
+40)  DOUG
+{FearC}Lee, {FearD}On ne pourra pas tenir seul!
+253)  DOUG
+{FearC}Lee, {FearD}On ne pourra pas tenir seul!
+405)  DOUG
+{FearC}Lee, {FearD}On ne pourra pas tenir seul!
+41)  GLENN
+Je suis désolé, les gars.
+256)  GLENN
+Je suis désolé, les gars.
+403)  GLENN
+Je suis désolé, les gars.
+42)  CARLEY
+LEE...Je suis à court de balles! Le chargeur est au sol! A L'AIDE!
+144)  CARLEY
+LEE...Je suis à court de balles! Le chargeur est au sol! A L'AIDE!
+284)  CARLEY
+LEE...Je suis à court de balles! Le chargeur est au sol! A L'AIDE!
+436)  CARLEY
+LEE...Je suis à court de balles! Le chargeur est au sol! A L'AIDE!
+510)  CARLEY
+LEE...Je suis à court de balles! Le chargeur est au sol! A L'AIDE!
+43)  DOUG
+{FearC}Ils passent à travers! {FearD}ILS PASSENT A TRAVERS, LEE! AIDE-MOI! MON DIEU, J'AI BESOIN DE TOI!
+285)  DOUG
+{FearC}Ils passent à travers! {FearD}ILS PASSENT A TRAVERS, LEE! AIDE-MOI! MON DIEU, J'AI BESOIN DE TOI!
+44)  DOUG
+[Lots of screaming, being eaten alive]
+150)  DOUG
+[Lots of screaming, being eaten alive]
+257)  DOUG
+[Lots of screaming, being eaten alive]
+409)  DOUG
+[Lots of screaming, being eaten alive]
+45)  CLEMENTINE
+{FearD}AHHH! [Zombies have grabbed a friend].
+262)  CLEMENTINE
+{FearD}AHHH! [Zombies have grabbed a friend].
+413)  CLEMENTINE
+{FearD}AHHH! [Zombies have grabbed a friend].
+46)  DOUG
+{FearD}AHHHHHH!
+261)  DOUG
+{FearD}AHHHHHH!
+412)  DOUG
+{FearD}AHHHHHH!
+47)  DOUG
+{FearD}Ah, non!! DEGAGEZ-LES!
+258)  DOUG
+{FearD}Ah, non!! DEGAGEZ-LES!
+411)  DOUG
+{FearD}Ah, non!! DEGAGEZ-LES!
+48)  CARLEY
+[Big exhale, like 'phew'] {HappyD}Merci.
+260)  CARLEY
+[Big exhale, like 'phew'] {HappyD}Merci.
+414)  CARLEY
+[Big exhale, like 'phew'] {HappyD}Merci.
+49)  CARLEY
+{FearB}Oh mon dieu... [A friend is being eaten]
+259)  CARLEY
+{FearB}Oh mon dieu... [A friend is being eaten]
+410)  CARLEY
+{FearB}Oh mon dieu... [A friend is being eaten]
+50)  DOUG
+[Relieved] {SadA}Oh mec, merci.
+316)  DOUG
+[Relieved] {SadA}Oh mec, merci.
+465)  DOUG
+[Relieved] {SadA}Oh mec, merci.
+51)  DOUG
+{FearD}Nom de... [a friend has just been eaten]
+318)  DOUG
+{FearD}Nom de... [a friend has just been eaten]
+470)  DOUG
+{FearD}Nom de... [a friend has just been eaten]
+52)  CLEMENTINE
+{FearD}AHHHHHHH! [Zombies have grabbed a friend.]
+313)  CLEMENTINE
+{FearD}AHHHHHHH! [Zombies have grabbed a friend.]
+467)  CLEMENTINE
+{FearD}AHHHHHHH! [Zombies have grabbed a friend.]
+53)  DOUG
+{FearD}OH MERDE, OH MERDE, OH MERDE!
+317)  DOUG
+{FearD}OH MERDE, OH MERDE, OH MERDE!
+468)  DOUG
+{FearD}OH MERDE, OH MERDE, OH MERDE!
+54)  CARLEY
+{AngryD}Merde! Je suis à sec! {FearD}Ils sont trop nombreux -
+314)  CARLEY
+{AngryD}Merde! Je suis à sec! {FearD}Ils sont trop nombreux -
+466)  CARLEY
+{AngryD}Merde! Je suis à sec! {FearD}Ils sont trop nombreux -
+55)  CARLEY
+[Lots of screaming, being eaten alive].
+151)  CARLEY
+[Lots of screaming, being eaten alive].
+315)  CARLEY
+[Lots of screaming, being eaten alive].
+56)  KENNY
+{AngryB}Allons-y!
+233)  KENNY
+{AngryB}Allons-y!
+385)  KENNY
+{AngryB}Allons-y!
+57)  CARLEY
+{SadA}Ils ont Doug... {FearB}Ils...Ils...
+235)  CARLEY
+{SadA}Ils ont Doug... {FearB}Ils...Ils...
+387)  CARLEY
+{SadA}Ils ont Doug... {FearB}Ils...Ils...
+58)  LARRY
+{AngryA}Ça ne fait rien, {AngryB}tu vas BOUGER.
+59)  LARRY
+{AngryA}Ça ne fait rien, {AngryB}tu vas BOUGER.
+234)  LARRY
+{AngryA}Ça ne fait rien, {AngryB}tu vas BOUGER.
+236)  LARRY
+{AngryA}Ça ne fait rien, {AngryB}tu vas BOUGER.
+386)  LARRY
+{AngryA}Ça ne fait rien, {AngryB}tu vas BOUGER.
+389)  LARRY
+{AngryA}Ça ne fait rien, {AngryB}tu vas BOUGER.
+60)  DOUG
+{FearC}	Ils ont Carley!
+237)  DOUG
+{FearC}	Ils ont Carley!
+388)  DOUG
+{FearC}	Ils ont Carley!
+61)  LARRY
+Ce fils de pute ne vient pas avec nous.
+164)  LARRY
+Ce fils de pute ne vient pas avec nous.
+243)  LARRY
+Ce fils de pute ne vient pas avec nous.
+393)  LARRY
+Ce fils de pute ne vient pas avec nous.
+62)  CLEMENTINE
+Non! [Watching Lee, who is essentially her father, get hurt badly]
+162)  CLEMENTINE
+Non! [Watching Lee, who is essentially her father, get hurt badly]
+241)  CLEMENTINE
+Non! [Watching Lee, who is essentially her father, get hurt badly]
+395)  CLEMENTINE
+Non! [Watching Lee, who is essentially her father, get hurt badly]
+63)  LARRY
+{DisgustA}Tu ne viens pas avec nous, {AngryD}fils de pute!
+242)  LARRY
+{DisgustA}Tu ne viens pas avec nous, {AngryD}fils de pute!
+394)  LARRY
+{DisgustA}Tu ne viens pas avec nous, {AngryD}fils de pute!
+64)  CLEMENTINE
+{FearA}Pour la porte!
+218)  CLEMENTINE
+{FearA}Pour la porte!
+370)  CLEMENTINE
+{FearA}Pour la porte!
+65)  DOUG
+Allez!
+166)  DOUG
+Allez!
+207)  DOUG
+Allez!
+270)  DOUG
+Allez!
+422)  DOUG
+Allez!
+66)  DOUG
+On doit tenir cette porte jusqu'à ce que Ken revienne!
+167)  DOUG
+On doit tenir cette porte jusqu'à ce que Ken revienne!
+271)  DOUG
+On doit tenir cette porte jusqu'à ce que Ken revienne!
+423)  DOUG
+On doit tenir cette porte jusqu'à ce que Ken revienne!
+67)  DOUG
+[Exerting self 1]
+72)  CARLEY
+[Exerting self 1]
+77)  GLENN
+[Exerting self 1]
+168)  DOUG
+[Exerting self 1]
+173)  CARLEY
+[Exerting self 1]
+178)  GLENN
+[Exerting self 1]
+238)  GLENN
+[Exerting self 1]
+245)  DOUG
+[Exerting self 1]
+291)  CARLEY
+[Exerting self 1]
+390)  GLENN
+[Exerting self 1]
+397)  DOUG
+[Exerting self 1]
+443)  CARLEY
+[Exerting self 1]
+68)  DOUG
+[Exerting self 2]
+73)  CARLEY
+[Exerting self 2]
+78)  GLENN
+[Exerting self 2]
+169)  DOUG
+[Exerting self 2]
+174)  CARLEY
+[Exerting self 2]
+179)  GLENN
+[Exerting self 2]
+239)  GLENN
+[Exerting self 2]
+246)  DOUG
+[Exerting self 2]
+292)  CARLEY
+[Exerting self 2]
+391)  GLENN
+[Exerting self 2]
+398)  DOUG
+[Exerting self 2]
+444)  CARLEY
+[Exerting self 2]
+69)  DOUG
+[Exerting self 3]
+74)  CARLEY
+[Exerting self 3]
+79)  GLENN
+[Exerting self 3]
+170)  DOUG
+[Exerting self 3]
+175)  CARLEY
+[Exerting self 3]
+180)  GLENN
+[Exerting self 3]
+240)  GLENN
+[Exerting self 3]
+247)  DOUG
+[Exerting self 3]
+293)  CARLEY
+[Exerting self 3]
+392)  GLENN
+[Exerting self 3]
+399)  DOUG
+[Exerting self 3]
+445)  CARLEY
+[Exerting self 3]
+70)  CARLEY
+Bougez-vous et partons!
+171)  CARLEY
+Bougez-vous et partons!
+203)  CARLEY
+Bougez-vous et partons!
+282)  CARLEY
+Bougez-vous et partons!
+434)  CARLEY
+Bougez-vous et partons!
+71)  CARLEY
+Un peu d'aide ici!
+172)  CARLEY
+Un peu d'aide ici!
+202)  CARLEY
+Un peu d'aide ici!
+283)  CARLEY
+Un peu d'aide ici!
+435)  CARLEY
+Un peu d'aide ici!
+75)  GLENN
+Lee, viens tenir la porte!
+176)  GLENN
+Lee, viens tenir la porte!
+194)  GLENN
+Lee, viens tenir la porte!
+263)  GLENN
+Lee, viens tenir la porte!
+76)  GLENN
+On ne doit pas les laisser entrer!
+264)  GLENN
+On ne doit pas les laisser entrer!
+80)  LEE
+Clémentine! Cherche quelque chose à passer à travers les poignées!! Quelque chose de solide, ok?!
+272)  LEE
+Clémentine! Cherche quelque chose à passer à travers les poignées!! Quelque chose de solide, ok?!
+424)  LEE
+Clémentine! Cherche quelque chose à passer à travers les poignées!! Quelque chose de solide, ok?!
+600)  LEE
+Clémentine! Cherche quelque chose à passer à travers les poignées!! Quelque chose de solide, ok?!
+81)  CLEMENTINE
+[under duress] {FearB}Ok!
+273)  CLEMENTINE
+[under duress] {FearB}Ok!
+425)  CLEMENTINE
+[under duress] {FearB}Ok!
+599)  CLEMENTINE
+[under duress] {FearB}Ok!
+82)  LEE
+Tu trouves?
+183)  LEE
+Tu trouves?
+275)  LEE
+Tu trouves?
+427)  LEE
+Tu trouves?
+83)  CLEMENTINE
+{FearB}Je cherche!
+274)  CLEMENTINE
+{FearB}Je cherche!
+426)  CLEMENTINE
+{FearB}Je cherche!
+84)  CLEMENTINE
+{HappyB}J'ai trouvé quelque chose!
+277)  CLEMENTINE
+{HappyB}J'ai trouvé quelque chose!
+429)  CLEMENTINE
+{HappyB}J'ai trouvé quelque chose!
+85)  LEE
+Apporte-le!
+186)  LEE
+Apporte-le!
+276)  LEE
+Apporte-le!
+428)  LEE
+Apporte-le!
+86)  LEE
+{NormalD}Reste loin des fenêtres.
+278)  LEE
+{NormalD}Reste loin des fenêtres.
+431)  LEE
+{NormalD}Reste loin des fenêtres.
+87)  CLEMENTINE
+{FearA}Ok.
+279)  CLEMENTINE
+{FearA}Ok.
+430)  CLEMENTINE
+{FearA}Ok.
+88)  LEE
+Ca va?
+189)  LEE
+Ca va?
+280)  LEE
+Ca va?
+433)  LEE
+Ca va?
+89)  CLEMENTINE
+[Earnest] {FearB}Ils ont besoin d'aide!
+281)  CLEMENTINE
+[Earnest] {FearB}Ils ont besoin d'aide!
+432)  CLEMENTINE
+[Earnest] {FearB}Ils ont besoin d'aide!
+90)  GLENN
+Ils doivent être une centaine!
+266)  GLENN
+Ils doivent être une centaine!
+418)  GLENN
+Ils doivent être une centaine!
+91)  LEE
+Tu as dit "qu'on réussirait".
+192)  LEE
+Tu as dit "qu'on réussirait".
+265)  LEE
+Tu as dit "qu'on réussirait".
+417)  LEE
+Tu as dit "qu'on réussirait".
+92)  LEE
+Fais gaffe!
+193)  LEE
+Fais gaffe!
+267)  LEE
+Fais gaffe!
+419)  LEE
+Fais gaffe!
+93)  GLENN
+{AngryA}Lee, viens bloquer la porte!
+268)  GLENN
+{AngryA}Lee, viens bloquer la porte!
+420)  GLENN
+{AngryA}Lee, viens bloquer la porte!
+94)  GLENN
+{FearB}	On ne doit pas les laisser entrer!
+269)  GLENN
+{FearB}	On ne doit pas les laisser entrer!
+421)  GLENN
+{FearB}	On ne doit pas les laisser entrer!
+95)  CARLEY
+{FearB}Ces choses n'arrêtent pas...
+219)  CARLEY
+{FearB}Ces choses n'arrêtent pas...
+371)  CARLEY
+{FearB}Ces choses n'arrêtent pas...
+96)  CARLEY
+{AngryB}Kenny fais vite.
+220)  CARLEY
+{AngryB}Kenny fais vite.
+372)  CARLEY
+{AngryB}Kenny fais vite.
+97)  LEE
+Ca va?
+199)  LEE
+Ca va?
+222)  LEE
+Ca va?
+374)  LEE
+Ca va?
+98)  CARLEY
+{NormalB}Tant que j'ai des balles.
+221)  CARLEY
+{NormalB}Tant que j'ai des balles.
+373)  CARLEY
+{NormalB}Tant que j'ai des balles.
+99)  CARLEY
+{AngryD}Lee, les munitions ne sont pas illimitées.
+223)  CARLEY
+{AngryD}Lee, les munitions ne sont pas illimitées.
+375)  CARLEY
+{AngryD}Lee, les munitions ne sont pas illimitées.
+100)  CARLEY
+{FearC}Mon chargeur est hors de portée!
+224)  CARLEY
+{FearC}Mon chargeur est hors de portée!
+376)  CARLEY
+{FearC}Mon chargeur est hors de portée!
+101)  CARLEY
+{AngryC}Un peu d'aide ici!
+225)  CARLEY
+{AngryC}Un peu d'aide ici!
+377)  CARLEY
+{AngryC}Un peu d'aide ici!
+102)  CARLEY
+{AngryD}Bougez-vous et partons d'ici!
+226)  CARLEY
+{AngryD}Bougez-vous et partons d'ici!
+378)  CARLEY
+{AngryD}Bougez-vous et partons d'ici!
+103)  DOUG
+[Holding off zombies] {FearB}Oh mec, oh mec...
+286)  DOUG
+[Holding off zombies] {FearB}Oh mec, oh mec...
+438)  DOUG
+[Holding off zombies] {FearB}Oh mec, oh mec...
+104)  DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+205)  DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+216)  DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+287)  DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+439)  DOUG
+[makes a bunch of noises as he's struggling to keep the zombies out]
+105)  DOUG
+{FearB}Les planches vont casser, {FearC}Je ne peux pas tenir!
+288)  DOUG
+{FearB}Les planches vont casser, {FearC}Je ne peux pas tenir!
+440)  DOUG
+{FearB}Les planches vont casser, {FearC}Je ne peux pas tenir!
+106)  DOUG
+{AngryA}Allez!
+289)  DOUG
+{AngryA}Allez!
+441)  DOUG
+{AngryA}Allez!
+107)  DOUG
+{AngryA}Aide-nous!
+290)  DOUG
+{AngryA}Aide-nous!
+442)  DOUG
+{AngryA}Aide-nous!
+108)  CLEMENTINE
+{FearB}[gasp!]
+312)  CLEMENTINE
+{FearB}[gasp!]
+464)  CLEMENTINE
+{FearB}[gasp!]
+109)  LEE
+[under duress] {FearB}On peut peut-être bloquer ces portes!
+310)  LEE
+[under duress] {FearB}On peut peut-être bloquer ces portes!
+462)  LEE
+[under duress] {FearB}On peut peut-être bloquer ces portes!
+110)  LEE
+[under duress]{FearB} Cherche quelque chose à passer à travers les poignées!
+311)  LEE
+[under duress]{FearB} Cherche quelque chose à passer à travers les poignées!
+463)  LEE
+[under duress]{FearB} Cherche quelque chose à passer à travers les poignées!
+111)  LEE
+[under duress, to self] {NormalD}Ca doit être assez solide pour pouvoir stopper ces choses.
+244)  LEE
+[under duress, to self] {NormalD}Ca doit être assez solide pour pouvoir stopper ces choses.
+396)  LEE
+[under duress, to self] {NormalD}Ca doit être assez solide pour pouvoir stopper ces choses.
+112)  LEE
+[under duress] {AngryA}Dans quel état sont les barricades des fenêtres?
+227)  LEE
+[under duress] {AngryA}Dans quel état sont les barricades des fenêtres?
+379)  LEE
+[under duress] {AngryA}Dans quel état sont les barricades des fenêtres?
+113)  DOUG
+[under duress] {FearB}Eh, tu sais.
+229)  DOUG
+[under duress] {FearB}Eh, tu sais.
+380)  DOUG
+[under duress] {FearB}Eh, tu sais.
+114)  LEE
+[under duress][stern] {AngryC}NON. Je ne sais pas, actuellement.
+228)  LEE
+[under duress][stern] {AngryC}NON. Je ne sais pas, actuellement.
+381)  LEE
+[under duress][stern] {AngryC}NON. Je ne sais pas, actuellement.
+115)  KENNY
+Avec cette alarme, on n'a pas beaucoup de temps avant que tous les [ZOMBIE] de Macon ne soient à nos trousses. Je vais chercher le pick up à l'arrière.
+116)  LILLY
+Dépêche-toi, je dois sortir mon père d'ici.
+117)  KENNY
+Je n'ai pas prévu d'y passer la journée.
+118)  KENNY
+Chérie, enmène Duck dans le bureau et barricade la porte derrière moi. Glenn, quand tu m'entendras klaxonner dans la ruelle, commence à faire sortir tout le monde.
+119)  GLENN
+Compris.
+120)  KENNY
+Doug, Carley et Lee, vous les gars, assurez-vous que nos défenses tiennent jusqu'au bout.
+121)  KENNY
+Et Lee, Je ferais mieux de prendre cette hache au cas où je tombe sur l'un d'entre eux en allant chercher le pick up.
+122)  LEE
+Vas-y.
+123)  KENNY
+[To player] Ca va aller pour la petite fille?
+124)  LEE
+Certainement. Clémentine peut gérer ca.
+125)  KENNY
+Merde
+126)  DOUG
+La porte n'est pas vérouillée.
+127)  KENNY
+Allez-y! Je serai de retour aussi vite que possible.
+128)  DOUG
+Je ne sais pas si les barricades vont tenir longtemps...
+129)  CARLEY
+[Exerting herself] Nous pourrions bloquer la porte. Partir d'ici et nous assurer qu'ils ne passent pas!
+130)  DOUG
+[Mustering the courage] Ok.
+132)  CARLEY
+[focused, stern] Dessus.
+134)  KATJAA
+[from the other room] GLENN! A L'AIDE!
+135)  GLENN
+Kenny est là! Je vais voir ce qui ne va pas. Ca ira?
+137)  DOUG
+Lee! On ne peut pas tenir ça seul.
+138)  DOUG
+On ne peut pas bloquer la porte nous-même!
+139)  GLENN
+Merde merde merde! Je... Je dois y aller!
+141)  KATJAA
+GLENN! A L'AIDE!
+142)  GLENN
+Je suis désolé les gars.
+143)  DOUG
+Ils passent à travers! ILS PASSENT A TRAVERS, LEE! AIDE-MOI! MON DIEU, J'AI BESOIN DE TOI!
+145)  DOUG
+AHHHHHH!
+146)  CARLEY
+[Big exhale, like 'phew'] Merci.
+147)  CARLEY
+Oh mon dieu... [A friend is being eaten]
+148)  CLEMENTINE
+AHHH! [Zombies have grabbed a friend].
+149)  DOUG
+Ah, non!! ENLEVEZ-LES!
+152)  CLEMENTINE
+AHHHHHHH! [Zombies have grabbed a friend.]
+153)  DOUG
+[Relieved] Oh mec, merci.
+154)  DOUG
+Mon dieu... [a friend has just been eaten]
+155)  DOUG
+OH MERDE OH MERDE OH MERDE!
+156)  CARLEY
+Merde! Merde! Je suis à sec! Ils sont trop nombreux -
+157)  KENNY
+ALLONS-Y!
+158)  CARLEY
+Ils ont eu Doug... Ils...ils...
+159)  LARRY
+Ça ne fait rien, tu va BOUGER.
+161)  LARRY
+Ça ne fait rien, tu va BOUGER.
+160)  DOUG
+Ils ont eu Carley!
+163)  LARRY
+Tu ne viens pas avec nous fils de pute.
+165)  CLEMENTINE
+Pour la porte!
+177)  GLENN
+On ne peut pas les laisser entrer!
+195)  GLENN
+On ne peut pas les laisser entrer!
+181)  CLEMENTINE
+[under duress] Ok!
+182)  LEE
+Clémentine!  Cherche quelque chose à passer à travers les poignées!! Quelque chose de solide, ok?!
+184)  CLEMENTINE
+Je cherche!
+185)  CLEMENTINE
+J'ai trouvé quelque chose!
+187)  LEE
+Reste loin des fenêtres!
+188)  CLEMENTINE
+Ok
+190)  CLEMENTINE
+[Earnest] Ils ont besoin d'aide
+191)  GLENN
+Ils doivent être une centaine!
+196)  CARLEY
+Ces choses n'arrêtent plus...
+197)  CARLEY
+Kenny dépêche-toi.
+198)  CARLEY
+Tant que j'aurais des balles.
+200)  CARLEY
+Lee, les munitions ne sont pas illimitées!
+201)  CARLEY
+Mes munitions sont hors de portée!
+204)  DOUG
+[Holding off zombies] Oh mec, oh mec...
+206)  DOUG
+Les planches vont casser, Je ne peux pas tenir!
+217)  DOUG
+Les planches vont casser, Je ne peux pas tenir!
+208)  DOUG
+Aidez-nous!
+209)  CLEMENTINE
+[gasp!]
+505)  CLEMENTINE
+[gasp!]
+210)  LEE
+[under duress] On peut peut-être barricader ces portes!
+506)  LEE
+[under duress] On peut peut-être barricader ces portes!
+211)  LEE
+[under duress] Cherche quelque chose à passer à travers les poignées!
+507)  LEE
+[under duress] Cherche quelque chose à passer à travers les poignées!
+212)  LEE
+[under duress, to self] Ca doit être assez solide pour empêcher ces choses de passer.
+213)  DOUG
+[under duress] Eh, tu sais.
+214)  LEE
+[under duress][stern] NON. je ne sais pas, pour l'instant.
+215)  LEE
+[under duress] Dans quel état sont les barricades des fenêtres?
+302)  KENNY
+{AngryA}Avec cette alarme,{ThinkingA}  nous n'aurons pas beaucoup de temps {DisgustA}avant que tous les zombies de Macon {AngryA}ne soient à nos trousses. {NormalA}Je vais chercher le pick up à l'arrière.
+446)  KENNY
+{AngryA}Avec cette alarme,{ThinkingA}  nous n'aurons pas beaucoup de temps {DisgustA}avant que tous les zombies de Macon {AngryA}ne soient à nos trousses. {NormalA}Je vais chercher le pick up à l'arrière.
+319)  LEE
+C'est la porte qui se bloque de l'extérieur.
+471)  LEE
+C'est la porte qui se bloque de l'extérieur.
+320)  LEE
+{HappyA}Ha, je ne suis pas suicidaire.
+476)  LEE
+{HappyA}Ha, je ne suis pas suicidaire.
+321)  DOUG
+{AngryA}Non, la porte dehors là est fermée. {HappyA}Nous pouvons passer du temps devant le magasin et aller bien.
+475)  DOUG
+{AngryA}Non, la porte dehors là est fermée. {HappyA}Nous pouvons passer du temps devant le magasin et aller bien.
+322)  LEE
+{NormalA}Oh, {ThinkingA}euh.
+472)  LEE
+{NormalA}Oh, {ThinkingA}euh.
+323)  LEE
+[pickup3]entendu ou vu quelque chose?
+474)  LEE
+[pickup3]entendu ou vu quelque chose?
+324)  DOUG
+{NormalA}Rien, heureusement. {HappyA}Tu veux aller dehors, et jeter un oeil?
+473)  DOUG
+{NormalA}Rien, heureusement. {HappyA}Tu veux aller dehors, et jeter un oeil?
+325)  
+Allons jeter un oeil dans le coin.
+334)  
+Allons jeter un oeil dans le coin.
+342)  
+Allons jeter un oeil dans le coin.
+477)  
+Allons jeter un oeil dans le coin.
+486)  
+Allons jeter un oeil dans le coin.
+494)  
+Allons jeter un oeil dans le coin.
+326)  LEE
+{NormalB}Sûr, allons voir les alentours.
+480)  LEE
+{NormalB}Sûr, allons voir les alentours.
+327)  LEE
+{AngryA}D'accord.
+479)  LEE
+{AngryA}D'accord.
+328)  DOUG
+{HappyA}Cool, {AngryB}et... reste accroupi. Pas besoin de les attirer en faisant du bruit inutilement.
+478)  DOUG
+{HappyA}Cool, {AngryB}et... reste accroupi. Pas besoin de les attirer en faisant du bruit inutilement.
+329)  
+Pas maintenant.
+337)  
+Pas maintenant.
+345)  
+Pas maintenant.
+481)  
+Pas maintenant.
+489)  
+Pas maintenant.
+497)  
+Pas maintenant.
+330)  DOUG
+{ThinkingA}D'accord, fais-moi savoir quand tu te sentiras prêt.
+482)  DOUG
+{ThinkingA}D'accord, fais-moi savoir quand tu te sentiras prêt.
+331)  LEE
+{ThinkingB}Eh, pas tout de suite...
+483)  LEE
+{ThinkingB}Eh, pas tout de suite...
+332)  DOUG
+{HappyB}Excellent. On revient en arrière?
+485)  DOUG
+{HappyB}Excellent. On revient en arrière?
+333)  LEE
+{NormalC}Hey, Je suis tombé sur une hache.
+484)  LEE
+{NormalC}Hey, Je suis tombé sur une hache.
+335)  LEE
+{AngryA}Allons voir les environs.
+343)  LEE
+{AngryA}Allons voir les environs.
+488)  LEE
+{AngryA}Allons voir les environs.
+495)  LEE
+{AngryA}Allons voir les environs.
+336)  DOUG
+{HappyA}Ok.
+344)  DOUG
+{HappyA}Ok.
+487)  DOUG
+{HappyA}Ok.
+496)  DOUG
+{HappyA}Ok.
+338)  DOUG
+{AngryA}D'accord.
+347)  DOUG
+{AngryA}D'accord.
+490)  DOUG
+{AngryA}D'accord.
+498)  DOUG
+{AngryA}D'accord.
+339)  LEE
+{ThinkingB}Pas maintenant.
+346)  LEE
+{ThinkingB}Pas maintenant.
+491)  LEE
+{ThinkingB}Pas maintenant.
+499)  LEE
+{ThinkingB}Pas maintenant.
+340)  DOUG
+{NormalB}Bien, {HappyA}envie d'aller faire un tour à l'extérieur?
+492)  DOUG
+{NormalB}Bien, {HappyA}envie d'aller faire un tour à l'extérieur?
+341)  LEE
+{thinkingA}Comment on va faire?
+493)  LEE
+{thinkingA}Comment on va faire?
+348)  LEE
+[to himself] Mon père avait l'habitude de garder tous les trucs cools sur l'étagère du haut.
+500)  LEE
+[to himself] Mon père avait l'habitude de garder tous les trucs cools sur l'étagère du haut.
+349)  LEE
+{ThinkingB}{body-b}Ca avait l'air sécurisé avant qu'ils ne l'envahissent. 
+501)  LEE
+{ThinkingB}{body-b}Ca avait l'air sécurisé avant qu'ils ne l'envahissent. 
+502)  DOUG
+Whoa! Nous n'allons pas revenir là-bas, je n'ai pas fermé la porte.
+502)  DOUG
+Whoa! Nous n'allons pas revenir là-bas, je n'ai pas fermé la porte.
+351)  LEE
+Bien
+503)  LEE
+Bien.
+352)  LEE
+{ThinkingA}{body-b}Ces étagères pèsent une tonne. {DisgustA}{body-b}Elles devraient nous protéger un bon moment.
+504)  LEE
+{ThinkingA}{body-b}Ces étagères pèsent une tonne. {DisgustA}{body-b}Elles devraient nous protéger un bon moment.
+353)  
+Fenêtre
+354)  
+Etagère
+355)  
+porte d'entrée
+356)  
+Bureau
+357)  
+Pile
+358)  
+serviette
+359)  
+Eau
+360)  
+bouton cassé
+361)  
+Antenne
+362)  
+Volume
+363)  
+Accordeur
+364)  
+Batteries
+365)  
+Porte de la batterie
+366)  
+Allumer/éteindre
+367)  
+Tiroir
+368)  
+Désordre
+369)  
+Porte
+402)  GLENN
+[pickup1] [panicked by a scream] Merde! [DIR: (<<author>>Sean Vanaman, Tue Jul 05 18:30:12 2011<<date:1309915812>>)] [Glen bolts across the room and out the office door.]
+415)  GLENN
+[pickup1] Lee, aller!
+416)  GLENN
+[pickup1] [a little panicked, a little agitated] Lee! Allez, mec, Katjaa à besoin de moi!
+437)  DOUG
+[pickup1] [screaming, increasingly terrified] Ahhhhh! Tuez-les, Tuez-LES! Lee, AIDE-MOI! Oh mon dieu, HE-! Oh, Tuez-les, enlevez-les! ENLEVEZ-LES!
+469)  CARLEY
+[pickup1] [Lots of screaming, being eaten alive - please try to show the actress the animation, it's very specific - sk55_action_carleyKilled.chore].
+508)  
+Fermer la porte
+509)  
+Aller à la porte
+511)  DOUG
+[pickup2] Cette fenêtre est DEFONCEE!
+512)  CARLEY
+[pickup1] LEE! Help! Les munitions! Dans mon sac à main!
+513)  CARLEY
+[pickup1] [shocked at zombie attacking Lee] Oh, merde!
+514)  LEE
+[pickup1] Qu...? [zombie suddenly in his face] Oh, merde!
+515)  LEE
+[pickup1] [just saved from zombie death] Mon dieu...
+516)  DOUG
+[pickup1] [timid, quiet, scared] Oh, mec...
+517)  KATJAA
+[pickup1] [starting to worry, yelling from other room] Glenn, on a besoin de ton aide! Dépêche-toi!
+518)  KATJAA
+[pickup1] [panicking a little, yelling from next room] Glenn, on a besoin de toi, on a besoin de toi!
+519)  KATJAA
+KATJAA APPELLE AU SECOURS 3!!!!!
+520)  KENNY
+[pickup1] [arguing, yelling over alarm] Fait chier, Ca ne va pas fonctionner!
+521)  GLENN
+[pickup1] [defensive, yelling over alarm] Je dis simplement, que si nous--
+522)  KENNY
+[pickup1] [arguing, yelling over alarm] Aller, Glenn! Tu sais que j'ai raison.
+523)  KENNY
+[pickup1] [good-humored, yelling over alarm] EH bien, c'est impossible...
+524)  GLENN
+[pickup1] [conceding, yelling over alarm] Je suppose, je veux dire, ce n'est pas comme si on avait le choix. J'aimerais simplement que nous ne soyons pas séparés, Tu vois?
+525)  GLENN
+[pickup1] [conceding, yelling over alarm] ... ouais.
+526)  KENNY
+[pickup1] Peux-TU? [A response to Lee saying "She can handle it," in reference to zombies breaking into the room.]
+527)  KENNY
+[pickup1] Je suppose que nous allons devoir trouver.
+528)  
+Regarde-moi. Que penses-tu?
+529)  
+Je vais faire de mon mieux.
+530)  
+Merde non! Il y a un tas de morts qui se balade dans le coin.
+531)  LEE
+[pickup1] Regarde-moi. Que penses-tu?
+532)  KENNY
+[pickup1] OK, gros dur. Espérons que c'est vrai.
+533)  LEE
+[pickup1] Je vais faire de mon mieux.
+534)  KENNY
+[pickup1] Espérons que c'est bon.
+535)  KENNY
+[pickup1] Et bien peut-être que votre fille peut VOUS protéger.
+536)  LEE
+[pickup1] Merde non! Il y a un tas de morts qui se promène là-bas.
+537)  KATJAA
+[pickup1] [a little panicked] Duck, viens mon bébé, il est temps d'y aller.
+538)  KENNY
+[pickup1] Avec cette alarme, nous n'aurons pas beaucoup de temps avant que tous les zombies de Macon ne soient à nos trousses.
+539)  KENNY
+[pickup1] Je vais chercher le pick up à l'arrière.
+602)  KENNY
+[pickup1] Je vais chercher le pick up à l'arrière.
+540)  LEE
+[pickup1]Elle ira bien tant qu'elle restera à côté de moi.
+541)  KENNY
+[pickup1][to Clementine] Tu l'écoutes, tu entends?
+542)  CARLEY
+[pickup1] Glenn! Doug! Dessus!
+543)  KENNY
+[pickup1] Je reviens aussi vite que possible!
+544)  CARLEY
+[pickup1] LEE! L'étagère! A tous les trois nous pouvons tenir la porte!
+545)  LEE
+[pickup1] [ramming your shoulder into a bookcase, a sharp, heavy throw. time is of the essence!]
+546)  LEE
+[pickup1] [ramming your shoulder into a bookcase, a sharp, heavy throw. time is of the essence!]
+547)  LEE
+[pickup1] [ramming your shoulder into a bookcase, a sharp, heavy throw. time is of the essence!]
+548)  LEE
+[pickup1][you throw all of your weight into a shelf, pushing it up against a window. success!]
+549)  DOUG
+[pickup1][instead]Non! Les planches de cette fenêtre vont casser!
+550)  CARLEY
+[pickup1]Réparez-les en premier!
+551)  GLENN
+[pickup1][offended, but in the heat of battle]Hey!
+552)  CARLEY
+[pickup1] BIEN JOUE! On a besoin de muscles sur cette porte!
+553)  DOUG
+[pickup1] ok, c'est bon pour le moment!
+593)  DOUG
+[pickup1] ok, c'est bon pour le moment!
+554)  LEE
+[pickup1][having just succeeded] Nous sommes bien ici!
+590)  LEE
+[pickup1][having just succeeded] Nous sommes bien ici!
+555)  CARLEY
+[pickup1] Viens-nous aider!
+556)  GLENN
+[pickup1]Merde! Lee, viens me remplacer!
+592)  GLENN
+[pickup1]Merde! Lee, viens me remplacer!
+557)  CARLEY
+[pickup1][under major duress but still making fun of Glenn]"Le mec?"
+558)  LEE
+[pickup1][holding the door] Tais-toi, Doug!
+559)  DOUG
+[pickup1] [under duress] Hey, Lee... si on ne s'en sort pas, tu dois savoir... je pense que tu es un type bien.
+560)  CARLEY
+[pickup1] Doug, si on ne s'en sort pas, tu dois savoir-- [interupted]
+561)  CARLEY
+[pickup1][under duress, holding the door] Euh?!
+562)  DOUG
+[pickup1][under duress, holding the door] Je devrais savoir QUOI?
+563)  DOUG
+[pickup1] Tu as dit que je devrais savoir--
+564)  CARLEY
+[pickup1]MERDE!
+565)  CARLEY
+[pickup1][throwing your weight against a door that hte undead horde is trying to break through; holding them back.]
+566)  LEE
+[pickup1][throwing your weight against a door that hte undead horde is trying to break through; holding them back.]
+567)  DOUG
+[pickup1][throwing your weight against a door that hte undead horde is trying to break through; holding them back.]
+568)  LEE
+[pickup1][pushing back against zombies, continual]
+569)  LEE
+[pickup1] CLEMENTINE! Tu as trouvé quelque chose?!
+570)  DOUG
+[pickup1][throwing your weight against a door that the undead horde is trying to break through; holding them back, number 2]
+571)  LEE
+[pickup1][throwing your weight against a door that the undead horde is trying to break through; holding them back, number 2]
+572)  CLEMENTINE
+[pickup1] [loud yell] Rien! Oh attends! [remembering something]
+573)  LEE
+[pickup1][fighting for his life, lee throws all of his energy into a door, trying to hold the horde back]
+574)  DOUG
+[pickup1][surprised/scared]Ah!
+575)  CARLEY
+[pickup1][surprised/scared]Ah!
+576)  GLENN
+[pickup1][surprised/scared]Ah!
+588)  GLENN
+[pickup1][surprised/scared]Ah!
+589)  DOUG
+[pickup1][surprised/scared]Ah!
+591)  CARLEY
+[pickup1][surprised/scared]Ah!
+577)  DOUG
+[pickup1]Les gars, la porte n'est pas vérouillée! [oh shit!]
+578)  CARLEY
+[pickup1][panic] MERDE! Je n'ai plus de munitions! Je n'ai plus de munitions!
+579)  
+Mettre l'étagère sur la fenêtre
+580)  
+Mettez les planches sur la fenêtre
+581)  CLEMENTINE
+[pickup1] [grabbed by zombie]
+582)  
+Sauver Clementine du zombie
+583)  
+Sortez de la pharmacie
+584)  
+Utilisez le joystick pour éviter de vous faire jeter hors de la porte.
+585)  
+Activer!11!1!!
+586)  CARLEY
+[pickup1] Putain de merde, Glenn, non! Reviens ici!
+594)  
+marteau
+595)  
+Planche
+596)  
+Vous gagnez!
+597)  
+Appuyez sur la touche 'A' pour refermer la porte.
+598)  
+Vous êtes tombé loin de la porte!
+601)  
+sac à main
+603)  LILLY
+[pickup1] Nous devons sortir d'ici! RAPIDEMENT!
+604)  KENNY
+[pickup1] [loud, over an alarm] Je n'ai pas l'intention d'y passer la journée.
+610)  KENNY
+[pickup1]Vous trois allez-y! Je reviendrai aussi vite que je peux!
+611)  CARLEY
+[pickup1] [running, shocked] Larry! Ils ont eu Doug! Ils... ils...
+612)  DOUG
+[pickup2] [running, panicked] Larry! Ils ont eu Carley!
+613)  CARLEY
+[pickup2] [a scream--you've just been grabbed by zombies, trying to get someone's attention]
+614)  LEE
+[pickup3] On y va!
+615)  
+[Garder le silence]
+616)  
+ferme-la, Doug!
+617)  
+On va reussir.
+618)  
+Euh, merci.
+619)  LEE
+[pickup3] [holding the door against a horde of zombies] [sarcastic] Gee, merci, Doug!
+620)  LEE
+[pickup3][holding the door against the zombies] On va reussir.
+621)  KENNY
+[pickup1] Même s'il est un trou du cul.
+622)  KENNY
+[pickup1] Surtout un bon ami.
+623)  
+La main de Kenny
+624)  
+Prendre
+625)  
+Prendre
+626)  
+Canne
+627)  
+Bar
+629)  
+Bar
+628)  
+Pousser
+630)  
+Aider

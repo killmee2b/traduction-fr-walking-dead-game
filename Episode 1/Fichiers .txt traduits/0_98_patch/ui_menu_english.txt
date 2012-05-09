@@ -183,9 +183,9 @@ Oui
 87)  
 Non
 88)  
-Attention : cette action est irréversible ! Etes-vous sûr de vouloir supprimer cette sauvegarde ?
+Attention : cette action est irréversible! Etes-vous sûr de vouloir supprimer cette sauvegarde?
 89)  
-Attention : faire la copie va écraser la sauvegarde existante. Etes-vous sûr de vouloir continuer ?
+Attention : faire la copie va écraser la sauvegarde existante. Etes-vous sûr de vouloir continuer?
 90)  
 LONG ROAD AHEAD
 91)  
@@ -203,7 +203,7 @@ Checkpoint B
 97)  
 Checkpoint C
 98)  
-En chargeant ce checkpoint, vous allez supprimer toute la progression existante future à ce checkpoint. Etes-vous sûr de continuer ?
+En chargeant ce checkpoint, vous allez supprimer toute la progression existante future à ce checkpoint. Etes-vous sûr de continuer?
 99)  
 STATS
 100)  
@@ -439,15 +439,15 @@ Vous et
 216)  
 de joueurs
 217)  
-Attention : Toute progression depuis votre dernier checkpoint va être perdue. Etes-vous sûr de vouloir continuer ?
+Attention : Toute progression depuis votre dernier checkpoint sera perdue. Etes-vous sûr de vouloir continuer?
 218)  
 ANNULER
 220)  
 BIENTOT DISPONIBLE
 221)  
-Toute progression depuis la dernière sauvegarde automatique sera perdue. Etes-vous sûr de vouloir quitter le jeu ?
+Toute progression depuis la dernière sauvegarde automatique sera perdue. Etes-vous sûr de vouloir quitter le jeu?
 241)  
-Toute progression depuis la dernière sauvegarde automatique sera perdue. Etes-vous sûr de vouloir quitter le jeu ?
+Toute progression depuis la dernière sauvegarde automatique sera perdue. Etes-vous sûr de vouloir quitter le jeu?
 222)  
 STANDARD:
 223)  
@@ -462,7 +462,7 @@ CHOISIR UN STYLE D'AFFICHAGE
 227)  
 Utilisez          Pour bouger Lee et explorer le monde.
 
-          bougera le réticule et vous permettra d'intéragir avec les choses que vous voyez.
+          bougera le réticule et vous permettra d'interagir avec les choses que vous voyez.
 
 Appuyer        ,        ,        , et        pour choisir les actions et réponses et occasionnellement décapiter un zombie.
 228)  
@@ -490,25 +490,25 @@ Les paramètres peuvent ensuite être modifiés depuis le menu Aide & Options.
 239)  
 Votre console ne peut se connecter au Xbox LIVE. Connectez-vous au Xbox LIVE pour accèder à cette fonctionnalité.
 240)  
-Vous devez être connecté sur le Playstation  Network pour accès à cette fonctionnalité.
+Vous devez être connecté sur le Playstation  Network pour accéder à cette fonctionnalité.
 255)  
-Vous devez être connecté sur le Playstation  Network pour accès à cette fonctionnalité.
+Vous devez être connecté sur le Playstation  Network pour accéder à cette fonctionnalité.
 242)  
 DETECTER SELECTIONS
 243)  
 Ce jeu s'adapte à vos choix, rembobiner supprimera toute progression au delà de ce checkpoint, mais conservera toutes les décisions faites avant ce checkpoint.
 
-Voulez-vous rembobiner jusqu'à ce checkpoint ?
+Voulez-vous rembobiner jusqu'à ce checkpoint?
 244)  
 Ce jeu s'adapte à vos choix.
 
 Rembobiner supprimera toute progression au delà de ce checkpoint, mais conservera toutes les décisions faites avant ce checkpoint.
 
-Voulez-vous rembobiner jusqu'à ce checkpoint ?
+Voulez-vous rembobiner jusqu'à ce checkpoint?
 245)  
 Rembobiner supprimera toute progression au delà de ce checkpoint, mais conservera toutes les décisions faites avant ce checkpoint.
 
-Voulez-vous rembobiner jusqu'à ce checkpoint ?
+Voulez-vous rembobiner jusqu'à ce checkpoint?
 247)  
 LUMINOSITE
 248)  
@@ -527,7 +527,7 @@ CLIQUER POUR CONTINUER
 254)  
 Online service is disabled on your PlayStation   Network account due to parental control restrictions.
 257)  
-Voulez-vous conserver cette résolution ? Les anciens paramètres vont être rétablis dans 10 secondes.
+Voulez-vous conserver cette résolution? Les anciens paramètres vont être rétablis dans 10 secondes.
 258)  
 Les paramètres peuvent ensuite être modifiés depuis la catégorie Jouabilité.
 259)  
@@ -537,13 +537,13 @@ SENSIBILITE SOURIS
 261)  
 ACHETER JEU
 262)  
-Your Telltale account does not currently have a license for this game. Would you like to go to the Telltale Games website to purchase the game now?
+Vous ne possédez pas ce jeu. Voulez-vous aller au magasin telltale pour l'acheter.
 263)  
-The Telltale account you entered is not authorized to run this game. You may attempt to re-enter the login information for an account that owns the game, or visit the Telltale website to authorize this account by purchasing a copy.
+Le nom de compte que vous avez entré n'est pas autorisé pour ce jeu. You may attempt to re-enter the login information for an account that owns the game, or visit the Telltale website to authorize this account by purchasing a copy.
 264)  
-Unable to establish a connection to the Telltale servers to verify the ownership status of this account. Please ensure that you have an active internet connection.
+Impossible d'établir une connection avec telltale pour vérifier votre compte. S'il vous plaît vérifiez votre connection internet.
 265)  
-Re-enter Info
+Re-entrer les info
 266)  
 Visiter le site Web
 267)  
@@ -553,10 +553,10 @@ Quitter vers l'écran de démarrage
 269)  
 Annuler
 270)  
-Erreur inconnue ! Redémarrez l'application et réessayez.
+Erreur inconnue! Redémarrez l'application et réessayez.
 271)  
-The content was downloaded, but an error occurred while trying to install it. Please restart the application and try again.
+Contenu téléchargé, mais une erreur est survenue lors de l'installation. S'il vous plaît relancer l'apllication.
 272)  
-Connection lost while downloading data. Please ensure you have a working internet connection and re-attempt the download.
+Connection perdue pendant le téléchargement. S'il vous plaît vérifez votre connection internet.
 273)  
 STATUT EPISODES
