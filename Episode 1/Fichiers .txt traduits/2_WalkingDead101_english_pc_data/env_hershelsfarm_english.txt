@@ -1,7 +1,7 @@
 1)  JAKE
 Oh mec, je suis tel un pet. KAFUCKINGBOOM !
 2)  HERSHEL
-[pickup1][utterly relieved]Dieu merci, vous allez bien.
+[pickup1][utterly relieved]Dieu merci, tu vas bien.
 3)  SHAWN
 {sadA}{body-standB} J'ai eu peur que ça soit mauvais ici aussi.
 4)  HERSHEL
@@ -159,7 +159,7 @@ Euh... ça doit l'être.
 66)  SHAWN
 {sadA} {body-standB} Hé papa, {thinkingB} j'y pense, la première chose à faire demain, serait de renforcer la clôture autour de la ferme.
 67)  HERSHEL
-[pickup1]La maison est pleine avec la mienne. Nous avons une autre famille de trois personnes qui dorment dans la grange. Vous et votre fille êtes les bienvenus pour vous reposer là-bas, quand nous aurons terminé ici.
+[pickup1]La maison est pleine. Nous avons une autre famille de trois personnes qui dorment dans la grange. Vous et votre fille êtes les bienvenus pour vous reposer là-bas, quand nous aurons terminé ici.
 68)  LEE
 {normalB} Je m'occupe d'elle pendant que nous {normalC}cherchons ses parents.
 69)  HERSHEL
@@ -233,7 +233,7 @@ Une jeune fille avec ses tripes qui coulaient.
 103)  CLEMENTINE
 {normalA} Je suis contente de ne pas être dans ma cabane... ce soir.
 104)  CLEMENTINE
-{thinkingB} Ça sent...
+{thinkingB} Ça sent comme...
 105)  MAN
 Lee, vous êtes un bon gars, vous savez ça?
 106)  OTHER MAN
@@ -821,7 +821,7 @@ Aider Kenny
 380)  CLEMENTINE
 [pickup1] [laying in bed. breaking the silence] J'ai perdu mon papa et ma maman.
 381)  CLEMENTINE
-[pickup1] Ou Savannah?
+[pickup1] Est ce que c'est loin Savannah?
 382)  LEE
 [pickup1] [sincere]Je sais, Clem.
 383)  CLEMENTINE
@@ -1079,7 +1079,7 @@ Un officier de police.
 504)  HERSHEL
 [pickup1] Après ce qui est arrivé à votre ami, ce n'est peut-être pas une mauvaise idée.
 505)  SHAWN
-[pickup1] Il y avait Duck et j'ai pensé que.
+[pickup1] J'emmène Duck avec moi.
 506)  SHAWN
 [pickup1] [hurt, mortally] Je vais bien papa... je vais bien...
 507)  HERSHEL

@@ -225,7 +225,7 @@ Retournons dedans.
 110)  DOUG
 {normalC}{body-standB} Ah. Tu viens du coin, hein?
 111)  DOUG
-{sadA} Ouais, il est. [it's sad, the zombies]
+{sadA} Ouais, ça l'est. [it's sad, the zombies]
 112)  LEE
 [exhales, quietly dealing with the emotion of seeing his brother dead]
 113)  
@@ -769,9 +769,9 @@ J'ai trouvé cette télécommande dans le bureau.
 520)  DOUG
 {thinkingA}[pickup1] [keeping quiet] Tu sais ce que que je POURRAIS faire...
 389)  LEE
-[pickup1] [keeping quiet] C'est quoi?
+[pickup1] [keeping quiet] Faire quoi?
 516)  LEE
-[pickup1] [keeping quiet] C'est quoi?
+[pickup1] [keeping quiet] Faire quoi?
 390)  DOUG
 [pickup1] [keeping quiet] C'est universel. {thinkingB}Je peux la reprogrammer de façon à ce qu'elle fonctionne avec les télés derrière la vitrine là-bas. {fearA}Espérons qu'il y ait encore de l'électricité.
 518)  DOUG

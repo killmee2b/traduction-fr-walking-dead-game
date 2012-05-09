@@ -265,6 +265,320 @@ Clémentine s'en souviendra.
 132)  
 Vous avez montré un intérêt pour sa famille.
 133)  
+Vous savez que Kenny à un bateau.
+134)  
+Vous avez appris que Katjaa est vétérinaire.
+135)  
+Katjaa a appris que vous avez été viré.
+136)  
+Katjaa s'en souviendra.
+137)  
+Vous avez appris que Clémentine est à l'école primaire.
+138)  
+Shawn n'est pas d'accord.
+139)  
+Shawn a remarqué votre silence.
+140)  
+Shawn ne l'oubliera pas.
+141)  
+Vous n'avez rien dit.
+142)  
+Vous n'êtes pas du côté de Kenny.
+143)  
+Vous avez fait un choix difficile.
+144)  
+Kenny s'en souviendra.
+145)  
+Kenny s'en souviendra.
+146)  
+Kenny s'en souviendra.
+147)  
+Vous n'avez rien fait.
+
+Hide details
+
+Change log
+r2 by kamiyoru on May 2 (2 days ago)  Diff
+
+Création de la branche avec les fichiers
+du 02/05/2012
+
+Go to: 	
+Project members, sign in to write a code review
+
+Older revisions
+All revisions of this file
+
+File info
+Size: 6622 bytes, 296 lines
+View raw file
+1)  
+Un homme ne peut pas être trop prudent dans le choix de ses ennemis.
+2)  
+Le bonheur est un choix qui exige un effort.
+3)  
+Étant donné le choix entre le chagrin et rien, je choisirais le chagrin.
+4)  
+Là où il n'y a pas de choix, nous ferions bien de ne créer aucune difficulté.
+5)  
+Les plus durement touchés, comme partout, sont ceux qui n'ont pas le choix.
+6)  
+Vous semblez un peu paranoïaque.
+7)  
+Vous semblez un peu déprimé.
+8)  
+L'officier ne vous aime pas beaucoup.
+9)  
+J'imagine que vous n'avez rien à dire.
+10)  
+Vous avez été poli avec le député.
+11)  
+CHOICE: Le député pense que vous êtes sur la défensive.
+12)  
+CHOICE: Le député trouve que vous êtes poli.
+13)  
+CHOICE: Vous l'avez joué cool.
+14)  
+Vous l'énervez.
+15)  
+CHOICE: Vous l'énervez.
+16)  
+CHOICE: Le député ne vous aime pas.
+17)  
+CHOICE: Vous l'énervez encore.
+18)  
+CHOICE: Vous avez choisi le silence.
+19)  
+Elle a remarqué que vous étiez préoccupé.
+20)  
+CHOICE: Vous montrez un peu de soupçon.
+21)  
+CHOICE: Vous avez choisi de la rassurer.
+22)  
+CHOICE: Vous avez espionné un peu.
+23)  
+CHOICE: Vous en avez découvert un peu plus sur la famille qui a vécu ici.
+24)  
+CHOICE: Clémentine a un peu peur de vous.
+25)  
+CHOICE: Vous avez montré de la compassion pour Clémentine.
+26)  
+CHOICE: Vous avez choisi quelque chose.
+27)  
+CHOICE: Vous avez choisi la sécurité de la lumière du jour.
+28)  
+CHOICE: Vous avez choisi d'attendre la tombée de la nuit.
+29)  
+Vous avez menti à Shawn.
+127)  
+Vous avez menti à Shawn.
+30)  
+Vous avez dit un mensonge pour rendre les choses plus faciles.
+31)  
+CHOICE: Vous avez dit la vérité.
+32)  
+Shawn a tiré sa propre conclusion.
+33)  
+CHOICE: Vous avez dit un pieux mensonge.
+34)  
+CHOICE: Vous avez menti à Shawn.
+35)  
+CHOICE: Vous avez été amical avec Hershel.
+36)  
+CHOICE: Vous avez été peu aimable.
+37)  
+CHOICE: Vous avez ignoré Hershel.
+38)  
+CHOICE: Vous avez dit la vérité.
+39)  
+CHOICE: Hershel doute de votre honnêteté.
+40)  
+CHOICE: Vous avez menti à Hershel.
+41)  
+CHOICE: Vous avez évité la question.
+42)  
+CHOICE: Vous avez choisi de sauver Duck.
+43)  
+CHOICE: Vous êtes resté là, figé par la peur.
+44)  
+CHOICE: Vous avez essayé de rendre Kenny fautif.
+45)  
+CHOICE: Vous avez essayé de protéger Kenny comme fautif.
+46)  
+CHOICE: Vous avez endossé la faute.
+47)  
+CHOICE: Hershel ne rejette pas la faute sur vous.
+48)  
+CHOICE: Vous avez choisi de sauver Shawn.
+49)  
+CHOICE: Vous avez choisi d'être curieux.
+50)  
+CHOICE: Vous avez choisi d'éviter la question.
+51)  
+CHOICE: Vous avez choisi d'en rigoler.
+52)  
+CHOICE: Vous avez choisi de garder le silence.
+53)  
+Hershel connaît votre nom.
+54)  
+Hershel s'en souviendra.
+56)  
+Hershel s'en souviendra.
+55)  
+Hershel vous croit.
+57)  
+Hershel le retiendra.
+58)  
+Hershel doute de vous.
+59)  
+Vous n'avez pas répondu à sa question.
+60)  
+Il a remarqué ce que vous avez dit.
+61)  
+Lilly se souviendra de ce que vous lui avez dit.
+62)  
+Lilly a remarqué ce que vous avez dit.
+63)  
+Kenny se souviendra de votre loyauté.
+64)  
+Kenny a remarqué.
+65)  
+Kenny a remarqué qu'il n'avait pas votre soutien.
+66)  
+Vous avez attiré l'attention de Larry à Clémentine.
+67)  
+Clémentine a été blessée par ça.
+68)  
+Clémentine a compris.
+69)  
+Clémentine a remarqué que vous l'avez ignorée.
+70)  
+TEST 5 SECOND DELAY
+71)  
+Hershel s'en rappellera définitivement.
+72)  
+Shawn pense que vous êtes le baby-sitter maintenant.
+73)  
+Shawn a remarqué ce que vous avez dit.
+74)  
+Clémentine est vraiment bouleversée.
+75)  
+Vous avez aidé Clémentine à se calmer un peu.
+76)  
+Le policier a entendu ça.
+77)  
+Le policier s'interroge sur ce point.
+78)  
+Clémentine se souviendra que vous l'avez protégée.
+79)  
+Clémentine se rappellera que vous ne l'avez pas sauvée.
+80)  
+Salut. Il y a une chose logique ici qui affecte Clémentine dans le bon sens. Est-ce que cela signifie quelque chose ?
+81)  
+Vous avez vérifié Clémentine.
+82)  
+Vous avez pris soin de Clémentine.
+83)  
+Kenny vous remercie de vous soucier de Duck.
+84)  
+Carley se rappellera que vous avez dit ça.
+85)  
+Carley a remarqué votre inquiétude.
+86)  
+Kenny a appris quelque chose sur vous.
+87)  
+Kenny a remarqué votre silence.
+88)  
+Vous avez hurlé sur Carley.
+89)  
+Carley accepte votre décision.
+90)  
+Vous avez aidé la jeune fille.
+91)  
+Vous avez refusé la demande de la jeune fille.
+92)  
+Vous avez choisi de sauver Doug.
+93)  
+Vous avez choisi de sauver Carley.
+94)  
+L'officier s'interroge sur ce point.
+95)  
+Le député s'interroge sur ce point.
+96)  
+L'officier a tenté de combler le silence.
+97)  
+Carley se souviendra que vous lui faites confiance.
+98)  
+Carley se souviendra que vous ne lui faites pas confiance.
+99)  
+Clémentine espère revoir ses parents.
+100)  
+Clémentine est pleine d'espoir.
+101)  
+Clémentine est inquiète.
+102)  
+Elle se demande pourquoi vous ne parlez pas.
+103)  
+Elle se souviendra que vous avez été gentil avec elle.
+104)  
+Vous avez choisi de sauver Shawn.
+105)  
+Vous avez choisi de sauver Duck.
+106)  
+Vous n'avez fait aucun choix.
+148)  
+Vous n'avez fait aucun choix.
+107)  
+Vous avez endossé la faute.
+108)  
+Vous avez défendu Kenny.
+109)  
+Vous avez blâmé Kenny.
+110)  
+Hershel ne vous blâme pas.
+111)  
+Clémentine va bien.
+112)  
+Vous avez choisi quelque chose.
+113)  
+L'officier pense que vous êtes sur la défensive.
+114)  
+Vous l'avez ignoré à nouveau.
+115)  
+L'officier a trouvé que vous étiez poli.
+116)  
+L'officier a remarqué votre silence.
+117)  
+Vous l'avez joué cool.
+118)  
+Le député ne vous aime pas beaucoup.
+119)  
+Vous avez choisi d'être curieux.
+120)  
+Vous avez choisi d'éviter la question.
+121)  
+Vous avez choisi d'en rigoler.
+122)  
+Vous avez choisi de garder le silence.
+123)  
+Clémentine semble avoir peur.
+124)  
+Grâce à vous, Clémentine se sent mieux.
+125)  
+Vous avez choisi la sécurité de la lumière du jour.
+126)  
+Vous avez choisi d'attendre la tombée de la nuit.
+128)  
+Vous avez menti à Shawn.
+129)  
+Il s'interroge sur ce point.
+130)  
+Il s'interroge sur ce point.
+131)  
+Clémentine s'en souviendra.
+132)  
+Vous avez montré un intérêt pour sa famille.
+133)  
 Vous connaissez maintenant le bateau de Kenny.
 134)  
 Vous avez appris que Katjaa est vétérinaire.
@@ -294,3 +608,20 @@ Kenny s'en souviendra.
 Kenny s'en souviendra.
 147)  
 Vous n'avez rien fait.
+Hide details
+
+Change log
+r2 by kamiyoru on May 2 (2 days ago)  Diff
+
+Création de la branche avec les fichiers
+du 02/05/2012
+
+Go to: 	
+Project members, sign in to write a code review
+
+Older revisions
+All revisions of this file
+
+File info
+Size: 6622 bytes, 296 lines
+View raw file

@@ -51,7 +51,7 @@ Ouais, une de ces choses.
 26)  LEE
 {normalD}Ouais, c'était une de ces choses.
 27)  LEE
-[was he a bad guy?] {angryB}Oui ça l'était.
+[was he a bad guy?] {angryB}Oui.
 28)  CLEMENTINE
 [distrusting] {fearB}Il était méchant?
 29)  CLEMENTINE
@@ -113,11 +113,11 @@ J'ai mon talkie-walkie au cas où ils essayent.
 56)  LEE
 [to Clementine]{happyA} Ce serait mieux de désencombrer la porte, hein?
 57)  
-Comment faites-vous?
+Comment fais tu?
 58)  LEE
-Comment faites-vous?
+Comment fais tu?
 59)  
-Comment faites-vous?
+Comment fais tu?
 60)  
 Les choses sont effrayantes, hein?
 61)  LEE

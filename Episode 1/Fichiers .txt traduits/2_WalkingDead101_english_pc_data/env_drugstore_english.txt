@@ -874,7 +874,7 @@ Et bien je n'ai pas appeler le service de chambre.
 363)  LEE
 {FearB}Hey Glenn, nous allons en parler et envoyer un groupe venir te chercher.
 364)  GLENN
-[over radio]  Fiou, génial. Je vais rester enfermé d'ici là.
+[over radio]  Fiou, génial. Je vais rester enfermé ici.
 365)  LEE
 Ca me semble bien.
 366)  LEE
@@ -1374,7 +1374,7 @@ Tuner
 608)  
 Piles
 609)  
-Porte de la batterie
+Compartiment à piles
 610)  
 On/Off
 611)  
@@ -1548,7 +1548,7 @@ Tranquille.
 713)  LEE
 [pickup1][hushed argument] [annoyed]Whoa, décompresse putain. On est juste des gens qui cherchent à échapper à ces trucs, comme vous.
 719)  LARRY
-[pickup1][angry, "he wasn't bitten"]Putain il ne l'était pas!
+[pickup1][angry, "he wasn't bitten"]Mon cul, qu'il l'est pas!
 720)  LARRY
 [pickup1]On en a laissé un entrer, putain d'abrutis!
 721)  LILLY
@@ -1636,7 +1636,7 @@ C'est elle qui commande.
 774)  LILLY
 [pickup1] Si tu étais à ma place, tu ser--
 775)  LEE
-[pickup1] [argument]Et nous apprécions. Allons-nous installer.
+[pickup1] [argument]Et nous apprécions. Maintenant calmons nous.
 776)  LEE
 [pickup1] [argument]Elle n'a pas tort. Ils ont pris un risque.
 777)  LILLY
