@@ -29,15 +29,15 @@
 342)  CARLEY
 [keeping quiet, zombies around] Qu'est-ce? S'il se faisait attaquer? Je croirais donc ...
 12)  LEE
-[quiet!] Merde! Descendez!
+[quiet!] Merde! A couvert!
 343)  LEE
-[quiet!] Merde! Descendez!
+[quiet!] Merde! A couvert!
 13)  LEE
 [hushed] Laisse-moi jeter un oeil!
 14)  CARLEY
-[hushed] T'as vu ça?
+[hushed] Tu vois ça?
 338)  CARLEY
-[hushed] T'as vu ça?
+[hushed] Tu vois ça?
 15)  GLENN
 [hushed] Mec! Oh mec, je suis heureux que tu sois ici.
 16)  GLENN
@@ -357,7 +357,7 @@ Il y a un oreiller là-bas.
 158)  GLENN
 C'est à peu près tout ce que j'ai eu lorsqu'il s'agissait d'approvisionner la collecte. 
 159)  LEE
-J'ai peut-être une idée pour lui.
+J'ai peut-être une idée pour ça.
 160)  CARLEY
 [pickup1] Bonne chance, étranglez-les jusqu'à la mort...
 161)  LEE
@@ -467,9 +467,9 @@ mais...
 212)  LEE
 Je suis désolé, Glenn. Allons protéger les gens qu'on connaît.
 213)  GLENN
-Rad.
+Génial.
 553)  GLENN
-Rad.
+Génial.
 214)  LEE
 Aww MERDE!
 215)  CARLEY
@@ -543,9 +543,9 @@ Mec, où es ton arme?
 295)  GLENN
 Mec, où es ton arme?
 237)  LEE
-[observational]Dans ce trou dans la vitre.
+[observational] Dans la cervelle de ce mec.
 294)  LEE
-[observational] Dans ce trou dans la vitre.
+[observational] Dans la cervelle de ce mec.
 238)  GLENN
 Haha, bordel de merde.
 297)  GLENN
@@ -653,9 +653,9 @@ brique
 314)  
 pousser
 315)  LEE
-[pickup1] Pourquoi pas vous les gars à la traîne ; au cas où cela continue en enfer.
+[pickup1] Pourquoi ne resteriez vous pas derrière moi ; au cas où il y a un problème.
 316)  CARLEY
-[pickup1] Ok. Nous serons juste derrière vous.
+[pickup1] Ok. Nous serons juste derrière toi.
 317)  LEE
 [pickup1][seen by zombie] Merde!
 318)  LEE
@@ -705,11 +705,11 @@ Attends-
 348)  LEE
 [pickup2][hushed] Qui c'est?
 350)  CARLEY
-[pickup1] Pas du tout, on doit y aller. MAINTENANT.
+[pickup1] Hors de question, on doit y aller. MAINTENANT.
 353)  GLENN
 [pickup1][hushed] je suis son sauveur, avec ou sans vous.
 354)  LEE
-[pickup2][hushed] Diablement raison, nous ne pouvons pas.
+[pickup2][hushed] Diable il à raison, nous ne pouvons pas.
 355)  LEE
 [pickup2][hushed] Réfléchis, si c'était toi.
 356)  CARLEY
