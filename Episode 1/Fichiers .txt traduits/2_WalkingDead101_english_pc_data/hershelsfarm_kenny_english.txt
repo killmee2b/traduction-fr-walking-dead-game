@@ -59,7 +59,7 @@ Je n'en sais rien.
 48)  KENNY
 {normalC} Bien, que vous le fassiez ou non, c'est un amour. {fearA} Nous avons vu certains dingues arriver ici. Le genre de trucs qui pourraient déranger un petit ange comme ça.
 30)  KENNY
-{sadA} Bien, je pense. {normalB} Katjaa a une soeur à Memphis ; Nous revenions de chez elle. {disgustA} Nous étions dans une station-service et des gars ont attrapé mon garçon.
+{sadA} Bien, je pense. {normalB} Katjaa a une soeur à Memphis, nous revenions de chez elle. {disgustA} Nous étions dans une station-service et des gars ont attrapé mon garçon.
 31)  KENNY
 [continued] {fearA} Je pensais qu'il avait été kidnappé. J'étais sur l'enfoiré en moins de 2s et... {happyB} Mon dieu. {normalC} Un coup de chance que j'aie été là. Nous avons vu beaucoup de corps avant de tomber sur Hershel. {angryA} Mais nous sommes une famille coriace, Lee. Et rien ne nous effraie.
 32)  KENNY
@@ -75,7 +75,7 @@ Je n'en sais rien.
 36)  KENNY
 {normalA} Le gouvernement va commencé à faire feu, la garde nationale fera de même... {thinkingA} Si les choses empirent, nous pourrions aller sur mon bateau, je suppose.
 38)  LEE
-Hey Kenny, tu vas bien ?
+Hey Kenny, tu vas bien?
 39)  KENNY
 Ouaip.
 40)  LEE

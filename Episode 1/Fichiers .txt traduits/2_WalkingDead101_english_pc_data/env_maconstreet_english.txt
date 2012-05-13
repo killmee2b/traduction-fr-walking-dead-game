@@ -1,5 +1,5 @@
 1)  KENNY
-{fearA} Et bien, c'est le plus loin où nous pourrons aller.
+{fearA} Et bien, on ne pourra pas aller plus loin.
 2)  LEE
 {happyA} C'est suffisamment loin.
 3)  DUCK
@@ -23,29 +23,29 @@
 12)  LEE
 [keeping quiet] {disgustA} Ils ont juste...
 13)  DOUG
-[keeping quiet][finishing lee's thought] {fearA} Manger. C'est tout ce que je peux vous dire, ils ne pensent qu'à ça.
+[keeping quiet][finishing lee's thought] {fearA} Manger. C'est tout ce que je peux te dire, ils ne pensent qu'à ça.
 14)  LEE
-[keeping quiet] {sadA} Et si l'un d'eux, vous attrape...
+[keeping quiet] {sadA} Et si l'un d'eux,  t'attrape...
 15)  DOUG
-[keeping quiet] {sadB} Il vous mange, et quoi qu'il se passe vous devenez comme eux.
+[keeping quiet] {sadB} Il te mange, et quoi qu'il se passe tu deviens comme eux.
 16)  LEE
 [keeping quiet][in disbelief] {angryA} Comment c'est possible merde...
 17)  DOUG
-[keeping quiet] {fearA} Je pense que ça va prendre quelques jours avant que ça ne s'améliore.
+[keeping quiet] {fearA} Je pense que ça va prendre quelques jours avant que ça ne s'arrange.
 18)  LEE
-[keeping quiet] {thinkingA} Ouais, je pense aussi. Nous ferions mieux de rester ici.
+[keeping quiet] {thinkingA} Ouais, je pense aussi. Nous ferions mieux de rester discret.
 19)  DOUG
 {thinkingA}[just hanging out, looking at stuff] Hmm.
 20)  LEE
 [keeping quiet] {normalC}{body-B} Les clés du bureau doivent être sur le rôdeur là-bas.
 21)  DOUG
-[keeping quiet] {thinkingA} Comment peux-tu savoir?
+[keeping quiet] {thinkingA} Comment tu le sais?
 22)  LEE
 [keeping quiet] {thinkingB} J'ai trouvé ça dans le bureau.
 23)  LEE
 [keeping quiet]Ce mec ,sur la photo, a travaillé ici. Les clés sur lui sont la meilleure chose en laquelle on peut croire.
 24)  DOUG
-[keeping quiet]  Ouais, je suis d'accord. On a juste besoin de {fearA}trouver une façon d'y aller et de les prendre.
+[keeping quiet]  Ouais, je suis d'accord. On a juste besoin de {fearA}trouver un moyen d'y aller et de les prendre.
 25)  DOUG
 {thinkingA}[just hanging out, looking at stuff] Mec…
 26)  DOUG
@@ -65,11 +65,11 @@
 32)  LEE
 [keeping quiet] {disgustB}Je vais bien.
 33)  
-Une idee de l'endroit où sont les clefs du bureau?
+Une idée de l'endroit où se trouvent les clés du bureau?
 34)  LEE
-[keeping quiet] {thinkingB} Si les clés ne sont pas dans la pharmacie, elles sont peut-être dehors!
+[keeping quiet] {thinkingB} Si les clés ne sont pas dans le magasin, elles sont peut-être dehors!
 35)  DOUG
-[keeping quiet] {fearB} Nous vivons maintenant dans un monde ou "se lever et partir loin" {fearA}est une posibilité, donc...
+[keeping quiet] {fearB} Nous vivons maintenant dans un monde ou "se lever et partir loin" {fearA}devient une éventualité, donc...
 36)  LEE
 [keeping quiet][casual, agreeing] {normalD} D'accord.
 37)  LEE
@@ -89,7 +89,7 @@ Une idee de l'endroit où sont les clefs du bureau?
 45)  LEE
 [keeping quiet] Je ne sais pas, je suppose.
 46)  
-Je l'ai déjà vu... il est euh...
+Je le connais... il est euh...
 47)  
 Il est proche de la boutique. Il pourait donc les avoir.
 48)  
@@ -101,9 +101,9 @@ Je ne sais pas, je suppose.
 250)  
 ...
 50)  DOUG
-[keeping quiet]{fearA}Il pourrait être n'importe qui. {thinkingA}On ne peut pas prendre de risques.
+[keeping quiet]{fearA}Ca pourrait être n'importe qui. {thinkingA}On ne peut pas prendre de risques.
 51)  DOUG
-[keeping quiet] {thinkingA}On ne sait pas s'il a travaillé ici. C'est un grand saut, en pensant aux risques.
+[keeping quiet] {thinkingA}On ne sait pas s'il a travaillé ici. Ca fait une sacrée distance, en pensant aux risques.
 52)  DOUG
 [keeping quiet] {thinkingA}Nous ne pouvons rien supposer.
 573)  DOUG
@@ -117,9 +117,9 @@ Ca me paraît bon.
 56)  LEE
 Essayons d'élaborer un plan pour aller là-bas.
 57)  
-Tu es pret a faire ca?
+Tu es prêt à faire ça?
 59)  LEE
-Tu es pret a faire ca?
+Tu es prêt à faire ça?
 58)  DOUG
 Prêt comme je ne l'ai jamais été. Tu es prêt?
 60)  
@@ -131,13 +131,13 @@ Non pas encore.
 62)  LEE
 [keeping quiet] Ouais.
 63)  DOUG
-[keeping quiet] {fearA}Et la pharmacie est sûre, je pense. {thinkingA}Celui qui en était propriétaire en a pris soin. C'est bien approvisionné et protégé.
+[keeping quiet] {fearA}Et la boutique est sûre, je pense. {thinkingA}Celui qui en était le propriétaire en a pris soin. C'est bien approvisionné et protégé.
 64)  DOUG
 [keeping quiet] Ouais, je pense qu'on est protégé derrière cette grille.
 65)  LEE
 [keeping quiet] Tu penses qu'on est en sécurité ici?
 66)  LEE
-[keeping quiet] Qu'est-ce que tout le monde aime ici?
+[keeping quiet] Tu peux me parler des gens qui sont dedans?
 67)  DOUG
 [keeping quiet] {fearB}Oh... bien, {happyC}Carley est assez jolie, tu sais.
 68)  LEE
@@ -151,7 +151,7 @@ Non pas encore.
 72)  
 Tu penses qu'on est en securité ici?
 73)  
-Qu'est-ce que les gens aime ici?
+Tu peux me parler des gens qui sont dedans?
 74)  LEE
 [keeping quiet] Comment tu as atterri ici?
 75)  DOUG
@@ -167,7 +167,7 @@ Qu'est-ce que les gens aime ici?
 80)  DOUG
 [keeping quiet] Et à propos de toi?
 81)  LEE
-[keeping quiet]  J'ai grandi ici. J'essaye de rentrer chez moi, depuis que les morts reviennent à la vie.
+[keeping quiet] J'ai grandi ici. J'essaye de rentrer chez moi, depuis que les morts reviennent à la vie.
 82)  LEE
 [keeping quiet] Je connaissais certaines personnes ici. Ca semblait être un lieu comme les autres.
 83)  LEE
@@ -219,19 +219,19 @@ Retournons dedans.
 107)  LEE
 [sniff, disregarding the comment, thinking something else to   yourself] {sadC}
 108)  DOUG
-{sadB}{body-standB} N'en parlons pas, ce n'est pas mon affaire. Je suis désolé.
+{sadB}{body-standB} N'en parlons pas, ça ne me regarde pas. Je suis désolé.
 109)  DOUG
 {confusedA}{body-standB} Oh…co-comme...un frère? Ou comme un frère?
 110)  DOUG
-{normalC}{body-standB} Ah. Tu viens du coin, hein?
+{normalC}{body-standB} Ah. Tu es du coin, hein?
 111)  DOUG
 {sadA} Ouais, ça l'est. [it's sad, the zombies]
 112)  LEE
 [exhales, quietly dealing with the emotion of seeing his brother dead]
 113)  
-Ca pourrait etre un employé de la pharmacie.
+Ca pourrait être un employé de la pharmacie.
 114)  
-Ce type. Il a une tete qui m'est familiere.
+Ce type. Il a une tête qui m'est familière.
 115)  
 Non, c'est juste triste.
 116)  
@@ -245,7 +245,7 @@ Non, c'est juste triste.
 121)  LEE
 [keeping quiet] Il est toujours coincé.
 123)  DOUG
-{thinkinga}[keeping quiet]Tout ce dont nous avons besoin c'est un chemin pour que l'un de nous aille voir ce gars sans avoir à se faufiler.
+{thinkinga}[keeping quiet]Tout ce dont nous avons besoin c'est de nous frayer un chemin pour que l'un de nous deux aille voir ce gars sans avoir à se faufiler entre les zombies.
 124)  LEE
 [keeping quiet]Retournons examiner les alentours, il faut trouver un moyen sûr pour pouvoir y aller.
 125)  DOUG
@@ -321,9 +321,9 @@ Eh bien, énormément dangereux, mais bien vu.
 197)  DOUG
 Eh bien, énormément dangereux, mais bien vu.
 157)  LEE
-Je pense que c'est notre meileur plan. Je vais m'occuper...du garçon et prendre les clés.
+Je pense que c'est notre meilleur plan. Je vais m'occuper...du garçon et prendre les clés.
 196)  LEE
-Je pense que c'est notre meileur plan. Je vais m'occuper...du garçon et prendre les clés.
+Je pense que c'est notre meilleur plan. Je vais m'occuper...du garçon et prendre les clés.
 158)  DOUG
 D'acc.
 193)  DOUG
@@ -497,7 +497,7 @@ Je suis désolé, je n'étais pas là.
 245)  LEE
 Je n'aurais pas dû partir.
 248)  
-Je n'aurais pas du partir.
+Je n'aurais pas dû partir.
 246)  LEE
 Je dois t'achever, maintenant.
 249)  
@@ -631,9 +631,9 @@ C'est ce qu'ils font.
 331)  DOUG
 C'est ce qu'ils font
 315)  LEE
-Ils l'ont laissé..ou laisé... à part.
+Ils l'ont laissé..ou laissé... à part.
 330)  LEE
-Ils l'ont laissé..ou laisé... à part.
+Ils l'ont laissé..ou laissé... à part.
 316)  LEE
 [hatching a plan] Nous pourrions peut-être utiliser ce qui reste de ce corps?
 332)  LEE
@@ -723,7 +723,7 @@ Ligne à haute tension
 362)  
 Débris
 363)  
-Loquet de la porte
+Cadenas de la grille
 364)  
 Barricade de la fenêtre
 365)  
@@ -785,9 +785,9 @@ J'ai trouvé cette télécommande dans le bureau.
 519)  DOUG
 [pickup1] [keeping quiet]{thinkingA}J'ai mémorisé tous les codes quand j'étais à AV. Essayons.
 393)  LEE
-[pickup1] Bien joué, Doug. Toutes les bêtises neuneu pourraient sauver une vie.
+[pickup1] Bien joué, Doug. Tous tes trucs de geek pourraient sauver une vie.
 517)  LEE
-[pickup1] Bien joué, Doug. Toutes les bêtises neuneu pourraient sauver une vie.
+[pickup1] Bien joué, Doug. Tous tes trucs de geek pourraient sauver une vie.
 394)  DOUG
 [pickup1][keeping quiet] [chuffed with himself]{thinkingB}Qui peut dire le contraire?
 514)  DOUG
@@ -795,7 +795,7 @@ J'ai trouvé cette télécommande dans le bureau.
 395)  
 Ces choses aiment la télé.
 397)  DOUG
-{FearA}Ca a attiré certains d'entre eux...
+{FearA}Ca en a attiré certains d'entre eux...
 398)  LEE
 Mais pas assez.
 399)  LEE
@@ -825,7 +825,7 @@ Garde un oeil sur moi, tu veux?
 411)  LEE
 [pickup1][hushed] {normalD} Avez-vous essayé d'aller là-bas chercher des armes.
 412)  LEE
-[pickup1][hushed] {sadA} Et qu'est-ce qui c'est passé?
+[pickup1][hushed] {sadA} Et qu'est-ce qui s'est passé?
 413)  LEE
 [pickup1][hushed] Je sais, Doug.
 414)  DOUG
@@ -883,9 +883,9 @@ Garde un oeil sur moi, tu veux?
 532)  LEE
 [pickup1][hushed] Je dois casser ce loquet.
 430)  DOUG
-[pickup1][hushed] {thinkingA}Bien tu as raison, si on veut aider Larry, on doit casser ce loquet.
+[pickup1][hushed] {thinkingA}Bien tu as raison, si on veut aider Larry, on doit casser ce cadenas.
 530)  DOUG
-[pickup1][hushed] {thinkingA}Bien tu as raison, si on veut aider Larry, on doit casser ce loquet.
+[pickup1][hushed] {thinkingA}Bien tu as raison, si on veut aider Larry, on doit casser ce cadenas.
 431)  LEE
 [pickup1][hushed] Avec ces épaves dans tout les coins et recoins des allées, ce serait plus sûr de sortir de la ville.
 531)  LEE
@@ -893,9 +893,9 @@ Garde un oeil sur moi, tu veux?
 432)  DOUG
 [pickup1][hushed] Désolé.
 433)  LEE
-[pickup1][hushed] On casse ce loquet et je vais dans la rue.
+[pickup1][hushed] On casse ce cadenas et je vais dans la rue.
 535)  LEE
-[pickup1][hushed] On casse ce loquet et je vais dans la rue.
+[pickup1][hushed] On casse ce cadenas et je vais dans la rue.
 434)  LEE
 [pickup1] [hammering a nail] Ugh!
 435)  LEE
@@ -1027,7 +1027,7 @@ Utiliser la télécommande sur
 500)  
 Utiliser la télécommande sur
 496)  
-Jetez la brique à
+Jeter la brique 
 497)  
 Ouvrir
 501)  
@@ -1107,7 +1107,7 @@ Regarder
 559)  DOUG
 [pickup2][keeping quiet] Non, nous devons garder un oeil sur ce qui se passe autour.
 560)  
-Les clefs pourraient se trouver sur ce mec là-bas.
+Les clés pourraient se trouver sur ce mec la-bas.
 561)  LEE
 [pickup3] {thinkingA} On devrait penser à fouiller ce mec de l'autre côté de la rue.
 562)  
@@ -1117,13 +1117,13 @@ On doit fouiller ce mec, là-bas.
 564)  DOUG
 [pickup2] [hushed]Maintenant distraire ces choses ... soigneusement.
 565)  LEE
-[pickup2][hushed] Pas de bêtises. Quelque chose nous arrive dessus et tout le monde subira l'intérieur.
+[pickup2][hushed] Pas de bêtises. Si quelque chose nous arrive tout le monde sera en danger à l'intérieur.
 566)  LEE
-[pickup3] Maintenant il faut juste ouvrir ce loquet.
+[pickup3] Maintenant il faut juste ouvrir ce cadenas.
 567)  LEE
-[pickup3] C'est un loquet à combinaison.
+[pickup3] C'est un cadenas à combinaison.
 568)  LEE
-[pickup3] Il faut ouvrir le loquet.
+[pickup3] Il faut ouvrir le cadenas.
 569)  LEE
 [pickup1] Tu penses pouvoir faire quelque chose avec ça?
 570)  LEE
@@ -1131,7 +1131,7 @@ On doit fouiller ce mec, là-bas.
 574)  LEE
 [pickup1] Tu penses pouvoir faire quelque chose avec ça?
 571)  DOUG
-Si nous voulons aider Larry nous devons ouvrir ce loquet.
+Si nous voulons aider Larry nous devons ouvrir ce cadenas.
 572)  
 Rôdeur coincé
 577)  

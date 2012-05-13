@@ -35,17 +35,17 @@ Je pense que ce n'est pas le bon choix.
 21)  LEE
 {NormalC}Je respecte ça
 18)  
-Tu dois faire ce que tu dois faire.
+Tu dois faire ce que tu a à faire.
 19)  GLENN
 {FearA} Et je vais faire ça.
 20)  LEE
 {NormalD}Tu dois faire ce que tu dois faire.
 22)  
-Trouve tes potes.
+Trouve tes amis.
 23)  LEE
 {ThinkingA}Espérons.
 24)  LEE
-{HappyA}Trouve tes potes et reste en vie.
+{HappyA}Trouve tes amis et reste en vie.
 25)  GLENN
 {HappyA}Merci Lee, ça compte beaucoup pour moi. {SadA}Je ne veux pas tous vous abandonner, mais {NormalC}ça me semble être la meilleure chose à faire, et je suis sûr que les choses seront revenues à la normale ici en un rien de temps.
 26)  LARRY
@@ -75,7 +75,7 @@ Ouais, elle est super.
 36)  
 Son père a essayé de me tuer, alors...
 37)  LARRY
-{AngryA}Eh bien il a fait ça car il savait que Lee Everett est un {AngryB}meurtrier ; {AngryA}voilà ce que vous risquez si vous vous approchez d'elle.
+{AngryA}Eh bien il a fait ça car il savait que Lee Everett est un {AngryB}meurtrier, {AngryA}voilà ce que tu risques si tu t'approches d'elle.
 38)  LEE
 {AngryC}Son père a essayé de me tuer, {DisgustA}alors...
 39)  LARRY
@@ -91,7 +91,7 @@ Elle est bien.
 44)  
 Pas vraiment.
 45)  LARRY
-{HappyA}Bien. {AngryB}Reste loin d'elle ; ou {AngryA}tout le monde ici saura que {DisgustA}Lee Everett est un meurtrier. {AngryB}Et je ne parle pas de ces choses.
+{HappyA}Bien. {AngryB}Reste loin d'elle, ou {AngryA}tout le monde ici saura que {DisgustA}Lee Everett est un meurtrier. {AngryB}Et je ne parle pas de ces choses.
 46)  LEE
 {NormalB}Pas vraiment.
 47)  LARRY
@@ -103,7 +103,7 @@ Pas vraiment.
 51)  LARRY
 Eh bien la réponse a intérêt à être "non".
 52)  LILLY
-{body-HoldWrist}{HappyC} {body-B}Mon père serait mort si vous n'aviez pas été là.
+{body-HoldWrist}{HappyC} {body-B}Mon père serait mort si tu n'avais pas été là.
 53)  LILLY
 {NormalC} Tu ne peux pas être comme ça. Tu es seulement un homme.
 54)  LEE
@@ -111,17 +111,17 @@ Eh bien la réponse a intérêt à être "non".
 55)  LILLY
 {HappyC} Nous sommes chanceux de t'avoir.
 56)  KENNY
-{body-A}{HappyB}J'espère que c'est le son de nous en train de gagner contre cette chose.
+{body-A}{HappyB}J'espère que c'est le son de la victoire.
 57)  LILLY
 {HappyA} Moi aussi.
 58)  KENNY
-{ThinkingA} Cette auberge est difficile à défendre. {body-HandsHips}Nous bloquerons les entrées avec des voitures et nous garderons quelqu'un pour surveiller, ainsi nous pourrons {HappyA}rester ici jusqu'à ce que les militaires viennent nous chercher.
+{ThinkingA} Ce motel est difficile à défendre. {body-HandsHips}Nous bloquerons les entrées avec des voitures et nous garderons quelqu'un pour surveiller, ainsi nous pourrons {HappyA}rester ici jusqu'à ce que les militaires viennent nous chercher.
 59)  LILLY
 {body-HandOnHip}{HappyB} En fait, je suis d'accord avec ce plan.
 60)  LEE
 {HappyA}Moi aussi.
 61)  KENNY
-{HappyB} Nous avons des lits, de l'eau, et le plus important {body-B}{HappyA}nous avons de la lumière. {ThinkingA} Il y a des endroits bien pires à appeler maison.
+{HappyB} Nous avons des lits, de l'eau, et le plus important {body-B}{HappyA}nous avons de la lumière. {ThinkingA} Il y a des endroits bien pires que ça.
 62)  LILLY
 {HappyA}Ouais, t'as raison. {body-A}{HappyC}Vous savez les gars, je pense que ça va bien se passer.
 63)  LEE
@@ -129,9 +129,9 @@ Eh bien la réponse a intérêt à être "non".
 64)  LEE
 {ThinkingB} {body-C2}Ce mec, Doug, est mort à cause de moi.
 66)  LILLY
-{body-HoldWrist}{HappyA}Hey, Lee ; tu as une seconde?
+{body-HoldWrist}{HappyA}Hey, Lee, tu as une seconde?
 67)  LILLY
-{body-HoldWrist}{HappyA}Hey, Lee ; tu as une seconde?
+{body-HoldWrist}{HappyA}Hey, Lee, tu as une seconde?
 68)  LEE
 Ca pourrait être une bonne idée d'aller voir Doug.
 69)  LEE
@@ -151,7 +151,7 @@ Je comprends.
 76)  DOUG
 {FearA} Attends, {NormalC}Lee?
 77)  LEE
-Qu'est-ce qu'il y a, mec ?
+Qu'est-ce qu'il y a, mec?
 78)  DOUG
 Comment as-tu fait pour choisir? {SadA}Je veux dire, nous avions tout les deux besoin d'aide... tu m'a choisi.
 79)  DOUG
@@ -201,7 +201,7 @@ Elle t'aimait beaucoup.
 95)  DOUG
 {HappyA}Merci, Lee.
 96)  
-Je suis desole.
+Je suis désolé.
 97)  LEE
 {NormalD}Je suis désolé, Doug.
 98)  DOUG
@@ -271,7 +271,7 @@ Je suis certain qu'il t'aimait beaucoup.
 132)  CARLEY
 [trying to make light of a tragic situation] {HappyC}Ha, n'y pensons plus.
 133)  
-Je suis desole, Carley.
+Je suis désolé, Carley.
 134)  LEE
 {SadA}Je suis désolé, Carley.
 135)  CARLEY
@@ -297,7 +297,7 @@ Ca va aller.
 146)  LEE
 {HappyA}{body-A}Oui, en effet.
 147)  KENNY
-Bien, {body-B}elle n'est pas ta {NormalC}fille, donc tu ne peux pas la traiter comme ça.
+Bien, {body-B}elle n'est pas ta {NormalC}fille, donc tu ne peux pas la traiter comme telle.
 148)  LEE
 {NormalD}{body-C2}Ouais, je sais.
 149)  KENNY
@@ -383,7 +383,7 @@ Regarder
 189)  
 [Garder le silence]
 190)  
-Ahh, je suis desole.
+Ahh, je suis désolé.
 191)  
 C'est juste un talkie-walkie ...
 192)  

@@ -1,5 +1,5 @@
 1)  LEE
-[gathering himself] {fearA} Mec...
+[gathering himself] {fearA} Wahoooo...
 2)  CLEMENTINE
 {fearA} Tu l'as tuée?
 3)  
@@ -83,9 +83,9 @@ Attendre qu'il fasse nuit.
 49)  CLEMENTINE
 [pickup1] Ca semble bon. Nous pourrions nous cacher dans ma cabane d'ici là.
 38)  LEE
-[pickup3] Nous devons quitter ce quartier ; il n'est pas sûr. Nous serons plus discrets si nous bougeons la nuit.
+[pickup3] Nous devons quitter ce quartier, il n'est pas sûr. Nous serons plus discrets si nous bougeons la nuit.
 48)  LEE
-[pickup3] Nous devons quitter ce quartier ; il n'est pas sûr. Nous serons plus discrets si nous bougeons la nuit.
+[pickup3] Nous devons quitter ce quartier, il n'est pas sûr. Nous serons plus discrets si nous bougeons la nuit.
 39)  CLEMENTINE
 [pickup1] [nervous]Mes parents pourraient rentrer à la maison.
 47)  CLEMENTINE

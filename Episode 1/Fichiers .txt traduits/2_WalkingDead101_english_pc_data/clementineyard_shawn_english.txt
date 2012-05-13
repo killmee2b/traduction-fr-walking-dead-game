@@ -9,9 +9,9 @@
 88)  LEE
 {HappyB}Vous êtes bloqué, Shawn Greene?
 4)  SHAWN
-[pickup1][nervous, out in the open]{NormalC}Que diriez-vous de nous aider à dégager la voie et{ThinkingA} nous vous emmenons, vous et votre fille hors d'ici, plus au sud, dans la ferme de ma famille. {HappyA}Nous serons plus en sécurité là-bas.
+[pickup1][nervous, out in the open]{NormalC}Que diriez-vous de nous aider à dégager la route et{ThinkingA} nous vous emmenons, vous et votre fille hors d'ici, plus au sud, dans la ferme de ma famille. {HappyA}Nous serons plus en sécurité là-bas.
 81)  SHAWN
-[pickup1][nervous, out in the open]{NormalC}Que diriez-vous de nous aider à dégager la voie et{ThinkingA} nous vous emmenons, vous et votre fille hors d'ici, plus au sud, dans la ferme de ma famille. {HappyA}Nous serons plus en sécurité là-bas.
+[pickup1][nervous, out in the open]{NormalC}Que diriez-vous de nous aider à dégager la route et{ThinkingA} nous vous emmenons, vous et votre fille hors d'ici, plus au sud, dans la ferme de ma famille. {HappyA}Nous serons plus en sécurité là-bas.
 5)  LEE
 {FearA} Nous ne sommes pas méchants.
 6)  SHAWN
@@ -39,9 +39,9 @@ OK, ça me semble bien.
 93)  
 OK, ça me semble bien.
 12)  
-Ou est votre ferme?
+Où est votre ferme?
 102)  
-Ou est votre ferme?
+Où est votre ferme?
 13)  
 Il y a un docteur ou un truc du genre chez vous?
 110)  
@@ -403,7 +403,7 @@ Ces choses sont partout.
 185)  SHAWN
 [pickup1][super urgent] {Body-A}{FearC}Montez!
 186)  SHAWN
-[pickup1] [driving away, just escaped by the skin of your teeth]{SurprisedA}{Body-A}Comme la baby-sitter part ; {HappyA}je dirais que ses parents vous doivent un pourboire.
+[pickup1] [driving away, just escaped by the skin of your teeth]{SurprisedA}{Body-A}Comme la baby-sitter part, {HappyA}je dirais que ses parents vous doivent un pourboire.
 187)  SHAWN
 [pickup1] [driving away, just escaped by the skin of your teeth]Vous connaissiez un de ces gars là-bas?
 188)  LEE
@@ -411,7 +411,7 @@ Ces choses sont partout.
 189)  SHAWN
 [pickup1] [driving away, just escaped by the skin of your teeth] {FearA}{Body-A}Il y avait des voisins aussi parmis eux?
 190)  SHAWN
-[pickup1][driving away, just escaped by the skin of your teeth] {SurprisedA}{Body-A}Pour seulement "quelqu'un", il {HappyA}semble que vous ayez sauvé {HappyB}un tas de vies aujourd'hui.
+[pickup1][driving away, just escaped by the skin of your teeth] {SurprisedA}{Body-A}Pour seulement "quelqu'un", il {HappyA}semble que vous ayez sauvé {HappyB}beaucoup de vies aujourd'hui.
 191)  SHAWN
 [pickup1] [driving away, just escaped by the skin of your teeth] {SurprisedA}{Body-A}Ces gars? [back there] {ThinkingB}PAS des bons Samaritains.
 192)  SHAWN
@@ -439,7 +439,7 @@ Même pas un peu?
 201)  LEE
 [pickup3] [quietish] Ma jambe, ouais. Elle est bien amochée.
 202)  LEE
-[pickup3] [quietish] Non ; vraiment non.
+[pickup3] [quietish] Non, vraiment non.
 203)  MITCHELL
 J'ai l'impression que vous vous moquez de vous-même.
 204)  LEE
@@ -485,11 +485,11 @@ Je ne sais pas...
 238)  
 Ils ne le feront pas. Allons-y.
 239)  
-Je ne te laisserais pas toute seule.
+Je ne te laisserai pas toute seule.
 240)  LEE
 [pickup3] {body-F}{SadA}Ils ne le feront pas. {NormalC}Nous devrions y aller.
 241)  LEE
-[pickup3] {SadA}Je ne te laisserais pas toute seule, OK?{Body-B}
+[pickup3] {SadA}Je ne te laisserai pas toute seule, OK?{Body-B}
 242)  CLEMENTINE
 [pickup1] {body-handonwrist}{SadA}Ils vont me retrouver, hein?
 243)  CLEMENTINE

@@ -35,13 +35,13 @@ Vous m'avez l'air tranquille toutes les deux.
 18)  LEE
 {thinkingA} Oh, euh, {happyB} comment c'est?
 19)  LEE
-{fearA} Dooonc, vous êtes {happyB}bien?
+{fearA} Dooonc, vous allez {happyB}bien?
 20)  KATJAA
-{happyB} Je pense que nous faisons très bien. {happyC} Clémentine me parlait de sa première année d'école.
+{happyB} Je pense que nous sommes bien détendu. {happyC} Clémentine me parlait de sa première année d'école.
 21)  LEE
 {normalC} Vous m'avez l'air détendu toutes les deux.
 22)  
-Comment etait la ville?
+Comment était la ville?
 23)  LEE
 {normalD} Comment avez-vous traversé la ville?
 24)  KATJAA
@@ -127,7 +127,7 @@ Qui ne voudrait pas?
 64)  
 Les choses arrivent pour une raison.
 65)  
-C'était deja mauvais avant.
+C'était déjà mauvais avant.
 66)  KATJAA
 [pickup1]Toutes ces choses.
 67)  LEE

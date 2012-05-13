@@ -5,7 +5,7 @@ Pourquoi vous dites ça?
 3)  
 Est-ce vraiment important?
 4)  
-Vous savez ce qu'il disent à propos des considérations.
+Vous savez ce qu'il disent a propos des considérations.
 6)  LEE
 {thinkingA}{body-sitcuffed}Pourquoi vous dites ça?
 7)  LEE
@@ -25,7 +25,7 @@ Vous savez ce qu'il disent à propos des considérations.
 13)  COP
 {happyB}{body-drive}Vous savez, j'ai conduit un tas de type à cette prison.{sadA}Dieu sait combien. Habituellement, c'est à ce moment-là qu'ils me disent : {surprisedA}"Je n'ai rien fait."
 14)  
-Et qu'est-ce que vous en dites?
+Et qu'est-ce que vous dites?
 15)  
 C'est pas mon cas.
 16)  
@@ -63,7 +63,7 @@ Qu'est-ce que vous en pensez?
 32)  LEE
 {thinkingA}{body-sitcuffed}Qu'est-ce que vous pensez?
 33)  COP
-{happyB}{body-drive}Je suis juste heureux d'avoir choisi ce côté {happyA} de la loi et d'avoir laisser le traitement des grosse affaires aux autres. Particulièrement quand cela concerne des professeurs tuant des sénateurs, {normalC}sauf votre respect.e s45s
+{happyB}{body-drive}Je suis juste heureux d'avoir choisi ce côté {happyA} de la loi et d'avoir laisser le traitement des grosse affaires aux autres. Particulièrement quand cela concerne des professeurs tuant des sénateurs, {normalC}sauf votre respect.
 34)  COP
 {sadA}{body-drive}Ce n'est pas tous les jours qu'un type du comté de Bibb passe {fearA}et tue un Sénateur de l'Etat, {normalB}ça c'est sûr.
 111)  COP
@@ -75,17 +75,17 @@ Qu'est-ce que vous en pensez?
 36)  COP
 {happyA}Bien.
 37)  COP
-Bordel. La famille entière avait l'habitude d'aller {happyC}à la pharmacie du centre ville.{normalB}Elle est toujours là?
+Bordel. La famille entière avait l'habitude d'aller {happyC}à la pharmacie du centre ville. {normalB}Elle est toujours là?
 38)  COP
 {normalA}{body-drive}Combien de temps avez-vous travaillé à l'université?
 39)  LEE
-{normalA}{body-sitcuffed}J'allais sur ma 6ème année.
+{normalA}{body-sitcuffed}J'allais sur ma sixième année.
 40)  COP
 Vous {sadA}voulez savoir comment je le vois?
 41)  COP
 {happyC}Vous avez rencontré votre femme à Athens ?{Lee sadB}
 42)  
-Ouai.
+Ouais.
 43)  
 Pas vraiment.
 44)  
@@ -93,7 +93,7 @@ J'ai d'autres choix?
 46)  COP
 {sadA}{body-drive}Je ne voulais pas dire ça. Je {happyB} crois en l'innocence tant que {happyC}la culpabilité n'est pas prouvée. Même {normalB} en considérant les personnes qui ont dit "vous l'avez tué".
 47)  LEE
-{normalD}{body-sitcuffed}Ouai.
+{normalD}{body-sitcuffed}Ouais.
 48)  LEE
 {normalC}{body-sitcuffed}Pas vraiment.
 49)  LEE
@@ -109,7 +109,7 @@ Vous pourriez juste être marié à la mauvaise femme.
 54)  
 J'aurais pu l'être.
 56)  
-Ou alors elle s'est mariee avec le mauvais gars.
+Ou alors elle s'est mariée avec le mauvais gars.
 57)  
 Allez-vous faire voir.
 58)  COP
@@ -139,7 +139,7 @@ Alors, il l'avait fait?
 71)  COP
 Cela prouve que les gens {disgustA}deviennent fous {fearB}lorsque qu'ils croient que leur vie est finie.
 72)  COP
-{surprisedA}{body-drive}Ils ont choppé {thinkingA} l'enfoiré en flagrant délit ! {angryA}Poignardant sa femme, la découpant quand les collègues sont passés par la porte! {surprisedA}Le meurtrier s'assoit dans ma voiture, en pleurant {fearC}qu'il n'avait rien fait! {thinkingA}Je pense qu'il le croyait vraiment.
+{surprisedA}{body-drive}Ils ont choppé {thinkingA} l'enfoiré en flagrant délit ! {angryA}Poignardant sa femme, la découpant quand les collègues sont passés par la porte! {surprisedA}Le meurtrier s'assied dans ma voiture, en pleurant {fearC}qu'il n'avait rien fait! {thinkingA}Je pense qu'il le croyait vraiment.
 73)  COP
 {happyD}{body-drive}Oh, j'en ai une autre {body-turnback}pour vous. {surprisedA}Celle-ci est un peu moins déprimante et{happyB} un peu plus hilarante si je peux dire. {fearB}C'était à une autre époque --
 74)  COP
@@ -201,7 +201,7 @@ la fissure dans le pare-brise comme la voiture de flic va dégringoler.
 100)  LEE
 {thinkingB}{body-sitcuffed}[pickup1] Alors, il l'a fait?
 101)  
-Flic
+Officier
 102)  
 Menottes
 103)  

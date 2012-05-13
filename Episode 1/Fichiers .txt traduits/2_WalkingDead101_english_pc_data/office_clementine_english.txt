@@ -19,7 +19,7 @@ Ouais.
 10)  CLEMENTINE
 {fearA}C'est là où ça fait le plus mal.
 11)  LEE
-{thinkingA}Il faut un pansement, je crois.{normalD} Attraper une infection pourrait être un gros problème.
+{thinkingA}Il faut un pansement, je crois.{normalD} Ce n'est vraiment pas le moment que ton doigt s'infecte.
 12)  CLEMENTINE
 {fearB}	Pourquoi?
 13)  LEE
@@ -95,9 +95,9 @@ Mmhmm.
 64)  LEE
 {thinkingA}	Yeah. [thinking] On va garder un oeil sur lui
 39)  CLEMENTINE
-{fearA}	Mais tu l'a arrêté.
+{fearA}	Mais tu l'as arrêté.
 68)  CLEMENTINE
-{fearA}	Mais tu l'a arrêté.
+{fearA}	Mais tu l'as arrêté.
 40)  LEE
 {happyA}Ouais, c'est vrai.
 69)  LEE

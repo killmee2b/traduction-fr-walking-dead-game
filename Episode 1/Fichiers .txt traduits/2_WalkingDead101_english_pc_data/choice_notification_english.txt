@@ -131,7 +131,7 @@ Kenny a remarqué.
 65)  
 Kenny a remarqué qu'il n'avait pas votre soutien.
 66)  
-Vous avez attiré l'attention de Larry à Clémentine.
+Vous avez attiré l'attention de Larry sur Clémentine.
 67)  
 Clémentine a été blessée par ça.
 68)  

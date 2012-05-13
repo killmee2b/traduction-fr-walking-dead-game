@@ -95,7 +95,7 @@ Liberez Clémentine
 48)  
 --Albert Camus
 49)  
-Chaque choix fait à partir de ce moment...
+chaque choix qui est fait à partir de ce moment...
 50)  
 Utilisez les boutons pour choisir votre réponse...
 51)  
@@ -210,7 +210,7 @@ Utilisez la touche Z (avant)  pour bouger le long de la voiture.
 102)  
 Utilisez la touche S (arrière)  pour partir!
 103)  
-Utilisez la molette pour sélectionner un choix et le bouton gauche de la souris pour confirmer.
+Utiliser la molette pour sélectionner un choix et le bouton gauche de la souris pour confirmer.
 Vous pouvez aussi utilisés les touches numériques 1-4 pour faire votre choix.
 104)  
 Utilisez la souris pour regarder autour.

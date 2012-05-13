@@ -1,9 +1,9 @@
 1)  DUCK
-{happyB} Cool! Je vais conduire le tracteur!
+{happyB} Bien! Je vais conduire le tracteur!
 2)  DUCK
 {happyC} Je suis le contremaître! [to shawn]Soulève avec ton dos, Shawn!
 3)  LEE
-{happyA} Comment tu fais, Duck?
+{happyA} Comment ça va, Duck?
 4)  
 Regarder 
 5)  DUCK
@@ -105,7 +105,7 @@ Le petit etait un zombie?
 49)  
 Il a fallu que j'en tue un.
 50)  
-J'ai traumatise une pauvre petite fille en faisant ça.
+J'ai traumatisé une pauvre petite fille en faisant ça.
 52)  SHAWN
 {thinkingA} C'est cool, ne t'inquiète pas à propos de ça.
 106)  SHAWN
@@ -129,7 +129,7 @@ J'ai traumatise une pauvre petite fille en faisant ça.
 60)  LEE
 {normalD} Je ne suis pas très proche de ma famille.
 61)  
-Mes parents sont à Macon avec mon frere.
+Mes parents sont à Macon avec mon frère.
 62)  
 Je ne sais pas ce que fait mon ex-femme.
 63)  
