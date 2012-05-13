@@ -37,11 +37,11 @@ Topic in sequence
 21)  LEE
 {SadB}{body-C}Je suis désolé.
 22)  CARLEY
-{SadA}Ma rédactrice s'est fait bouffer à 3 mètres de moi, et {FearA}j'aurais pu l'aider s'il n'y avait pas eu{SadA} autant de ces saloperies.
+{SadA}Ma rédactrice s'est fait bouffer à trois mètres de moi, et {FearA}j'aurais pu l'aider s'il n'y avait pas eu{SadA} autant de ces saloperies.
 23)  
 Tu t'en sors pas mal.
 24)  
-Sans ce gars tu serais mortes?
+Sans ce gars tu serais morte?
 25)  LEE
 {DisgustB}{body-C}Ce gars t'a sauvée?
 26)  LEE
@@ -73,7 +73,7 @@ Sans ce gars tu serais mortes?
 39)  CARLEY
 {NormalB}Ouais.
 40)  CARLEY
-{HappyB}C'est vrai. {ThinkingB}Bah, jusqu'à ce que quelques politiciens de merde réduisent notre financement, {ThinkingA}parce que je me suis attaquée à eux.
+{HappyB}C'est vrai. {ThinkingB}Bah, jusqu'à ce que quelques politiciens de merde réduisent notre budget, {ThinkingA}parce que je me suis attaquée à eux.
 41)  3L. LEE
 Merci.
 42)  CARLEY
@@ -87,11 +87,11 @@ Ouais, je le ferai.
 46)  LEE
 {NormalD}{body-E}L'article du siècle hein?
 48)  
-L'article du siecle hein?
+L'article du siècle hein?
 66)  
-L'article du siecle hein?
+L'article du siècle hein?
 68)  
-L'article du siecle hein?
+L'article du siècle hein?
 49)  LEE
 {NormalD}{body-A}Merci.
 50)  CARLEY
@@ -209,7 +209,7 @@ Je cherche des piles pour ta radio.
 97)  
 [Remain Silent]
 98)  
-Tu n'as pas besoin d'etre...
+Tu n'as pas besoin d'être...
 99)  
 Vraiment? Tout le monde est mort!
 100)  
@@ -217,7 +217,7 @@ Bon.
 101)  LEE
 [pickup3] Tu n'as pas besoin d'être... c'est traumatisant.
 102)  CARLEY
-[pickup1] Je suis sûre que certaines personne ont réussi à s'en sortir. Peut-être qu'elles ont été secourues. Ou peut-être pas.
+[pickup1] Je suis sûre que certaines personne ont réussi à s'en sortir. Elles ont peut-être été secourues. Ou peut-être pas.
 103)  LEE
 [pickup3] Tu vas vraiment "bien"? Tous tes collègues sont probablement morts.
 104)  CARLEY
@@ -233,7 +233,7 @@ Bon.
 110)  CARLEY
 [pickup1] Super, merci.
 111)  LEE
-[pickup3] Ces piles devraient aller dans ta radio.
+[pickup3] Cette pile devrait aller dans ta radio.
 112)  LEE
 [pickup3] Je vais en chercher d'autres.
 113)  CARLEY
@@ -249,13 +249,13 @@ Fais voir.
 118)  LEE
 [pickup3] Ca ne marche toujours pas?
 121)  
-Montrer la telecommande à
+Montrer la télécommande à
 122)  
 Donner les piles à
 124)  
-Cette pile etait la-bas, tiens.
+Cette pile était là-bas, tiens.
 126)  
-Cette pile etait la-bas, tiens.
+Cette pile était là-bas, tiens.
 125)  
 Voici une autre pile.
 127)  

@@ -39,7 +39,7 @@ Nous devrions essayer de faire un peu plus connaissance.
 20)  CLEMENTINE
 {NormalD}Tant mieux.
 21)  LEE
-{sadA}Ouais, je crois. [awkward, again, no idea how to make convo with little girl] {thinkingA}Aller bien c'est... euh, bien. {NormalD}En dépit des circonstances.
+{sadA}Ouais, je crois. [awkward, again, no idea how to make convo with little girl] {thinkingA}Aller bien c'est... euh, bien. {NormalD}En dépit des circonstances...
 22)  CLEMENTINE
 {thinkingA}{normalD}Ouais.
 23)  
@@ -55,7 +55,7 @@ Sortie
 29)  
 Comment va ton doigt?
 30)  
-Je sais que j'suis pas ton pere.
+Je sais que j'suis pas ton père.
 31)  LEE
 {SadA}{Body-F}Comment va ton doigt, Clem?
 32)  CLEMENTINE

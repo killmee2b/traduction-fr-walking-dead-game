@@ -143,11 +143,11 @@ Tu es sûr?
 383)  LEE
 Tu es sûr?
 32)  CARLEY
-[focused, stern] {AngryB}Dessus.
+[focused, stern] {AngryB}Là.
 231)  CARLEY
-[focused, stern] {AngryB}Dessus.
+[focused, stern] {AngryB}Là.
 384)  CARLEY
-[focused, stern] {AngryB}Dessus.
+[focused, stern] {AngryB}Là.
 33)  KATJAA
 [from the other room] Glenn… GLENN, A L'AIDE!
 249)  KATJAA
@@ -207,15 +207,15 @@ Je suis désolé, les gars.
 403)  GLENN
 Je suis désolé, les gars.
 42)  CARLEY
-LEE...Je suis à court de balles! Le chargeur est au sol! A L'AIDE!
+LEE...Je suis à court de balles! Le chargeur est dans mon sac! A L'AIDE!
 144)  CARLEY
-LEE...Je suis à court de balles! Le chargeur est au sol! A L'AIDE!
+LEE...Je suis à court de balles! Le chargeur est dans mon sac! A L'AIDE!
 284)  CARLEY
-LEE...Je suis à court de balles! Le chargeur est au sol! A L'AIDE!
+LEE...Je suis à court de balles! Le chargeur est dans mon sac! A L'AIDE!
 436)  CARLEY
-LEE...Je suis à court de balles! Le chargeur est au sol! A L'AIDE!
+LEE...Je suis à court de balles! Le chargeur est dans mon sac! A L'AIDE!
 510)  CARLEY
-LEE...Je suis à court de balles! Le chargeur est au sol! A L'AIDE!
+LEE...Je suis à court de balles! Le chargeur est dans mon sac! A L'AIDE!
 43)  DOUG
 {FearC}Ils passent à travers! {FearD}ILS PASSENT A TRAVERS, LEE! AIDE-MOI! MON DIEU, J'AI BESOIN DE TOI!
 285)  DOUG
@@ -283,11 +283,11 @@ LEE...Je suis à court de balles! Le chargeur est au sol! A L'AIDE!
 468)  DOUG
 {FearD}OH MERDE, OH MERDE, OH MERDE!
 54)  CARLEY
-{AngryD}Merde! Je suis à sec! {FearD}Ils sont trop nombreux -
+{AngryD}Merde! Je suis à sec! {FearD}Ils sont trop nombreux...
 314)  CARLEY
-{AngryD}Merde! Je suis à sec! {FearD}Ils sont trop nombreux -
+{AngryD}Merde! Je suis à sec! {FearD}Ils sont trop nombreux...
 466)  CARLEY
-{AngryD}Merde! Je suis à sec! {FearD}Ils sont trop nombreux -
+{AngryD}Merde! Je suis à sec! {FearD}Ils sont trop nombreux...
 55)  CARLEY
 [Lots of screaming, being eaten alive].
 151)  CARLEY
@@ -347,21 +347,21 @@ Non! [Watching Lee, who is essentially her father, get hurt badly]
 394)  LARRY
 {DisgustA}Tu ne viens pas avec nous, {AngryD}fils de pute!
 64)  CLEMENTINE
-{FearA}Pour la porte!
+{FearA} la porte!
 218)  CLEMENTINE
-{FearA}Pour la porte!
+{FearA} la porte!
 370)  CLEMENTINE
-{FearA}Pour la porte!
+{FearA} la porte!
 65)  DOUG
-Allez!
+Aller!
 166)  DOUG
-Allez!
+Aller!
 207)  DOUG
-Allez!
+Aller!
 270)  DOUG
-Allez!
+Aller!
 422)  DOUG
-Allez!
+Aller!
 66)  DOUG
 On doit tenir cette porte jusqu'à ce que Ken revienne!
 167)  DOUG
@@ -651,11 +651,11 @@ Ca va?
 440)  DOUG
 {FearB}Les planches vont casser, {FearC}Je ne peux pas tenir!
 106)  DOUG
-{AngryA}Allez!
+{AngryA}Aller!
 289)  DOUG
-{AngryA}Allez!
+{AngryA}Aller!
 441)  DOUG
-{AngryA}Allez!
+{AngryA}Aller!
 107)  DOUG
 {AngryA}Aide-nous!
 290)  DOUG
@@ -737,7 +737,7 @@ Je ne sais pas si les barricades vont tenir longtemps...
 130)  DOUG
 [Mustering the courage] Ok.
 132)  CARLEY
-[focused, stern] Dessus.
+[focused, stern] Là.
 134)  KATJAA
 [from the other room] GLENN! A L'AIDE!
 135)  GLENN
@@ -773,7 +773,7 @@ Mon dieu... [a friend has just been eaten]
 155)  DOUG
 OH MERDE OH MERDE OH MERDE!
 156)  CARLEY
-Merde! Merde! Je suis à sec! Ils sont trop nombreux -
+Merde! Merde! Je suis à sec! Ils sont trop nombreux...
 157)  KENNY
 ALLONS-Y!
 158)  CARLEY
@@ -787,7 +787,7 @@ Ils ont eu Carley!
 163)  LARRY
 Tu ne viens pas avec nous fils de pute.
 165)  CLEMENTINE
-Pour la porte!
+La porte!
 177)  GLENN
 On ne peut pas les laisser entrer!
 195)  GLENN
@@ -859,17 +859,17 @@ C'est la porte qui se bloque de l'extérieur.
 476)  LEE
 {HappyA}Ha, je ne suis pas suicidaire.
 321)  DOUG
-{AngryA}Non, la porte dehors là est fermée. {HappyA}Nous pouvons passer du temps devant le magasin et aller bien.
+{AngryA}Non, la grille dehors est fermée. {HappyA}Nous pouvons passer du temps devant le magasin sans danger.
 475)  DOUG
-{AngryA}Non, la porte dehors là est fermée. {HappyA}Nous pouvons passer du temps devant le magasin et aller bien.
+{AngryA}Non, la grille dehors est fermée. {HappyA}Nous pouvons passer du temps devant le magasin sans danger.
 322)  LEE
 {NormalA}Oh, {ThinkingA}euh.
 472)  LEE
 {NormalA}Oh, {ThinkingA}euh.
 323)  LEE
-[pickup3]entendu ou vu quelque chose?
+[pickup3]Entendu ou vu quelque chose?
 474)  LEE
-[pickup3]entendu ou vu quelque chose?
+[pickup3]Entendu ou vu quelque chose?
 324)  DOUG
 {NormalA}Rien, heureusement. {HappyA}Tu veux aller dehors, et jeter un oeil?
 473)  DOUG
@@ -911,9 +911,9 @@ Pas maintenant.
 497)  
 Pas maintenant.
 330)  DOUG
-{ThinkingA}D'accord, fais-moi savoir quand tu te sentiras prêt.
+{ThinkingA}D'accord, fais-moi savoir quand tu te seras prêt.
 482)  DOUG
-{ThinkingA}D'accord, fais-moi savoir quand tu te sentiras prêt.
+{ThinkingA}D'accord, fais-moi savoir quand tu te seras prêt.
 331)  LEE
 {ThinkingB}Eh, pas tout de suite...
 483)  LEE
@@ -927,13 +927,13 @@ Pas maintenant.
 484)  LEE
 {NormalC}Hey, Je suis tombé sur une hache.
 335)  LEE
-{AngryA}Allons voir les environs.
+{AngryA}Allons voir dehors.
 343)  LEE
-{AngryA}Allons voir les environs.
+{AngryA}Allons voir dehors.
 488)  LEE
-{AngryA}Allons voir les environs.
+{AngryA}Allons voir dehors.
 495)  LEE
-{AngryA}Allons voir les environs.
+{AngryA}Allons voir dehors.
 336)  DOUG
 {HappyA}Ok.
 344)  DOUG
@@ -1037,7 +1037,7 @@ Aller à la porte
 511)  DOUG
 [pickup2] Cette fenêtre est DEFONCEE!
 512)  CARLEY
-[pickup1] LEE! Help! Les munitions! Dans mon sac à main!
+[pickup1] LEE! A l'aide! Les munitions! Dans mon sac à main!
 513)  CARLEY
 [pickup1] [shocked at zombie attacking Lee] Oh, merde!
 514)  LEE
@@ -1051,7 +1051,7 @@ Aller à la porte
 518)  KATJAA
 [pickup1] [panicking a little, yelling from next room] Glenn, on a besoin de toi, on a besoin de toi!
 519)  KATJAA
-KATJAA APPELLE AU SECOURS 3!!!!!
+KATJAA APPELLE AU SECOURS !!!!!
 520)  KENNY
 [pickup1] [arguing, yelling over alarm] Fait chier, Ca ne va pas fonctionner!
 521)  GLENN
@@ -1073,7 +1073,7 @@ Regarde-moi. Que penses-tu?
 529)  
 Je vais faire de mon mieux.
 530)  
-Merde non! Il y a un tas de morts qui se balade dans le coin.
+Merde non! Il y a un tas de rôdeurs qui se baladent dans le coin.
 531)  LEE
 [pickup1] Regarde-moi. Que penses-tu?
 532)  KENNY
@@ -1085,7 +1085,7 @@ Merde non! Il y a un tas de morts qui se balade dans le coin.
 535)  KENNY
 [pickup1] Et bien peut-être que votre fille peut VOUS protéger.
 536)  LEE
-[pickup1] Merde non! Il y a un tas de morts qui se promène là-bas.
+[pickup1] Merde non! Il y a un tas de rôdeurs qui se promènent là-bas.
 537)  KATJAA
 [pickup1] [a little panicked] Duck, viens mon bébé, il est temps d'y aller.
 538)  KENNY
@@ -1141,13 +1141,13 @@ Merde non! Il y a un tas de morts qui se balade dans le coin.
 559)  DOUG
 [pickup1] [under duress] Hey, Lee... si on ne s'en sort pas, tu dois savoir... je pense que tu es un type bien.
 560)  CARLEY
-[pickup1] Doug, si on ne s'en sort pas, tu dois savoir-- [interupted]
+[pickup1] Doug, si on ne s'en sort pas, tu dois savoir... [interupted]
 561)  CARLEY
 [pickup1][under duress, holding the door] Euh?!
 562)  DOUG
 [pickup1][under duress, holding the door] Je devrais savoir QUOI?
 563)  DOUG
-[pickup1] Tu as dit que je devrais savoir--
+[pickup1] Tu as dit que je devrais savoir...
 564)  CARLEY
 [pickup1]MERDE!
 565)  CARLEY
@@ -1187,17 +1187,17 @@ Merde non! Il y a un tas de morts qui se balade dans le coin.
 579)  
 Mettre l'étagère sur la fenêtre
 580)  
-Mettez les planches sur la fenêtre
+Mettre les planches sur la fenêtre
 581)  CLEMENTINE
 [pickup1] [grabbed by zombie]
 582)  
-Sauver Clementine du zombie
+Sauver Clémentine du zombie
 583)  
-Sortez de la pharmacie
+Sortez du magasin
 584)  
 Utilisez le joystick pour éviter de vous faire jeter hors de la porte.
 585)  
-Activer!11!1!!
+Activer!!!!
 586)  CARLEY
 [pickup1] Putain de merde, Glenn, non! Reviens ici!
 594)  
@@ -1231,13 +1231,13 @@ sac à main
 616)  
 ferme-la, Doug!
 617)  
-On va reussir.
+On va réussir.
 618)  
 Euh, merci.
 619)  LEE
 [pickup3] [holding the door against a horde of zombies] [sarcastic] Gee, merci, Doug!
 620)  LEE
-[pickup3][holding the door against the zombies] On va reussir.
+[pickup3][holding the door against the zombies] On va réussir.
 621)  KENNY
 [pickup1] Même s'il est un trou du cul.
 622)  KENNY
@@ -1251,9 +1251,9 @@ Prendre
 626)  
 Canne
 627)  
-Bar
+Barre
 629)  
-Bar
+Barre
 628)  
 Pousser
 630)  

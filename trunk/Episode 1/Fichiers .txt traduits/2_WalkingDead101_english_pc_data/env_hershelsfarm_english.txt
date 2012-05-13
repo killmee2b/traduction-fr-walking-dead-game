@@ -43,7 +43,7 @@ Nous recherchons un endroit tranquille.
 20)  LEE
 {disgustA}Ma jambe est un peu amochée. {fearA} Shawn dit que vous pourriez me faire un bandage, au moins.
 21)  HERSHEL
-{happyA}{body-standA} Je peux vous aider. Shawn, va chercher ta soeur. Vous, prenez un siège sur le porche et je vais aller voir ce que j'ai.
+{happyA}{body-standA} Je peux vous aider. Shawn, va chercher ta soeur. Vous, asseyez-vous sur le porche, je vais aller voir ce que j'ai.
 22)  HERSHEL
 {normalC} Voyons ça. [a beat...] {disgustA} Ouais, c'est gonflé...
 23)  LEE
@@ -67,7 +67,7 @@ Ca fait un mal de chien.
 31)  
 Ce n'est pas si grave.
 32)  
-Ca aurait pu etre pire.
+Ca aurait pu être pire.
 33)  HERSHEL
 {thinkingA} Comment avez-vous dit que vous vous appeliez?
 34)  LEE
@@ -83,13 +83,13 @@ Peu importe.
 39)  
 Je n'ai rien dit.
 40)  HERSHEL
-{happyA} Content de vous avoir rencontré, Lee. Je m'appelle Hershel Greene.
+{happyA} Ravi de vous rencontrer, Lee. Je m'appelle Hershel Greene.
 48)  HERSHEL
-{happyA} Content de vous avoir rencontré, Lee. Je m'appelle Hershel Greene.
+{happyA} Ravi de vous rencontrer, Lee. Je m'appelle Hershel Greene.
 524)  HERSHEL
-{happyA} Content de vous avoir rencontré, Lee. Je m'appelle Hershel Greene.
+{happyA} Ravi de vous rencontrer, Lee. Je m'appelle Hershel Greene.
 544)  HERSHEL
-{happyA} Content de vous avoir rencontré, Lee. Je m'appelle Hershel Greene.
+{happyA} Ravi de vous rencontrer, Lee. Je m'appelle Hershel Greene.
 41)  HERSHEL
 {disgustA} Euh... bien, si vous êtes ici pour la nuit, je vais en avoir besoin. {angryA}Sauf si vous préférez prendre la route.
 42)  LEE
@@ -129,11 +129,11 @@ Je n'ai rien dit.
 528)  LEE
 {thinkingA} Je ne m'en souviens pas. {sadA} C'est la folie en ville.
 54)  
-Je suis tombe.
+Je suis tombé.
 55)  
 Accident.
 56)  
-En sautant une barriere.
+En sautant une barrière.
 409)  LEE
 En sautant une barrière.
 57)  
@@ -169,7 +169,7 @@ Euh... ça doit l'être.
 71)  
 Votre fils a raison.
 72)  
-Je ne m'inquiete pas trop.
+Je ne m'inquiète pas trop.
 73)  LEE
 {normalA} Votre fils a raison. {angryA}Vous allez devoir fortifier cet endroit.
 74)  LEE
@@ -187,9 +187,9 @@ Je ne m'inquiete pas trop.
 80)  LEE
 {fearA} Une adolescente dont les tripes étaient répandues sur le sol est revenue à la vie et a essayé de me mordre.
 81)  
-J'ai vu un homme se laisser faire ecraser.
+J'ai vu un homme se laisser faire écraser.
 82)  
-Un homme se laisser faire ecraser.
+Un homme se laisser faire écraser.
 83)  
 Un flic mort rampant sur le sol.
 84)  
@@ -277,7 +277,7 @@ Oh hons! Ne sois pas ridicule... Je reviens tout de suite...
 123)  LEE
 [groggy] [Yawns]
 124)  KENNY
-{happyC} Eh bien, petite fille, tu as dormi dans une grange. Tu as de la chance de ne pas avoir d'araignées dans les cheveux.
+{happyC} Eh bien, petite, tu as dormi dans une grange. Tu as de la chance de ne pas avoir d'araignées dans les cheveux.
 125)  CLEMENTINE
 {fearB} [gasp]
 126)  DUCK
@@ -381,9 +381,9 @@ Pourquoi leur fils s'appelle Duck?
 151)  
 Bien entendu, nous allons... vous suivre.
 152)  
-Peut-etre. Voyons comment ça evoluera.
+Peut-être. Voyons comment ca évoluera.
 153)  
-Je vais demander a la jeune fille.
+Je vais demander à la jeune fille.
 154)  
 Non merci.
 155)  KENNY
@@ -425,7 +425,7 @@ Non merci.
 173)  
 Ok, merci.
 174)  
-Je ne sais pas si c'est une bonne idee.
+Je ne sais pas si c'est une bonne idée.
 175)  
 Si vous voyez quelque chose, allez dans la maison.
 176)  KATJAA
@@ -599,7 +599,7 @@ C'est juste quelques bribes que j'ai trouvées autour de la propriété.
 215)  SHAWN
 Papa m'a demandé de transporter ces choses à la décharge pendant plusieurs semaines. Content de l'avoir fait...
 216)  KENNY
-Ce n'est pas le tracteur le plus fiable au monde, mais il fait son travail.
+Ce n'est pas le pick-up le plus fiable au monde, mais il fait son travail.
 217)  KENNY
 C'est actuellement un tas de merde, mais il transporte tout encore.
 218)  LEE
@@ -625,13 +625,13 @@ Pas encore, je planifie de refaire une autre barriquade. Nous allons bloquer cet
 228)  LEE
 {sadB}{body-A} Je pensais pouvoir l'aider après.
 229)  
-Je suis desole.
+Je suis désolé.
 230)  
-J'ai panique.
+J'ai paniqué.
 231)  
 J'étais inquiet pour le petit.
 232)  
-Je pensais pouvoir l'aider apres.
+Je pensais pouvoir l'aider après.
 233)  HERSHEL
 {disgustA} Regardez-le.
 234)  HERSHEL
@@ -683,7 +683,7 @@ C'est la faute de Kenny.
 255)  SHAWN
 [avoiding a topic of convo] Je suis ok.
 256)  LEE
-Sûr que non. Je peux vous donner une critique de la loi agricole des États-Unis.
+Sûr que non. Mais je peux vous donner une critique de la loi agricole des États-Unis.
 257)  SHAWN
 Tu sais comment le conduire?
 258)  
@@ -765,7 +765,7 @@ Ma jambe est coincée!
 298)  SHAWN
 KENNY! BORDEL! AIDEZ MOI!
 299)  SHAWN
-LEE, aidez-moi!
+LEE, aide-moi!
 300)  SHAWN
 A L'AIDE, S'IL VOUS PLAÎT!
 302)  LEE
@@ -821,7 +821,7 @@ Aider Kenny
 380)  CLEMENTINE
 [pickup1] [laying in bed. breaking the silence] J'ai perdu mon papa et ma maman.
 381)  CLEMENTINE
-[pickup1] Est ce que c'est loin Savannah?
+[pickup1] Est-ce que c'est loin Savannah?
 382)  LEE
 [pickup1] [sincere]Je sais, Clem.
 383)  CLEMENTINE
@@ -893,7 +893,7 @@ J'ai été poursuivi par une de ces personnes mortes.
 415)  HERSHEL
 [pickup1] Nous allons nettoyer ça, remettre un pansement et vous irez bien.
 416)  HERSHEL
-[pickup1] Si votre jambe chauffe ou que ça ne dégonfle pas ; c'est que vous avez affaire à une infection.
+[pickup1] Si votre jambe chauffe ou que ça ne dégonfle pas, c'est que vous avez affaire à une infection.
 417)  HERSHEL
 [pickup1] Nous aurons probablement juste besoin de vous abattre.
 418)  LEE
@@ -1015,7 +1015,7 @@ Je ne suis pas son père. Je m'appelle Lee.
 473)  LEE
 Vers Macon, je suppose.
 474)  HERSHEL
-[pickup1]Venez demain, vers où pensez-vous vous aller?
+[pickup1]Venez demain, vers où pensez-vous aller?
 475)  
 Regarder
 476)  
@@ -1025,11 +1025,11 @@ Regarder
 514)  
 Regarder
 477)  CHET
-Hey, Shawn... Je retourne chez moi. Ma maman va s'inquiéter.
+Hey, Shawn... Je retourne chez moi. Ma mère va s'inquiéter.
 478)  SHAWN
 [pickup1] Pas de panique, mec. Je reviens demain soir.
 479)  CHET
-Content de t'avoir rencontré.
+Content de vous avoir rencontrés tous les deux.
 480)  SHAWN
 [pickup1][down] Ouais.
 481)  MITCHELL

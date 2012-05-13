@@ -39,7 +39,7 @@
 338)  CARLEY
 [hushed] Tu vois ça?
 15)  GLENN
-[hushed] Mec! Oh mec, je suis heureux que tu sois ici.
+[hushed] Wahouuu! Je suis heureux que vous soyez là.
 16)  GLENN
 [hushed] Nous avons parlé et puis elle a eu peur. J'ai essayé d'entrer pour lui venir en aide, et puis elle a commencé à crier et à dire que j'avais été mordu. J'ai essayé de la convaincre que je ne l'étais pas et c'est là que tous nos amis sont arrivés. Certains d'entre eux m'ont repéré, et je me suis caché ici.
 17)  GLENN
@@ -51,13 +51,13 @@
 19)  GLENN
 [hushed]J'étais ici pour chercher du gaz et j'ai pensé que ce serait une bonne idée de prendre des oreillers et d'autres choses pour le groupe, du matos confortable, tu vois.
 20)  GLENN
-[hushed] Pas encore. Il y a une survivante coincée là-haut.
+[hushed] Pas encore. Il y a une femme coincée là-haut.
 349)  GLENN
-[hushed] Pas encore. Il y a une survivante coincée là-haut.
+[hushed] Pas encore. Il y a une femme coincée là-haut.
 21)  CARLEY
-[hushed] veinard ; maintenant allons-y!
+[hushed] veinard, maintenant allons-y!
 352)  CARLEY
-[hushed] veinard ; maintenant allons-y!
+[hushed] veinard, maintenant allons-y!
 22)  GLENN
 [hushed] On ne peut pas la laisser.
 351)  GLENN
@@ -65,13 +65,13 @@
 23)  CARLEY
 [hushed] Pourquoi pas?
 24)  
-Glenn a raison ; nous venons pour vous aider.
+Glenn a raison, nous venons pour vous aider.
 25)  LEE
 Glenn a raison, nous venons pour vous aider.
 26)  
-Tu as raison Carley ; nous devons faire demi-tour.
+Tu as raison Carley, nous devons faire demi-tour.
 27)  LEE
-[hushed] Tu as raison Carley. Chaque seconde que nous passons ici, nous laisse une chance.
+[hushed] Tu as raison Carley. Chaque seconde que nous passons ici nous met en danger.
 28)  GLENN
 [hushed] Mais elle est juste là, seule.
 29)  LEE
@@ -91,7 +91,7 @@ Oui, nous devons partir.
 36)  GLENN
 [hushed, angry] Disons-lui simplement de s'en aller.
 37)  
-Tres bien, tu as raison. Aidons-la.
+Très bien, tu as raison. Aidons-la.
 38)  
 On peut jeter un coup d'oeil vite fait.
 39)  LEE
@@ -107,7 +107,7 @@ On peut jeter un coup d'oeil vite fait.
 44)  CARLEY
 [hushed]Glenn! Qu'est-ce que tu fais là-dedans?!
 45)  LEE
-[hushed] Carley j'ai failli te tirer dessus.
+[hushed] Carley a failli te tirer dessus.
 46)  GLENN
 [hushed] Huh?! [carley was going to shoot you]
 47)  LEE
@@ -117,15 +117,15 @@ On peut jeter un coup d'oeil vite fait.
 52)  CARLEY
 [hushed, surprised] Mon dieu, Glenn!
 49)  LEE
-[hushed] Nous étions sur le point de te bousculer.
+[hushed] Nous étions sur le point de te flinguer.
 50)  GLENN
-[hushed] Je suis heureux que tu ne l'aies pas fait.
+[hushed] Je suis heureux que vous ne l'ayez pas fait.
 51)  LEE
 [hushed] Idem.
 53)  GLENN
 [hushed] Hé, les mecs.
 54)  LEE
-[hushed] Quoi de neuf?
+[hushed] Qu'est-ce qui se passe?
 55)  GLENN
 [hushed]  Il suffit de se cacher.
 56)  CARLEY
@@ -135,7 +135,7 @@ On peut jeter un coup d'oeil vite fait.
 58)  CARLEY
 [hushed] Si on doit le faire, on le fera proprement.
 59)  LEE
-[hushed] Ouais. Minimum de bruits. Nous devons éliminer ces rôdeurs, celui-là avec la voiture, et l'autre par l’escalier.
+[hushed] Ouais. Minimum de bruits. Nous devons éliminer ces rôdeurs, celui-là avec la voiture, et l'autre par l'escalier.
 60)  CARLEY
 [hushed] En plus des deux en face de la porte.
 61)  GLENN
@@ -151,7 +151,7 @@ Allons-y les mecs.
 66)  LEE
 Une minute.
 67)  LEE
-[talking through a door] Si vous ouvrez, nous pourrons vous emmener dans un endroit sûr. On a un groupe en ville.
+[talking through a door] Si vous ouvrez, nous pourrons vous emmener dans un endroit sûr. On a des amis en ville.
 68)  MOTEL GIRL
 [upset, through door] Non non non! s'il vous plaît non.
 69)  GLENN
@@ -195,7 +195,7 @@ Puis-je l'emprunter?
 87)  CARLEY
 Qu'entendez-vous par "emprunter"?
 88)  MOTEL GIRL
-Donnez-le-moi. Je ne peux pas, vous savez, donnez-le-moi et - il n'y aura plus de problèmes.
+Donnez-le-moi. Je ne peux pas, vous savez, donnez-le-moi et... il n'y aura plus de problèmes.
 89)  LEE
 Whoa whoa whoa...
 90)  MOTEL GIRL
@@ -219,9 +219,9 @@ S'il vous plaît!
 99)  GLENN
 [falling yell/scream]
 100)  
-Donnez-lui.
+Donne-lui.
 101)  LEE
-Donnez-lui.
+Donne-lui.
 102)  CARLEY
 Quoi? tu n'es pas sérieux!
 103)  LEE
@@ -377,7 +377,7 @@ Rebroussons chemin.
 179)  LEE
 Rebroussons chemin.
 167)  
-Je m'excuse, ok?
+Je suis désolé, ok?
 168)  LEE
 Je m'excuse, d'accord?
 169)  GLENN
@@ -393,7 +393,7 @@ Reprenez le dessus, ok?
 175)  LEE
 Reprenez le dessus, ok?
 177)  LEE
-Je l'ai dit il faut s'en remettre. Vous ne pouvez pas aider tout le monde. Nous avons des gens à la pharmacie qui ont besoin de nous plus qu'elle en a besoin.
+Je l'ai dit il faut s'en remettre. Vous ne pouvez pas aider tout le monde. Nous avons des gens au magasin qui ont plus besoin de nous qu'elle.
 178)  GLENN
 Va te faire foutre, mec.
 180)  LEE
@@ -495,13 +495,13 @@ Sors ton arme.
 290)  CARLEY
 [pickup1] Mais le bruit...
 221)  LEE
-Faites comme moi ; restez derrière moi.
+Faites comme moi, restez derrière moi.
 285)  LEE
-Faites comme moi ; restez derrière moi.
+Faites comme moi, restez derrière moi.
 287)  LEE
-Faites comme moi ; restez derrière moi.
+Faites comme moi, restez derrière moi.
 291)  LEE
-Faites comme moi ; restez derrière moi.
+Faites comme moi, restez derrière moi.
 222)  LEE
 Je vais défoncer la cervelle de ce type.
 241)  LEE
@@ -573,7 +573,7 @@ Ow!
 251)  GLENN
 Hey mec, ça attire l'attention. Fais gaffe.
 252)  LEE
-Je vais essayer de péter les vitres.
+Je vais essayer de péter la vitre.
 253)  GLENN
 Ils vont t'entendre!
 254)  LEE
@@ -585,7 +585,7 @@ Merde. Je vais essayer de ne pas recommencer.
 257)  GLENN
 LEE! Sérieux mec! Ce serait bien ouais!
 258)  GLENN
-BIEN! Pas plus de bruit, mec, ou nous sommes foutus...
+BIEN! Pas plus de bruit, mec, ou on est foutus...
 259)  GLENN
 Qu'est-ce que tu vas faire avec ca?
 260)  LEE
@@ -593,9 +593,9 @@ Je ne sais pas vraiment. Tu sais comment je pourrais aller à l'intérieur de la v
 261)  GLENN
 Passe sans faire de bruit. Et pas avec un oreiller.
 263)  
-coussins
+coussin
 398)  
-coussins
+coussin
 264)  
 brique
 265)  GLENN
@@ -629,7 +629,7 @@ brique
 303)  LEE
 [pickup1]... Vous avez besoin de bien réfléchir sur ce point...
 304)  LEE
-[pickup1][ramping up intensity]...Nous allons te trouver un médecin, ça ira, C'est tout, viens, laisse...
+[pickup1][ramping up intensity]...Nous allons vous trouver un médecin, ça ira, C'est tout, venez, laisse...
 305)  LEE
 [pickup1]  Mademoiselle, détendez-vous maintenant...
 306)  LEE
@@ -643,17 +643,17 @@ brique
 309)  GLENN
 [pickup1][hushed][SUPER relieved] MEC! Oh mec, je suis content que tu sois là.
 310)  GLENN
-[pickup1][hushed]ECOUTER. J'étais ici à la recherche de gaz[continual sentence]
+[pickup1][hushed]ECOUTER. J'étais ici à la recherche d'essence[continual sentence]
 311)  GLENN
 [pickup1][hushed] Et puis, là-haut dans le coin, j'ai entendu des pleurs provenant de l'intérieur.
 312)  GLENN
 [pickup1][hushed] C'est une fille. Nous avons parlé et elle a eu peur. J'ai essayé d'entrer et de lui venir en aide et elle a commencé à crier et à dire que j'avais été mordu.
  313)  GLENN
-[pickup1][hushed]J'ai essayé de la convaincre que je ne l'étais pas et c'est à ce moment que tous ces gars sont sortis de la forêt. Deux m'ont presque eu et j'ai fini par me cacher dans la machine à glace.
+[pickup1][hushed]J'ai essayé de la convaincre que je ne l'étais pas et c'est à ce moment que tous ces gars sont sortis de la forêt. Deux m'ont presque eu et j'ai fini par me cacher là.
 314)  
 pousser
 315)  LEE
-[pickup1] Pourquoi ne resteriez vous pas derrière moi ; au cas où il y a un problème.
+[pickup1] Pourquoi ne resteriez vous pas derrière moi, au cas où il y ait un problème.
 316)  CARLEY
 [pickup1] Ok. Nous serons juste derrière toi.
 317)  LEE
@@ -673,9 +673,9 @@ pousser
 324)  GLENN
 [pickup2][quiet] Bougie. [emph plug]tu devrais la conserver, ça pourrait s'avérer utile.
 325)  GLENN
-[pickup2][hushed]La porcelaine à l'intérieur de ces choses transforme les vitres de la voiture en papier de soie.
+[pickup2][hushed]La porcelaine à l'intérieur de ces choses transforme les vitres de voiture en papier de soie.
 332)  GLENN
-[pickup2][hushed]La porcelaine à l'intérieur de ces choses transforme les vitres de la voiture en papier de soie.
+[pickup2][hushed]La porcelaine à l'intérieur de ces choses transforme les vitres de voiture en papier de soie.
 326)  GLENN
 [pickup2][hushed]Tu as pris cette bougie pour briser cette fenêtre?
 327)  GLENN
@@ -707,19 +707,19 @@ Attends-
 350)  CARLEY
 [pickup1] Hors de question, on doit y aller. MAINTENANT.
 353)  GLENN
-[pickup1][hushed] je suis son sauveur, avec ou sans vous.
+[pickup1][hushed] je serai son sauveur, avec ou sans vous.
 354)  LEE
 [pickup2][hushed] Diable il à raison, nous ne pouvons pas.
 355)  LEE
 [pickup2][hushed] Réfléchis, si c'était toi.
 356)  CARLEY
-[pickup1][hushed] Vous, les mecs vous êtes suicidaires. Plus d'une fille!
+[pickup1][hushed] Vous, les mecs vous êtes suicidaires. Juste pour une fille!
 357)  CARLEY
 [pickup1] [hushed] Très bien. Glenn allons sauver ta demoiselle en détresse
 358)  LEE
 [pickup2][hushed] DOUCEMENT. Le bruit attire ces choses. Maintenant, nous allons faire un tour.
 359)  LEE
-[pickup2][hushed] Ok, c'est le plan. Nous ne savons pas combien il va y en avoir à la sortie de cette pièce.
+[pickup2][hushed] Ok, c'est le plan. Nous ne savons pas combien il va y en avoir.
 360)  LEE
 [pickup2][hushed] Donc, nous devons tous les tuer.
 361)  GLENN
@@ -729,7 +729,7 @@ Attends-
 363)  GLENN
 [pickup1][hushed] Y en a un là-bas qui a essayé d'entrer dans une pièce, mais je n'ai vu personne.
 364)  GLENN
-[pickup1][hushed] La fille derrière cette porte -- elle semblait sur la piste.
+[pickup1][hushed] La fille derrière cette porte... elle semblait sur la piste.
 365)  GLENN
 [pickup1][hushed] J'en ai vu un qui se cache de l'autre côté de la voiture.
 366)  GLENN
@@ -739,7 +739,7 @@ Attends-
 368)  LEE
 [pickup2][hushed] On peut se cacher vers le camping-car si nous restons silencieux et gardons la tête baissée.
 369)  LEE
-[pickup2][hushed] Il ya une voiture sur des rampes.
+[pickup2][hushed] Il y a une voiture sur des rampes.
 370)  LEE
 [pickup2][hushed] On peut se cacher derrière ce pick-up.
 371)  LEE
@@ -809,7 +809,7 @@ Utiliser la hache sur
 399)  
 Deux par quatre
 400)  
-Poinçon
+Tournevis
 401)  
 Zombie
 402)  
@@ -831,11 +831,11 @@ Fenêtre
 410)  
 Arrêt d'urgence
 411)  GLENN
-[pickup1] [hushed] Soyez prudents et jetez un oeil aux alentours. S'ils nous flairent, nous sommes grillés.
+[pickup1] [hushed] Sois prudent et jette un oeil aux alentours. S'ils nous flairent, nous sommes grillés.
 412)  GLENN
-[pickup1][hushed] Jetez un coup d'oeil par dessus le mur.
+[pickup1][hushed] Jette un coup d'oeil par dessus le mur.
 413)  GLENN
-[pickup1][hushed] Nous pouvons probablement le faire par dessus le Camping-car ou par dessous le camion si nous sommes rapides et silencieux.
+[pickup1][hushed] Nous pouvons probablement passez derrière ce Camping-car ou derrière ce pick-up si nous sommes rapides et silencieux.
 414)  GLENN
 [pickup1][hushed] Si on veut tuer tous ces mecs il va falloir qu'on se faufile discrètement.
 415)  GLENN
@@ -857,11 +857,11 @@ Arrêt d'urgence
 422)  GLENN
 [pickup1][hushed] Nous allons avoir besoin d'armes.
 423)  GLENN
-[pickup1][hushed] tu as ce choix, mais je pourrais bien utiliser quelque chose.
+[pickup1][hushed] tu as cette pointe, mais je pourrais bien utiliser quelque chose.
 424)  GLENN
-[pickup1][hushed] [man,]J'espère que cette jeune fille va bien...
+[pickup1][hushed] [man,]J'espère que cette fille va bien...
 426)  GLENN
-[pickup1][hushed] [man,]J'espère que cette jeune fille va bien...
+[pickup1][hushed] [man,]J'espère que cette fille va bien...
 425)  GLENN
 [pickup1][hushed] Je pense que tu auras besoin de plus que tes poings, mec.
 427)  GLENN
@@ -869,7 +869,7 @@ Arrêt d'urgence
 428)  GLENN
 [pickup1][hushed] Elle est juste là-haut, les mecs.
 429)  GLENN
-[pickup1][hushed] Commençons à mettre ces types dehors..
+[pickup1][hushed] Commençons à neutraliser ces types..
 430)  GLENN
 [pickup1][hushed] Je suis inquiet au sujet de la fille là-haut.
 431)  GLENN
@@ -883,17 +883,17 @@ Arrêt d'urgence
 435)  GLENN
 [pickup1][hushed] Celui qui est assis est tout aussi dangereux que les autres.
 437)  GLENN
-[pickup1][hushed] Tu dois être prudent sur ce genre de rampe.
+[pickup1][hushed] Tu dois être prudent avec ce genre de rampe.
 438)  GLENN
 [pickup1][hushed]La sécurité d'abord, je suppose.
 439)  GLENN
-[pickup1][hushed] Nous pouvons avoir ce mec par le mur là-bas, je parie ...
+[pickup1][hushed] Nous pouvons avoir ce mec par le mur là-bas, je parie...
 440)  GLENN
-[pickup1][hushed] Tue-le, Lee - avant qu'il n'attire les autres!
+[pickup1][hushed] Tue-le, Lee, avant qu'il n'attire les autres!
 441)  GLENN
 [pickup1][hushed] Tu as besoin d'une autre arme, mec.
 442)  GLENN
-[pickup1][hushed] Soyez prudents face aux deux gars à l'étage.
+[pickup1][hushed] Sois prudent face aux deux gars à l'étage.
 443)  CARLEY
 [pickup1][hushed]Qu'est-ce que tu vois là-haut?
 444)  CARLEY
@@ -907,7 +907,7 @@ Arrêt d'urgence
 448)  CARLEY
 [pickup1][hushed] Nous devons tuer ces choses le plus rapidement possible...
 449)  CARLEY
-[pickup1][hushed] Il ya un camion là-bas. Peut-être que nous pourrons y trouver une arme.
+[pickup1][hushed] Il y a un pick-up là-bas. Peut-être que nous pourrons y trouver une arme.
 450)  CARLEY
 [pickup1][hushed] Tu nous guide vers la droite?
 451)  CARLEY
@@ -941,13 +941,13 @@ Arrêt d'urgence
 463)  CARLEY
 [pickup1][hushed]
 466)  CARLEY
-[pickup1][hushed] Vite! Avant qu'il en attire davantage!
+[pickup1][hushed] Vite! Avant qu'il en attire d'avantage!
 467)  CARLEY
 [pickup1][hushed] Euh, Lee, une arme?
 468)  CARLEY
-[pickup1][hushed] Nous essayerons de couvrir tes arrières, C'est une responsabilité d'avoir le flingue.
+[pickup1][hushed] J'essaierai de couvrir tes arrières, C'est une responsabilité d'avoir le flingue.
 469)  GLENN
-[pickup1][hushed] Au moment où nous nous dirigerons vers la voiture, il va faire suffisamment de bruit pour nous faire repérer.
+[pickup1][hushed] Au moment où nous nous dirigerons vers la voiture, il va falloir faire le moins de bruit possible afin de ne pas nous faire repérer. 
 470)  
 Atteindre
 472)  
@@ -999,9 +999,9 @@ Regardez-la. Donnez-lui s'il vous plaît.
 490)  CARLEY
 [pickup1] [relenting, sad] Ok, très bien.
 491)  LEE
-[pickup3] Quelqu'un doit rester pour récuperer l'arme. On ne peut pas la laisser. Vous deux continuez.
+[pickup3] Quelqu'un doit rester pour récupérer l'arme. On ne peut pas la laisser. Vous deux continuez.
 528)  LEE
-[pickup3] Quelqu'un doit rester pour récuperer l'arme. On ne peut pas la laisser. Vous deux continuez.
+[pickup3] Quelqu'un doit rester pour récupérer l'arme. On ne peut pas la laisser. Vous deux continuez.
 492)  CARLEY
 [pickup1][emotional moment]T'es sûr?
 526)  CARLEY
@@ -1035,15 +1035,15 @@ Regardez-la. Donnez-lui s'il vous plaît.
 529)  LEE
 [pickup3] Vous pouvez y aller.
 501)  
-Je suis ici avec toi.
+Je suis ici avec vous.
 502)  
 Au revoir.
 503)  
-Dieu vous benisse.
+Dieu vous bénisse.
 504)  MOTEL GIRL
 [pickup1]Vous êtes un homme bien.
 505)  LEE
-[pickup3] Je suis ici avec toi.
+[pickup3] Je suis ici avec vous.
 506)  MOTEL GIRL
 [pickup1] Au revoir.
 507)  LEE
@@ -1061,7 +1061,7 @@ Dieu vous bénisse vous aussi.
 513)  LEE
 [pickup3] Merde, je pense qu'il m'a vu.
 514)  LEE
-[pickup3] Oh mec, il pourrait m'avoir vu.
+[pickup3] Oh merde, il pourrait m'avoir vu.
 515)  LEE
 [pickup3] Merde, c'est sur nous.
 516)  LEE
@@ -1073,7 +1073,7 @@ Dieu vous bénisse vous aussi.
 519)  LEE
 [pickup3] [Phew] C'était proche.
 520)  LEE
-[pickup3] C'est euh, un, c'est une chose vive.
+[pickup3] C'est euh, un, c'est une bougie.
 524)  
 levier de vitesse 
 535)  

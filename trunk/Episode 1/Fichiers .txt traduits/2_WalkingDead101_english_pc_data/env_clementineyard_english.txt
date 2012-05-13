@@ -35,7 +35,7 @@ Test
 17)  LEE
 Quelque chose est arrivé à Savannah aussi. J'espère que tout va bien à Macon.
 18)  ANSWERING MACHINE
-Vous avez 3 nouveaux messages.
+Vous avez trois nouveaux messages.
 19)  ANSWERING MACHINE
 Message 1. Laissé à 17h43.
 20)  MAMAN
@@ -125,13 +125,13 @@ Ouvrir
 61)  CLEMENTINE
 [pickup1][just being shot at, close to Lee, hiding] On va mourir?
 62)  MITCHELL
-[distant, offscreen] J'ai trouvé ce batard!
+[distant, offscreen] J'ai trouvé ce bâtard!
 63)  
 Non.
 64)  
 Je ne sais pas.
 65)  
-Ils sont apres moi, pas vous.
+Ils sont après moi, pas vous.
 66)  
 [Garder le silence]
 75)  
@@ -159,7 +159,7 @@ Ils sont apres moi, pas vous.
 76)  
 OK!
 77)  
-Je viendrai discretement!
+Je viendrai discrètement!
 78)  
 Nous ne sommes pas des monstres!
 79)  LEE
@@ -223,8 +223,8 @@ Oh merde, vous avez une petite fille.
 105)  
 Choque.
 107)  
-J'etais confus.
+J'étais confus.
 108)  
 Tu es la loi, mec.
 109)  
-Je le pensais avant d'etre arrete.
+Je le pensais avant d'être arrêté.

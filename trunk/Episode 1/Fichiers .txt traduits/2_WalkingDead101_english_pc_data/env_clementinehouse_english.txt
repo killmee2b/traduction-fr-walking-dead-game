@@ -147,13 +147,13 @@ Et tu es toute seule?
 39)  LEE
 Quel âge as-tu?
 53)  
-Quel age as-tu?
+Quel âge as-tu?
 129)  LEE
 Quel âge as tu?
 192)  
-Quel age as-tu?
+Quel âge as-tu?
 210)  
-Quel age as-tu?
+Quel âge as-tu?
 40)  CLEMENTINE
 [Walkie-talkie processed] Je ne sais pas. Quelques nuits. Je vais bien, quoique. Je veux juste que ma mère et mon père rentrent à la maison.
 41)  LEE
@@ -165,11 +165,11 @@ Ouais, je suis vivant.
 49)  
 Tu vas bien?
 51)  
-Ou es-tu?
+Où es-tu?
 55)  
-Ou es-tu?
+Où es-tu?
 52)  
-Ou sont tes parents?
+Où sont tes parents?
 54)  
 Tu vas bien?
 56)  
@@ -239,7 +239,7 @@ Papa, c'est toi?
 84)  CLEMENTINE
 [Walkie-Talkie processed] [Talking to her Dad on a walkie talkie] Reviens... Tu me manques...
 85)  HINT
-Utilisez le répondeur
+Utiliser le répondeur
 86)  LEE
 {thinkingB} Qu'est-ce qui bippe?
 87)  LEE
@@ -267,7 +267,7 @@ Ouvrir
 96)  ACTION
 Regarder (le bazar)  
 97)  REPONDEUR
-3 nouveaux messages.
+Vous avez trois nouveaux messages.
 98)  LEE
 {fearA} Ces personnes pourraient avoir besoin de plus d'aide que moi.
 99)  LEE
@@ -275,7 +275,7 @@ Regarder (le bazar)
 100)  LEE
 {thinkingA} D'accord, donc cette merde est sur Savannah. {sadA} Je me demande si Macon a été frappée aussi.
 101)  MOM
-Clémentine? Bébé, si tu entends ça, appelle la police. Le 9-1-1. Nous t'aimons? Nous t'aimons? Nous t'aim-
+Clémentine? Bébé, si tu entends ça, appelle la police. Le 9-1-1. Nous t'aimons! Nous t'aimons! Nous t'aim-
 106)  LEE
 J'ai 37 ans.
 133)  LEE
@@ -353,7 +353,7 @@ J'ai 37 ans.
 148)  LEE
 {thinkingA} Hmm... La Maison des marais. C'est un code de zone de Savannah. {sadA} Mais c'est le type de note qu'on laisse à une baby-sitter...
 150)  LEE
-[to himself] {thinkingA} Il y a peut-être quelque chose là-bas.
+[to himself] {thinkingA} Il y a peut-être quelque chose ici.
 151)  CLEMENTINE
 [pickup1] Tu dois être silencieux.
 153)  LEE
@@ -423,7 +423,7 @@ Livre de coloriage
 212)  LEE
 Quelque chose s'est aussi passé à Savannah. J'espère que ça va à Macon.
 213)  ANSWERING MACHINE
-Vous avez 3 nouveaux messages.
+Vous avez trois nouveaux messages.
 214)  ANSWERING MACHINE
 Message 1. Laissé à 17h53.
 215)  MOM

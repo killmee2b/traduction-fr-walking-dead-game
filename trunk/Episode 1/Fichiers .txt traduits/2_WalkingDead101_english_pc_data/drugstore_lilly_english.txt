@@ -31,7 +31,7 @@
 14)  LILLY
 {sadA}J'essaye juste de le garder au calme.
 15)  LILLY
-{sadA}Il a un problème cardiaque. Il prend des comprimés de nitroglycérine assez régulièrement. {fearA}Il a déjà eu plusieurs attaques nécéssitant d'aller à l'hôpital.
+{sadA}Il a un problème cardiaque. Il prend des comprimés de nitroglycérine assez régulièrement. {fearA}Il a déjà eu plusieurs attaques lui nécéssitant d'aller à l'hôpital.
 16)  
 Qu'est-ce qui ne va pas avec lui?
 17)  LARRY
@@ -55,7 +55,7 @@ Il n'est pas commode.
 25)  LEE
 [Whisper, intimate convo distance]{ThinkingA}Il y a des enfants ici, {SadA}des familles.
 26)  LEE
-{SadB}Je dis juste que certaines personnes ne peuvent pas gérer un tempérament comme ça. {AngryA}On est tous dans la même merde.
+{SadB}Je dis juste que certaines personnes ne peuvent pas gérer un gars avec un tempérament comme ça. {AngryA}On est tous dans la même merde.
 27)  
 Il y a des enfants ici. Des familles.
 28)  LILLY
@@ -71,7 +71,7 @@ Tu es d'ici?
 34)  LEE
 {thinkingB}Je travaille à l'UGA.
 35)  LILLY
-{HappyA}Nan, je m'occupe juste de trucs adminitratifs. {AngryA}Je traite avec une bande d'abrutis et des bureaucrates toute la journée. {HappyA}Parfois un avion, si j'ai de la chance.
+{HappyA}Nan, je m'occupe juste de trucs adminitratifs. {AngryA}Je bosse avec une bande d'abrutis et des bureaucrates toute la journée. {HappyA}Parfois un avion, si j'ai de la chance.
 36)  LEE
 {ThinkingA}Tu es d'ici?
 37)  LILLY
@@ -79,7 +79,7 @@ Tu es d'ici?
 38)  LILLY
 {ThinkingA}Je travaille à Warner Robbins. {NormalA}La base aérienne.
 39)  
-Il y avait quelqu'un ici lors de votre arrivee?
+Il y avait quelqu'un ici quand vous êtes arrivés?
 40)  LILLY
 {SadA}Non cet endroit était déjà abandonné. {DisgustA}Nous avons sorti un couple du bureau.
 41)  LILLY
@@ -111,7 +111,7 @@ Il y avait quelqu'un ici lors de votre arrivee?
 54)  LILLY
 [intimate convo] {SadB}Oh.
 55)  
-Quand crois-tu que les militaires vont reprendre en main la situation?
+Quand crois-tu que les militaires vont reprendre les choses en main?
 56)  LILLY
 {SadB}Bon sang, je ne sais pas. {NormalC}Je n'étais pas au bureau quand papa et moi sommes venus chercher de l'aide ici. {ThinkingB}Il y a plusieurs jours que je n'ai plus vu de jets. {FearA}Et rien n'a changé.
 57)  LEE
@@ -129,7 +129,7 @@ Quand crois-tu que les militaires vont reprendre en main la situation?
 63)  LEE
 {ThinkingB}Nous avons besoin de rester ensemble pour nous en sortir.
 64)  
-Qu'est-ce que tu penses de tout cela?
+Qu'est-ce que tu penses de tout ça?
 65)  
 Quitter
 66)  LILLY
@@ -163,7 +163,7 @@ Quitter
 81)  LEE
 {HappyA}De rien.
 82)  LEE
-[pickup1] Hé, la fille a encore été attrapée.
+[pickup1] Hé, la petite a encore été attrapée.
 83)  LILLY
 [pickup1] Pour s'occuper de ces choses, il faut les attirer avec cette radio.
 84)  LILLY
@@ -183,7 +183,7 @@ Quitter
 87)  LEE
 [pickup1] Tu as raison. Et Clémentine était encore retenue par cette chose dans la salle de bain.
 88)  LILLY
-[pickup1] On doit juste être plus vigilant -- pour pas que cette radio nous tue tous.
+[pickup1] On doit juste être plus vigilant pour pas que cette radio nous tue tous.
 89)  LILLY
 [pickup1] Je sais que mon père n'était pas comme ça avant.
 90)  LEE
@@ -219,7 +219,7 @@ Also, BALLS.
 110)  LILLY
 [pickup1] {thinkingA}T'as pas besoin de me prendre pour {angryB}une conne devant ces gens.
 111)  LILLY
-[pickup1] {angryC}Je n'ai pas besoin de cette merde, ok? C'est {sadA}assez dur de garder des gens en vie{angryB}sans que quelqu'un ne vienne vous emmerder.
+[pickup1] {angryC}Je n'ai pas besoin de cette merde, ok? C'est {sadA}assez dur de garder des gens en vie{angryB} sans que quelqu'un ne vienne vous emmerder.
 114)  LILLY
 [pickup1] {sadB}Maintenant, son coeur s'emballe à nouveau, et {fearA}je ne peux rien faire.
 115)  LILLY
@@ -229,7 +229,7 @@ Also, BALLS.
 117)  LILLY
 [pickup1] {fearA}{body-a}Et...[quiet] Tu devrais {sadA}savoir que je n'étais pas d'accord avec lui.
 118)  LEE
-[pickup1] {disgustA}Tu n'as pas dit quoique ce soit. Et Duck pourrait avoir été mordu.
+[pickup1] {disgustA}Tu n'as pas dit quoi que ce soit. Et Duck pourrait avoir été mordu.
 119)  
 Parler à
 120)  

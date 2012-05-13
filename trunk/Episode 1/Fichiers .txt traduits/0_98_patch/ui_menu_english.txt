@@ -7,7 +7,7 @@ Partie 2
 4)  
 Partie 3
 5)  
-SELECT
+VALIDER
 6)  
 RETOUR
 7)  
@@ -29,7 +29,7 @@ MUSIQUE
 14)  
 SON
 15)  
-PARAMETRES GRAPHISMES
+PARAMETRES GRAPHIQUES
 16)  
 OK
 17)  
@@ -195,7 +195,7 @@ NO TIME LEFT
 93)  
 La progression est sauvegardée à chaque fois que cet indicateur est affiché. Ne pas se déconnecter ou éteindre votre console tant que l'icone est affichée à l'écran.
 94)  
-REWIND
+REMBOBINER
 95)  
 Checkpoint A
 96)  
@@ -453,7 +453,7 @@ STANDARD:
 223)  
 MINIMAL:
 224)  
-Plus d'aide d'allusions et de retour d'information
+Plus de notifications et de retour d'informations
 quand vous faites des choix importants.
 225)  
 Allusions et aide minimales.
@@ -516,7 +516,7 @@ AUDIOVISUEL
 249)  
 PARAMETRES AUDIOVISUELS
 250)  
-(Comprends un thème premium exclusif)
+(Comprends un thème premium exclusif)  
 251)  
 Enlève les allusions, l'aide 
 et les notifications de choix.

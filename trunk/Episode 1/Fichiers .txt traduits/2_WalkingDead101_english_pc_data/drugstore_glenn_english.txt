@@ -3,7 +3,7 @@
 2)  LEE
 {NormalC}{Body-A}Comment ça va, Glenn?
 3)  
-A propos de ce qu'il s'est passe au motel...
+A propos de ce qui s'est passé au motel...
 4)  GLENN
 {SadA}Je crois, mais c'est pas moi. {NormalB}J'ai pas l'intention de laisser tomber.
 5)  GLENN
@@ -13,7 +13,7 @@ A propos de ce qu'il s'est passe au motel...
 7)  LEE
 {ThinkingA}{Body-E}Tu sais quand les choses tournent mal, {angryC}les gens commencent à faire des conneries.
 8)  LEE
-{SadB}{Body-C}A propos de ce quui s'est passé au motel...
+{SadB}{Body-C}A propos de ce qui s'est passé au motel...
 9)  
 Qu'est-ce que tu peux me dire sur toi, Glenn?
 68)  
@@ -21,17 +21,17 @@ Qu'est-ce que tu peux me dire sur toi, Glenn?
 10)  LEE
 {ThinkingB}{Body-A}Qu'est-ce que tu peux me dire sur toi, Glenn?
 11)  GLENN
-{NormalB}{Body-StandA}Je livrais des pizzas dans le coin. {SadA}J'en ai livrée aux Everett plusieurs fois.
+{NormalB}{Body-StandA}Je livrais des pizzas dans le coin. {SadA}J'en ai livré aux Everett plusieurs fois.
 12)  GLENN
 Désolé, {AngryA}je veux dire, aux gens qui tenaient cette boutique. {SadA}Vraiment des gentilles personnes. {SadB}Ca me tue de voir cet endroit comme ça.
 13)  LEE
-{SadA}{Body-B}[heavy] N'est-ce pas la vérité.
+{SadA}{Body-B}[heavy] N'est-ce pas la vérité?
 14)  
 Quel est ton prochain coup?
 15)  GLENN
 {NormalA}{Body-StandA}J'en sais rien. Je veux dire, {HappyB}vous les gars, vous semblez bien.
 16)  LEE
-{ThinkingB}{Body-C}Tu veux juste sortir d'ici et essayer d'arranger les choses, je veux dire {SadA}sauver des gens où faire tout ce que tu peux.
+{ThinkingB}{Body-C}Tu veux juste sortir d'ici et essayer d'arranger les choses, je veux dire {SadA}sauver des gens ou faire tout ce que tu peux.
 17)  LEE
 {SadB}Tu as de la famille?
 18)  GLENN
@@ -59,9 +59,9 @@ Sortie
 29)  LEE
 {NormalB}Regarde, j'ai trouvé quelques snacks.
 30)  
-A propos de ce qui s'est passe la-bas...
+A propos de ce qui s'est passé là-bas...
 32)  
-Merci d'etre venu me chercher au motel.
+Merci d'être venu me chercher au motel.
 33)  LEE
 {ThinkingB}{Body-C}Tu n'aurais pas vu un objet pointu, comme une scie?
 34)  GLENN
@@ -97,7 +97,7 @@ C'est de la folie..
 57)  
 C'est de la folie..
 44)  LEE
-[to the group] {NormalC}Hé les gars, je sais que ça peut paraître dingue, {ThinkingA}mais Glenn et moi on sort une minute. {ThinkingB}Nous avons besoin d'une hâche si nous voulons aider Larry.
+[to the group] {NormalC}Hé les gars, je sais que ça peut paraître dingue, {ThinkingA}mais Glenn et moi on sort une minute. {ThinkingB}Nous avons besoin d'une hache si nous voulons aider Larry.
 53)  LEE
 [to the group] {NormalC}Hé les gars, je sais que ça peut paraître dingue, {ThinkingA}mais Glenn et moi on sort une minute. {ThinkingB}Nous avons besoin d'une hache si nous voulons aider Larry.
 45)  LEE
@@ -135,7 +135,7 @@ Glenn, {SadA}Ses amis sont peut-être venus la chercher, {AngryA}tu ne sais pas.
 69)  
 Tu connais la combinaison du cadenas dehors?
 70)  GLENN
-[pickup1]Tu ferais mieux de le casser si tu en a l'occasion.
+[pickup1]Tu ferais mieux de le casser si tu en as l'occasion.
 71)  LEE
 [pickup1] Oh tu sais, je pensais que je pourrais me dégourdir les jambes.
 72)  LEE
@@ -163,15 +163,15 @@ Donner la nourriture à
 84)  
 [Remain Silent]
 85)  
-Elle etait morte de toute façon.
+Elle était morte de toute manière.
 86)  
-Pitie.
+Pitié.
 87)  
 Elle ne voulait plus vivre.
 88)  LEE
-[pickup3] Elle était déjà morte de toute façon, tout ceux qui sont mordus finissent comme ça. C'en était fini pour elle.
+[pickup3] Elle était déjà morte de toute façon, tous ceux qui sont mordus finissent comme ça. C'en était fini pour elle.
 89)  GLENN
-[pickup2] Tu ferais mieux d'espérer de ne jamais te faire mordre, alors.
+[pickup2] Tu ferais bien d'espérer de ne jamais te faire mordre alors.
 90)  LEE
 [pickup3] Non... merde.
 91)  LEE
@@ -193,9 +193,9 @@ Elle ne voulait plus vivre.
 98)  
 Tu l'aurais fait?
 99)  
-Les gens ne doivent pas être abandonnes comme ca.
+Les gens ne doivent pas être abandonnés comme ça.
 100)  
-On a gaspille une balle.
+On a gaspillé une balle.
 101)  LEE
 [pickup3] Tu sais pourquoi.
 102)  LEE

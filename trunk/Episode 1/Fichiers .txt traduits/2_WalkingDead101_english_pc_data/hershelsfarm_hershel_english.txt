@@ -57,7 +57,7 @@ Je suivais ma route, c'est tout.
 25)  LEE
 ...
 26)  
-Mes parents sont a Macon.
+Mes parents sont à Macon.
 27)  
 Je n'ai plus de femme.
 28)  
@@ -85,7 +85,7 @@ Je cherchais de l'aide dans sa maison.
 40)  
 Une de ces choses a voulu me mordre et elle m'est venue en aide.
 41)  
-Ou voulez-vous en venir?
+Où voulez-vous en venir?
 42)  HERSHEL
 [judgmental, distrusting] {disgustA} Hmmmm. [like, is that so]
 43)  HERSHEL
@@ -99,7 +99,7 @@ Ou voulez-vous en venir?
 47)  
 Bien entendu.
 48)  
-Qu'est ce que c'est?
+Qu'est-ce que c'est?
 49)  
 Occupez-vous de vos affaires.
 51)  HERSHEL

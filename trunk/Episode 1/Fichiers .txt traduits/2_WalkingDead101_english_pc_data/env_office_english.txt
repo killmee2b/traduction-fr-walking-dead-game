@@ -15,7 +15,7 @@
 8)  LEE
 [to himself] {sadA}Je ne peux pas... {thinkingA}Je ne peux pas penser à eux ici.
 9)  LEE
-[to himself]{thinkingA} Mes parents sont venus ici en pensant survivre...{fearA} Mais l'un d'eux a l'air d'avoir été blessé. Je me demande si c'était mon père. En essayant d'être le héros, peut être. {sadA}Ou pour la protéger, du moins.
+[to himself]{thinkingA} Mes parents sont venus ici en pensant survivre...{fearA} Mais l'un d'eux a l'air d'avoir été blessé. Je me demande si c'était mon père. En essayant d'être le héros, peut-être. {sadA}Ou pour la protéger, du moins.
 10)  LEE
 {normalB} Heureusement, il n'y a rien dont j'ai besoin ici.
 11)  LEE
@@ -25,7 +25,7 @@
 13)  LEE
 {normalB}Un kit de premiers soins.
 14)  LEE
-{happyB}Tu veux  retourner à la pharmacie avec moi?
+{happyB}Tu veux  retourner au drugstore avec moi?
 15)  CLEMENTINE
 {happyB} Ok.
 16)  CLEMENTINE
@@ -39,9 +39,9 @@
 20)  LEE
 {surpriseA}Je... {normalD}Pourquoi me demande-tu ça?
 21)  
-Non. ca ne l'etait pas.
+Non. ça ne l'était pas.
 22)  
-C'est complique.
+C'est compliqué.
 23)  
 Ouais, une de ces choses.
 24)  LEE
@@ -113,11 +113,11 @@ J'ai mon talkie-walkie au cas où ils essayent.
 56)  LEE
 [to Clementine]{happyA} Ce serait mieux de désencombrer la porte, hein?
 57)  
-Comment fais tu?
+Comment fais-tu?
 58)  LEE
-Comment fais tu?
+Comment fais-tu?
 59)  
-Comment fais tu?
+Comment fais-tu?
 60)  
 Les choses sont effrayantes, hein?
 61)  LEE
@@ -159,11 +159,11 @@ Je pense.
 79)  CLEMENTINE
 [out of breath for]
 80)  LEE
-{happyA} D'accord, un peu plus loin.
+{happyA} Ok, encore un peu.
 81)  
-Parce qu'il sont morts.
+Parce qu'ils sont morts.
 82)  
-J'espère que non. C'est juste complique.
+J'espère que non. C'est juste compliqué.
 83)  CLEMENTINE
 [out of breath for a second]{thinkingA} Tu as des enfants?
 84)  CLEMENTINE
@@ -215,7 +215,7 @@ C'est comme le tennis en salle mais sans filet et contre un mur.
 106)  LEE
 {happyA} Je ne suis pas dingue de ça non plus.
 107)  CLEMENTINE
-[Short]{normalA}Oh. Ok. Je suis désolé.
+[Short]{normalA}Oh. Ok. Je suis désolée.
 108)  LEE
 {normalD} Bougeons juste ce truc.
 109)  LEE
@@ -231,7 +231,7 @@ Je suis desole de t'y avoir fait penser.
 114)  LEE
 {happyA} Tu ne savais pas.
 115)  CLEMENTINE
-[gasp]{fearA} Oh. Je suis désolé.
+[gasp]{fearA} Oh. Je suis désolée.
 116)  CLEMENTINE
 Pourquoi?
 117)  CLEMENTINE
@@ -405,9 +405,9 @@ Je ne vous fais pas confiance.
 171)  LEE
 {thinkingA} Je ferais mieux de ne pas y aller.
 172)  
-Verrouillee et barricadee
+Verrouillée et barricadée
 173)  
-Barricade, ne veux pas dire que c'est verrouille
+Barricadé, ne veux pas dire que c'est verrouillé.
 174)  LEE
 {thinkingA}C'est la porte de la pharmacie, nous devrions pouvoir trouver des pilules pour Larry là-dedans.
 176)  LEE
@@ -453,20 +453,20 @@ abc
 199)  
 Allée
 200)  LEE
-{happyB} Comment faites-vous?
+{happyB} Comment fais-tu?
 201)  LEE
 {fearA}Ca saigne?
 202)  CLEMENTINE
 [pickup1]J'ai mon talkie-walkie au cas où ils essaieraient cette voie.
 203)  CLEMENTINE
-{sadB}Je suis désolés de t'y avoir fait penser.
+{sadB}Je suis désolée de t'y avoir fait penser.
 204)  CLEMENTINE
 {thinkingA}
 Pourquoi?
 205)  
 Palette
 206)  CLEMENTINE
-{normalA} Qu'est ce que c'est?
+{normalA} Qu'est-ce que c'est?
 207)  LEE
 [pickup1] Ca a valu un coup de feu. Les clés y sont, je suppose.
 208)  LEE
@@ -510,7 +510,7 @@ Ouvrir
 298)  
 Ouvrir
 249)  
-Utilisez hache
+Utiliser hache
 250)  
 Examiner
 251)  
@@ -556,7 +556,7 @@ J'ai eu des problèmes, mais gardons ça pour nous.
 269)  
 Je ne suis pas mauvais.
 270)  
-J'ai... tue quelqu'un.
+J'ai... tué quelqu'un.
 271)  LEE
 [pickup3] Je peux relier.
 272)  LEE

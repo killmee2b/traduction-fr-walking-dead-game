@@ -95,7 +95,7 @@ Ugh!
 43)  LEE
 Il sera plus facile à transporter sans ces menottes.
 44)  LEE
-{normalD}Le fusil de l'officier est là-bas.
+{normalD}Le fusil de l'officier est là.
 45)  LEE
 {sadA}Pourquoi aurait-il eu {angryA}besoin de ça?
 46)  LEE
@@ -171,7 +171,7 @@ Ugh, c'est raide. Je ne vais pas pouvoir revenir jusqu'à la route pour trouver d
 82)  
 Fenêtre
 83)  
-Flic
+Officier
 84)  
 Clés
 85)  
