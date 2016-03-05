@@ -1,0 +1,1 @@
+Traduction du jeu The Walking Dead (Telltales) en VOSTFR
